@@ -62,7 +62,7 @@ const tokenise = (spec: string): string[] =>
 const isInt = (n: string): boolean => /^\d+$/.test(n);
 const isDay = (n: string): boolean => n in dayNames;
 const isMonth = (n: string): boolean => n in monthNames;
-const isSpecial = (n: string): n is SpecialName =>
+const isSpecialName = (n: string): n is SpecialName =>
   specialNames.includes(n as SpecialName);
 const isUnitName = (n: string): n is UnitName =>
   /^\w+:$/.test(n) && n.slice(0, -1) in ns.unitRange;
@@ -99,7 +99,7 @@ const parseCron = (spec: string): AST => {
     if (isUnitName(tok)) return unit(tok, need(atom()));
     if (isDay(tok)) return typed("dow", dayNames[tok]);
     if (isMonth(tok)) return typed("month", monthNames[tok]);
-    if (isSpecial(tok)) return { tag: "special", value: tok };
+    if (isSpecialName(tok)) return { tag: "special", value: tok };
     if (tok === "(") {
       const nest = union();
       if (tokens.shift() === ")") return nest;
@@ -189,6 +189,9 @@ const compose = <T>(...fn: ((arg: T) => T)[]) => (v: T) =>
   fn.reduce((v, f) => f(v), v);
 
 const isNumSet = (ast: AST): ast is NumSet => ast.tag === "numset";
+const isSpecial = (ast: AST): ast is Special => ast.tag === "special";
+const isLeaf = (ast: AST): ast is Special | NumSet =>
+  isNumSet(ast) || isSpecial(ast);
 const isUnit = (ast: AST): ast is Unit => ast.tag === "unit";
 const isRule = (ast: AST): ast is Rule => ast.tag === "rule";
 const isUnion = (ast: AST): ast is Union => ast.tag === "union";
@@ -197,7 +200,7 @@ const isIntersection = (ast: AST): ast is Intersection =>
 const isReverse = (ast: AST): ast is Reverse => ast.tag === "reverse";
 const isInvert = (ast: AST): ast is Invert => ast.tag === "invert";
 const isOperator = (ast: AST): ast is Operator =>
-  "children" in ast && !isRule(ast);
+  "children" in ast && !isRule(ast) && !isUnit(ast);
 
 const isConstant = <O extends Operator>(
   ast: Constant<O> | O,
@@ -206,6 +209,22 @@ const isConstant = <O extends Operator>(
 const isAllRules = <O extends Operator>(
   ast: AllRules<O> | O,
 ): ast is AllRules<O> => ast.children.every(isRule);
+
+const lowerReverse = walkTree({
+  pre: (ast) => {
+    if (isReverse(ast) && ast.children.length === 1) {
+      const [child] = ast.children;
+      if (isLeaf(child)) return;
+      return {
+        ...child,
+        children: child.children.map((child) => ({
+          tag: "reverse",
+          children: [child],
+        })),
+      } as AST;
+    }
+  },
+});
 
 const raiseRules = walkTree({
   post: (ast) => {
@@ -293,6 +312,7 @@ const foldConstants = walkTree({
 });
 
 const compile = compose(
+  lowerReverse,
   raiseRules,
   raiseUnits,
   flattenChildren,
@@ -302,7 +322,7 @@ const compile = compose(
 const crons = [
   // "0-3, 3/5 1-2, 4 * jan, mar, dec !!(TUE, THU | FRI)",
   // "* * * * * mon, fri",
-  "* (~(~1 2) | wed ~feb)",
+  "* ~(~(~1 2) | mon ~feb) ~(feb, apr-jun)",
   // "* * * mon, tue, wed",
   // "*/10 * (8-20 1-14 & 10 13,15) * ~3,5-10",
   // "* * * !3,5 * *",
