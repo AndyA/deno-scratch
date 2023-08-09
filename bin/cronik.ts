@@ -17,23 +17,24 @@ const specialNames = [
 
 type UnitName = keyof typeof ns.unitRange;
 type SpecialName = (typeof specialNames)[number];
+type Token = { pos?: number };
 
-type NumSet = { tag: "numset"; value: ns.NumSet };
-type Unit = { tag: "unit"; value: UnitName; children: AST[] };
-type Special = { tag: "special"; value: SpecialName };
+type NumSet = { tag: "numset"; value: ns.NumSet } & Token;
+type Unit = { tag: "unit"; value: UnitName; children: AST[] } & Token;
+type Special = { tag: "special"; value: SpecialName } & Token;
 
 // Unary operators
-type Reverse = { tag: "reverse"; children: [AST] };
-type Invert = { tag: "invert"; children: [AST] };
+type Reverse = { tag: "reverse"; children: AST[] } & Token;
+type Invert = { tag: "invert"; children: AST[] } & Token;
 
 // Binary operators
-type Range = { tag: "range"; children: [AST, AST] };
-type Step = { tag: "step"; children: [AST, AST] };
+type Range = { tag: "range"; children: AST[] } & Token;
+type Step = { tag: "step"; children: AST[] } & Token;
 
 // N-ary operators
-type Rule = { tag: "rule"; children: AST[] };
-type Union = { tag: "union"; children: AST[] };
-type Intersection = { tag: "intersection"; children: AST[] };
+type Rule = { tag: "rule"; children: AST[] } & Token;
+type Union = { tag: "union"; children: AST[] } & Token;
+type Intersection = { tag: "intersection"; children: AST[] } & Token;
 
 type ReTuple<T extends unknown[], V> = { [K in keyof T]: V };
 type AllChildren<T extends Operator, V extends AST> = {
@@ -46,9 +47,9 @@ type AllRules<T extends Operator> = AllChildren<T, Rule>;
 
 type Unary = Reverse | Invert;
 type Binary = Range | Step;
-type Nary = Rule | Union | Intersection;
+type Nary = Union | Intersection;
 type Operator = Unary | Binary | Nary;
-type AST = NumSet | Unit | Special | Operator;
+type AST = NumSet | Unit | Special | Operator | Rule;
 
 type MaybeAST = AST | undefined;
 type Parser = () => MaybeAST;
@@ -96,7 +97,7 @@ const parseCron = (spec: string): AST => {
     if (!tokens.length) return;
     const tok = tokens.shift() as string;
     if (tok === "*") return { tag: "numset", value: ns.fullSet };
-    if (isUnitName(tok)) return unit(tok, need(atom()));
+    if (isUnitName(tok)) return unit(tok.slice(0, -1), need(atom()));
     if (isDay(tok)) return typed("dow", dayNames[tok]);
     if (isMonth(tok)) return typed("month", monthNames[tok]);
     if (isSpecialName(tok)) return { tag: "special", value: tok };
@@ -311,18 +312,67 @@ const foldConstants = walkTree({
   },
 });
 
+type Cursor = { ast: AST; next: number };
+
+const walkPosition = (ast: AST, next: number): Cursor => {
+  const pos = next;
+  if (isOperator(ast) || isUnit(ast)) {
+    // All children have the same pos
+    const cursors = ast.children.map((child) => walkPosition(child, next));
+    const nexts = _.uniq(cursors.map((child) => child.next));
+    // All children must be the same width
+    if (nexts.length !== 1) {
+      throw new Error(`Mixed size rules: ${nexts.join(", ")}`);
+    }
+    const children = cursors.map((child) => child.ast);
+    return { ast: { pos, ...ast, children }, next: nexts[0] };
+  }
+
+  if (isRule(ast)) {
+    const children: AST[] = [];
+    // Children have incremental positions
+    for (const child of ast.children) {
+      const cursor = walkPosition(child, next);
+      next = cursor.next;
+      children.push(cursor.ast);
+    }
+    return { ast: { pos, ...ast, children }, next };
+  }
+
+  return { ast: { pos, ...ast }, next: next + 1 };
+};
+
+const addPositions = (ast: AST) => walkPosition(ast, 0).ast;
+
 const compile = compose(
   lowerReverse,
   raiseRules,
   raiseUnits,
   flattenChildren,
   foldConstants,
+  addPositions,
 );
+
+type UnitMap = Set<UnitName>[];
+
+const makeUnitMap = (ast: AST): UnitMap => {
+  const um: UnitMap = [];
+  walkTree({
+    pre: (ast) => {
+      if (ast.pos !== undefined) {
+        um[ast.pos] ||= new Set<UnitName>();
+        if (isUnit(ast)) um[ast.pos].add(ast.value);
+        return ast;
+      }
+    },
+  })(ast);
+  return um;
+};
 
 const crons = [
   // "0-3, 3/5 1-2, 4 * jan, mar, dec !!(TUE, THU | FRI)",
   // "* * * * * mon, fri",
-  "* ~(~(~1 2) | mon ~feb) ~(feb, apr-jun)",
+  "* (1 | ~1) (~(1 2) | ~feb sat,sun)",
   // "* * * mon, tue, wed",
   // "*/10 * (8-20 1-14 & 10 13,15) * ~3,5-10",
   // "* * * !3,5 * *",
@@ -332,9 +382,10 @@ for (const cron of crons) {
   // console.log(tokenise(cron));
   const ast = parseCron(cron);
   const compiled = compile(ast);
+  const unitMap = makeUnitMap(compiled);
   console.log(
     Deno.inspect(
-      { cron, ast, compiled },
+      { cron, ast, compiled, unitMap },
       { depth: 100, colors: true, compact: true },
     ),
   );
