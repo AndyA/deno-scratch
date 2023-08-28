@@ -57,21 +57,20 @@ const flipper = transform((node: Expr) => {
 });
 
 const format = (expr: Expr): string => {
-  const prec = (expr: Expr) => isBinOp(expr) ? precedence[expr.op] : 0;
-  const maybeWrap = (expr: Expr, wrap: boolean) =>
-    wrap ? `(${format(expr)})` : format(expr);
-  if (isBinOp(expr)) {
-    const p = prec(expr);
-    const lhs = maybeWrap(expr.lhs, prec(expr.lhs) > p);
-    const rhs = maybeWrap(
-      expr.rhs,
-      prec(expr.rhs) > p ||
-        (isBinOp(expr.rhs) && (expr.op === "-" || expr.op === "/")),
-    );
-    return `${lhs} ${expr.op} ${rhs}`;
-  }
+  if (!isBinOp(expr)) return String(expr.value);
 
-  return String(expr.value);
+  const prec = (expr: Expr) => isBinOp(expr) ? precedence[expr.op] : 0;
+  const paren = (expr: Expr, wrap: boolean) =>
+    wrap ? `(${format(expr)})` : format(expr);
+
+  const p = prec(expr);
+  const rp = prec(expr.rhs);
+  const lhs = paren(expr.lhs, prec(expr.lhs) > p);
+  const rhs = paren(
+    expr.rhs,
+    rp > p || (rp === p && (expr.op === "-" || expr.op === "/")),
+  );
+  return `${lhs} ${expr.op} ${rhs}`;
 };
 
 type Strategy = {
@@ -119,6 +118,18 @@ const solve = (want: number, terms: Atom[]): Expr | undefined => {
   }
 };
 
+const search = (want: number, terms: Atom[]): [number, Expr] => {
+  const got = solve(want, terms);
+  if (got) return [want, got];
+
+  for (let span = 1;; span++) {
+    const low = solve(want - span, terms);
+    if (low) return [want - span, low];
+    const high = solve(want + span, terms);
+    if (high) return [want + span, high];
+  }
+};
+
 type Game = {
   want: number;
   have: number[];
@@ -127,27 +138,32 @@ type Game = {
 const games: Game[] = [
   { want: 2, have: [1, 1, 1, 1, 1, 1, 1] },
   { want: 0, have: [1, 1] },
-  { want: 100, have: [25, 3, 1] },
   { want: 57, have: [100, 3, 1, 7] },
   { want: 98, have: [25, 7, 3, 17, 18] },
   { want: 99, have: [100, 3, 3] },
-  { want: 447, have: [100, 75, 25, 50, 2, 1] },
+  { want: 45, have: [100, 75, 25, 50, 2, 1] },
   { want: 446, have: [100, 75, 25, 50, 2, 1] },
-  { want: 445, have: [100, 75, 25, 50, 2, 1] },
-  { want: 444, have: [100, 75, 25, 50, 2, 1] },
-  { want: 443, have: [100, 75, 25, 50, 2, 1] },
   { want: 442, have: [100, 75, 25, 50, 2, 1] },
   { want: 441, have: [100, 75, 25, 50, 2, 1] },
+  { want: 1238, have: [100, 75, 50, 9, 8, 3] },
+  { want: 1937, have: [100, 75, 50, 9, 8, 3] },
 ];
 
 for (const { want, have } of games) {
-  const best = solve(want, have.map((value) => ({ value })));
+  const [value, best] = search(want, have.map((value) => ({ value })));
   if (best) {
     const opt = flipper(best);
     const rep = format(opt);
     const got = eval(rep);
-    if (got === want) console.log(`${want} = ${rep}`);
-    else console.log(`${want} != ${rep}, got ${got}`);
+    if (got === value) {
+      if (want === value) {
+        console.log(`${value} = ${rep}`);
+      } else {
+        console.log(`${want} != ${value} = ${rep}`);
+      }
+    } else {
+      console.log(`${value} != ${rep}, got ${got}`);
+    }
   } else {
     console.log(`${want}: can't solve`);
   }
