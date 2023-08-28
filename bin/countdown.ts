@@ -9,7 +9,8 @@ interface Atom extends Term {
   value: number;
 }
 
-type Op = "+" | "*";
+const precedence = { "*": 1, "+": 2 } as const;
+type Op = keyof typeof precedence;
 
 interface Operator extends Term {
   op: Op;
@@ -125,23 +126,40 @@ const evaluate = (expr: Expr): number => {
   );
 };
 
+const format = (expr: Expr): string => {
+  if (!isOperator(expr)) return String(expr.value);
+  const prec = (expr: Expr) => isOperator(expr) ? precedence[expr.op] : 0;
+  const children: [Expr, string][] = expr.children.map((
+    child,
+  ) => [
+    child,
+    prec(child) > prec(expr) ? `(${format(child)})` : format(child),
+  ]);
+  const [fwd, rev] = expr.op === "+" ? ["+", "-"] : ["×", "÷"];
+
+  return children.reduce(
+    (acc, [expr, rep]) => `${acc} ${expr.reversed ? rev : fwd} ${rep}`,
+    "",
+  ).slice(3);
+};
+
 type Game = {
   want: number;
   have: number[];
 };
 
 const games: Game[] = [
-  // { want: 3, have: [1, 1, 1, 1, 1, 1, 1] },
-  // { want: 0, have: [1, 1] },
-  // { want: 57, have: [100, 3, 1, 7] },
-  // { want: 98, have: [25, 7, 3, 17, 18] },
-  // { want: 99, have: [100, 3, 3] },
-  // { want: 45, have: [100, 75, 25, 50, 2, 1] },
-  // { want: 446, have: [100, 75, 25, 50, 2, 1] },
-  // { want: 442, have: [100, 75, 25, 50, 2, 1] },
+  { want: 3, have: [1, 1, 1, 1, 1, 1, 1] },
+  { want: 0, have: [1, 1] },
+  { want: 57, have: [100, 3, 1, 7] },
+  { want: 98, have: [25, 7, 3, 17, 18] },
+  { want: 99, have: [100, 3, 3] },
+  { want: 45, have: [100, 75, 25, 50, 2, 1] },
+  { want: 446, have: [100, 75, 25, 50, 2, 1] },
+  { want: 442, have: [100, 75, 25, 50, 2, 1] },
   { want: 441, have: [50, 2, 1, 100, 75, 25] },
-  // { want: 1238, have: [100, 75, 50, 9, 8, 3] },
-  // { want: 1937, have: [100, 75, 50, 9, 8, 3] },
+  { want: 1238, have: [100, 75, 50, 9, 8, 3] },
+  { want: 1937, have: [100, 75, 50, 9, 8, 3] },
 ];
 
 for (const { want, have } of games) {
@@ -149,10 +167,7 @@ for (const { want, have } of games) {
   if (isDefined(got)) {
     const opt = sortExpr(flatten(got));
     const value = evaluate(opt);
-    console.log(
-      `${want}/${value} =`,
-      Deno.inspect(opt, { colors: true, depth: 100 }),
-    );
+    console.log(`${want}/${value} = ${format(opt)}`);
   } else {
     console.log(`${want}: no match`);
   }
