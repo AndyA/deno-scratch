@@ -30,10 +30,10 @@ const isDefined = <T>(obj: T | undefined): obj is T => obj !== undefined;
 
 const atom = (value: number): Atom => ({ reversed: false, value });
 
-const operator = (op: Op, lhs: Expr, rhs: Expr): Operator => ({
+const operator = (op: Op, ...children: NonEmpty<Expr>): Operator => ({
   reversed: false,
   op,
-  children: [lhs, rhs],
+  children,
 });
 
 const reverse = ({ reversed, ...rest }: Expr) => ({
@@ -151,6 +151,7 @@ type Game = {
 const games: Game[] = [
   { want: 3, have: [1, 1, 1, 1, 1, 1, 1] },
   { want: 0, have: [1, 1] },
+  { want: 5, have: [12, 3, 1] },
   { want: 57, have: [100, 3, 1, 7] },
   { want: 98, have: [25, 7, 3, 17, 18] },
   { want: 99, have: [100, 3, 3] },
