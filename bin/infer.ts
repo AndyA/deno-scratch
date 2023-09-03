@@ -1,66 +1,25 @@
-type JobDone = {
-  topic: "job/done";
-  payload: { name: string };
-};
+const example = {
+  a: { b: "red", c: "green" },
+  d: { e: "blue", f: "yellow" },
+  g: "pink",
+  h: { i: { j: { k: "gray", l: "grey" } } },
+} as const;
 
-type JobStart = {
-  topic: "job/start";
-  payload: { sequence: number };
-};
-
-type SessionDone = {
-  topic: "session/done";
-  payload: { id: number };
-};
-
-type Message = JobDone | JobStart | SessionDone;
-
-type OneSpace = " " | "\t";
-type WhiteSpace<S extends string> = S extends OneSpace ? " "
-  : S extends `${OneSpace}${infer Tail}` ? WhiteSpace<Tail>
+type FlattenKeys<
+  T extends Record<string, unknown>,
+  Key = keyof T,
+> = Key extends string
+  ? T[Key] extends Record<string, unknown> ? `${Key}.${FlattenKeys<T[Key]>}`
+  : `${Key}`
   : never;
 
-// type F1 = WhiteSpace<"\t">;
-
-type WildCard<T extends string> = T extends `${infer Head}/${infer Tail}`
-  ? `*/${WildCard<Tail>}` | `${Head}/${WildCard<Tail>}`
-  : "*" | T;
-
-type Topic = WildCard<Message["topic"]>;
-
-type WithTopic<T> = Message & { topic: T };
-
-type Matches<T extends string, U extends { topic: string }> = T extends
-  WildCard<U["topic"]> ? U : never;
-
-type Glob<T extends string> = {
-  [K in Message["topic"]]: Matches<T, WithTopic<K>>;
-}[Message["topic"]];
-
-type XX = Glob<"job/*">;
-
-type Foo = Matches<"job/*", SessionDone>;
-type Bar = Matches<"job/*", JobDone>;
-
-type MessageFor<T extends string> = T extends WildCard<T> ? WithTopic<T>
+type ResolveKey<T, K> = K extends `${infer Head}.${infer Tail}`
+  ? Head extends keyof T ? ResolveKey<T[Head], Tail> : never
+  : K extends keyof T ? T[K]
   : never;
 
-const subscribe = <T extends Message["topic"]>(
-  topic: WildCard<T>,
-  listener: (message: MessageFor<T>) => void,
-) => {
-  void topic;
-  void listener;
+type Flatten<T extends Record<string, unknown>> = {
+  [K in FlattenKeys<T>]: ResolveKey<T, K>;
 };
 
-subscribe("job/start", (message) => {
-  console.log(message.payload.sequence);
-});
-
-subscribe("job/done", (message) => {
-  console.log(message.payload.name);
-});
-
-subscribe("job/*", (message) => {
-  console.log(message.payload);
-});
+type FlatKeys = Flatten<typeof example>;
