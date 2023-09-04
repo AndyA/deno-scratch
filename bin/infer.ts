@@ -25,6 +25,10 @@ type Resolve<P, T> = ResolveDeep<ParsePath<P>, T>;
 type ResolvePath<JP, T> = JP extends `\$${infer Key}` ? Resolve<Key, T>
   : never;
 
+type CleanPath<P> = P extends `${infer Head}[*]${infer Tail}`
+  ? `${Head}${CleanPath<Tail>}`
+  : P;
+
 // Extract paths from type
 
 type FindNext<P extends string, T> = T extends
@@ -36,6 +40,10 @@ type ListPaths<T> = T extends readonly unknown[] ? {
       : FindNext<`[*]`, T[number]>;
   }[number]
   : never;
+
+// type ListPathsWild<T> = T extends readonly unknown[]
+//   ? FindNext<`[*]`, T[number]>
+//   : never;
 
 type ObjectPaths<T> = T extends Record<string, unknown> ? {
     [K in keyof T]: K extends string ? FindNext<`.${K}`, T[K]> : never;
@@ -70,7 +78,7 @@ export type T8 = Flatten<OT>;
 
 type Thing = {
   name: string;
-  tags: string[];
+  tags: string[][];
   author: { name: string; email: string };
 };
 
