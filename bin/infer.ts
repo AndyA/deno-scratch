@@ -1,19 +1,17 @@
-type ParsePath<Path> = Path extends `[${infer Idx extends number}]` ? [Idx]
-  : Path extends `.${infer Head}.${infer Rest}`
-    ? Head extends `${infer Before}[${infer After}`
-      ? [Before, ...ParsePath<`[${After}.${Rest}`>]
-    : [Head, ...ParsePath<`.${Rest}`>]
-  : Path extends `.${infer Head}[${infer Rest}`
-    ? Head extends `.${infer Before}.${infer After}`
-      ? [Before, ...ParsePath<`.${After}`>]
-    : [Head, ...ParsePath<`[${Rest}`>]
-  : Path extends `[${infer Idx extends number}]${infer Rest}`
-    ? [Idx, ...ParsePath<Rest>]
-  : Path extends `.${infer Head}` ? [Head]
+type ParseDots<P> = "" extends P ? []
+  : P extends `.${infer Head}.${infer Tail}` ? [Head, ...ParseDots<`.${Tail}`>]
+  : P extends `.${infer Head}` ? [Head]
   : never;
 
-type ResolveKey<K, T> = K extends string
-  ? T extends Record<string, unknown> ? T[K] : never
+type ParsePath<P> = "" extends P ? []
+  : P extends `${infer Head}[${infer Idx extends number}]${infer Tail}`
+    ? [...ParseDots<Head>, Idx, ...ParsePath<Tail>]
+  : P extends `${infer Head}[*]${infer Tail}`
+    ? [...ParseDots<Head>, "*", ...ParsePath<Tail>]
+  : ParseDots<P>;
+
+type ResolveKey<K, T> = "*" extends K ? T extends readonly unknown[] ? T : never
+  : K extends string ? T extends Record<string, unknown> ? T[K] : never
   : K extends number ? T extends readonly unknown[] ? T[K] : never
   : never;
 
@@ -31,8 +29,6 @@ type ResolvePath<JP, T> = JP extends `\$${infer Key}` ? Resolve<Key, T>
 
 type FindNext<P extends string, T> = T extends
   readonly unknown[] | Record<string, unknown> ? `${P}${Finder<T>}` : `${P}`;
-
-// type FindNext<P extends string, T> = `${P}${Finder<T>}`;
 
 type ListPaths<T> = T extends readonly unknown[] ? {
     [K in keyof T]: K extends `${infer Idx extends number}`
@@ -82,6 +78,8 @@ export type FlatThing = Flatten<Thing>;
 
 export type Foo = ParsePath<".list[3][12].hello.foo">;
 export type Bar = ParsePath<".tags[0]">;
-export type Baz = ParsePath<"[3].tags[0]">;
+export type Baz = ParsePath<"[3].tags[*]">;
 
 export type F1 = Resolve<".list[3].name", typeof obj>;
+
+type F2 = ParsePath<".hello[2][4].world[3]">;
