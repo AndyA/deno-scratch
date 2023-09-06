@@ -25,10 +25,6 @@ type Resolve<P, T> = ResolveDeep<ParsePath<P>, T>;
 type ResolvePath<JP, T> = JP extends `\$${infer Key}` ? Resolve<Key, T>
   : never;
 
-type CleanPath<P> = P extends `${infer Head}[*]${infer Tail}`
-  ? `${Head}${CleanPath<Tail>}`
-  : P;
-
 // Extract paths from type
 
 type FindNext<P extends string, T> = T extends
