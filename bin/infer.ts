@@ -1,3 +1,5 @@
+// Parse paths
+
 type ParseDots<P> = "" extends P ? []
   : P extends `.${infer Head}.${infer Tail}` ? [Head, ...ParseDots<`.${Tail}`>]
   : P extends `.${infer Head}` ? [Head]
@@ -6,12 +8,12 @@ type ParseDots<P> = "" extends P ? []
 type ParsePath<P> = "" extends P ? []
   : P extends `${infer Head}[${infer Idx extends number}]${infer Tail}`
     ? [...ParseDots<Head>, Idx, ...ParsePath<Tail>]
-  : P extends `${infer Head}[${number}]${infer Tail}`
-    ? [...ParseDots<Head>, number, ...ParsePath<Tail>]
   : ParseDots<P>;
 
-type ResolveKey<K, T> = "*" extends K ? T extends readonly unknown[] ? T : never
-  : K extends string ? T extends Record<string, unknown> ? T[K] : never
+// Resolve path to type
+
+type ResolveKey<K, T> = K extends string
+  ? T extends Record<string, unknown> ? T[K] : never
   : K extends number ? T extends readonly unknown[] ? T[K] : never
   : never;
 
@@ -21,9 +23,6 @@ type ResolveDeep<P, T> = [] extends P ? T
   : never;
 
 type Resolve<P, T> = ResolveDeep<ParsePath<P>, T>;
-
-type ResolvePath<JP, T> = JP extends `\$${infer Key}` ? Resolve<Key, T>
-  : never;
 
 // Extract paths from type
 
@@ -44,11 +43,22 @@ type ObjectPaths<T> = T extends Record<string, unknown> ? {
 
 type Finder<T> = ObjectPaths<T> | ListPaths<T>;
 
-type FindPaths<T> = `\$${Finder<T>}`;
+// JSONPath shim
 
-type Flatten<T> = {
-  [K in FindPaths<T> as K]: ResolvePath<K, T>;
+type ResolveJP<JP, T> = JP extends `\$${infer Key}` ? Resolve<Key, T>
+  : never;
+
+type FindJP<T> = `\$${Finder<T>}`;
+
+type ParseJP<JP> = JP extends `\$${infer Key}` ? ParsePath<Key> : never;
+
+// Collapse object
+
+type Collapse<T> = {
+  [K in FindJP<T> as K]: ResolveJP<K, T>;
 };
+
+// Expand objects
 
 const list = ["Hello", true, 3, {
   name: "Andy",
@@ -62,11 +72,8 @@ const obj2 = { list: list2 } as const;
 
 type OT = typeof obj | typeof obj2;
 
-export type T0 = ResolvePath<"$.list[3].name", typeof obj>;
-export type T5 = FindPaths<OT>;
-export type T6 = Flatten<typeof obj>;
-export type T7 = Flatten<typeof list>;
-export type T8 = Flatten<OT>;
+export type T0 = Collapse<typeof obj>;
+export type T1 = Collapse<OT>;
 
 type Thing = {
   name: string;
@@ -74,7 +81,7 @@ type Thing = {
   author: { name: string; email: string };
 };
 
-export type FlatThing = Flatten<Thing>;
+export type FlatThing = Collapse<Thing>;
 
 const foo: FlatThing = {
   "$.author.email": "andy@hexten.net",
@@ -82,6 +89,19 @@ const foo: FlatThing = {
   "$.name": "Foo",
   "$.tags[0][0]": "Hello",
   "$.tags[0][1]": "Again",
-};
+} as const;
+
+type FlatPaths<T> = T extends Record<string, unknown>
+  ? { [K in keyof T]: ParseJP<K> }[keyof T]
+  : never;
+
+type PathHead<P> = P extends readonly [infer Head, ...infer Tail] ? Head
+  : never;
+type PathTail<P> = P extends readonly [infer Head, ...infer Tail] ? Tail
+  : never;
+
+type T2 = FlatPaths<typeof foo>;
+type T3 = PathHead<T2>;
+type T4 = PathTail<T2>;
 
 console.log(foo);
