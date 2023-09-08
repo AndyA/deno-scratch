@@ -6,8 +6,8 @@ type ParseDots<P> = "" extends P ? []
 type ParsePath<P> = "" extends P ? []
   : P extends `${infer Head}[${infer Idx extends number}]${infer Tail}`
     ? [...ParseDots<Head>, Idx, ...ParsePath<Tail>]
-  : P extends `${infer Head}[*]${infer Tail}`
-    ? [...ParseDots<Head>, "*", ...ParsePath<Tail>]
+  : P extends `${infer Head}[${number}]${infer Tail}`
+    ? [...ParseDots<Head>, number, ...ParsePath<Tail>]
   : ParseDots<P>;
 
 type ResolveKey<K, T> = "*" extends K ? T extends readonly unknown[] ? T : never
@@ -33,13 +33,9 @@ type FindNext<P extends string, T> = T extends
 type ListPaths<T> = T extends readonly unknown[] ? {
     [K in keyof T]: K extends `${infer Idx extends number}`
       ? FindNext<`[${Idx}]`, T[Idx]>
-      : FindNext<`[*]`, T[number]>;
+      : FindNext<`[${number}]`, T[number]>;
   }[number]
   : never;
-
-// type ListPathsWild<T> = T extends readonly unknown[]
-//   ? FindNext<`[*]`, T[number]>
-//   : never;
 
 type ObjectPaths<T> = T extends Record<string, unknown> ? {
     [K in keyof T]: K extends string ? FindNext<`.${K}`, T[K]> : never;
@@ -51,7 +47,7 @@ type Finder<T> = ObjectPaths<T> | ListPaths<T>;
 type FindPaths<T> = `\$${Finder<T>}`;
 
 type Flatten<T> = {
-  [K in FindPaths<T>]: ResolvePath<K, T>;
+  [K in FindPaths<T> as K]: ResolvePath<K, T>;
 };
 
 const list = ["Hello", true, 3, {
@@ -80,10 +76,12 @@ type Thing = {
 
 export type FlatThing = Flatten<Thing>;
 
-export type Foo = ParsePath<".list[3][12].hello.foo">;
-export type Bar = ParsePath<".tags[0]">;
-export type Baz = ParsePath<"[3].tags[*]">;
+const foo: FlatThing = {
+  "$.author.email": "andy@hexten.net",
+  "$.author.name": "Andy Armstrong",
+  "$.name": "Foo",
+  "$.tags[0][0]": "Hello",
+  "$.tags[0][1]": "Again",
+};
 
-export type F1 = Resolve<".list[3].name", typeof obj>;
-
-type F2 = ParsePath<".hello[2][4].world[3]">;
+console.log(foo);
