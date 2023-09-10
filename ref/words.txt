@@ -1,0 +1,12842 @@
+Needle: aback
+1 trace: bbggb
+2 shack: bbggg
+3 black: ybggg
+4 aback: ggggg
+
+Needle: abase
+1 trace: bbgbg
+2 slave: ybgbg
+3 abase: ggggg
+
+Needle: abate
+1 trace: ybgbg
+2 slate: bbggg
+3 agate: gbggg
+4 abate: ggggg
+
+Needle: abbey
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: gbbgb
+4 abbey: ggggg
+
+Needle: abbot
+1 trace: ybybb
+2 satin: byybb
+3 float: bbyyg
+4 abbot: ggggg
+
+Needle: abhor
+1 trace: byybb
+2 manor: bybgg
+3 abhor: ggggg
+
+Needle: abide
+1 trace: bbybg
+2 alive: gbgbg
+3 abide: ggggg
+
+Needle: abled
+1 trace: bbyby
+2 penal: bybyy
+3 abled: ggggg
+
+Needle: abode
+1 trace: bbybg
+2 alive: gbbbg
+3 abode: ggggg
+
+Needle: abort
+1 trace: yyybb
+2 warty: byyyb
+3 abort: ggggg
+
+Needle: about
+1 trace: ybybb
+2 satin: byybb
+3 bloat: ybgyg
+4 about: ggggg
+
+Needle: above
+1 trace: bbybg
+2 alive: gbbgg
+3 above: ggggg
+
+Needle: abuse
+1 trace: bbybg
+2 alive: gbbbg
+3 adobe: gbbyg
+4 abuse: ggggg
+
+Needle: abyss
+1 trace: bbybb
+2 salon: yybbb
+3 amiss: gbbgg
+4 abyss: ggggg
+
+Needle: acorn
+1 trace: byyyb
+2 coral: yyyyb
+3 acorn: ggggg
+
+Needle: acrid
+1 trace: byyyb
+2 carol: yygbb
+3 scrap: bggyb
+4 acrid: ggggg
+
+Needle: actor
+1 trace: yyyyb
+2 actor: ggggg
+
+Needle: acute
+1 trace: ybyyg
+2 acute: ggggg
+
+Needle: adage
+1 trace: bbgbg
+2 slave: bbgbg
+3 image: bbggg
+4 adage: ggggg
+
+Needle: adapt
+1 trace: ybgbb
+2 slant: bbgbg
+3 adapt: ggggg
+
+Needle: adept
+1 trace: ybyby
+2 pleat: ybgyg
+3 adept: ggggg
+
+Needle: admin
+1 trace: bbybb
+2 salon: bybbg
+3 admin: ggggg
+
+Needle: admit
+1 trace: ybybb
+2 satin: byygb
+3 admit: ggggg
+
+Needle: adobe
+1 trace: bbybg
+2 alive: gbbbg
+3 abode: gygyg
+4 adobe: ggggg
+
+Needle: adopt
+1 trace: ybybb
+2 satin: byybb
+3 float: bbgyg
+4 about: gbgbg
+5 adopt: ggggg
+
+Needle: adore
+1 trace: byybg
+2 large: byybg
+3 afire: gbbgg
+4 adore: ggggg
+
+Needle: adorn
+1 trace: byybb
+2 manor: byyyy
+3 adorn: ggggg
+
+Needle: adult
+1 trace: ybybb
+2 satin: byybb
+3 bloat: bybyg
+4 adult: ggggg
+
+Needle: affix
+1 trace: bbybb
+2 salon: bybbb
+3 aphid: gbbgb
+4 affix: ggggg
+
+Needle: afire
+1 trace: byybg
+2 barge: byybg
+3 adore: gbbgg
+4 afire: ggggg
+
+Needle: afoot
+1 trace: ybybb
+2 satin: byybb
+3 float: ybgyg
+4 afoot: ggggg
+
+Needle: afoul
+1 trace: bbybb
+2 salon: byyyb
+3 modal: bybyg
+4 afoul: ggggg
+
+Needle: after
+1 trace: yyyby
+2 alter: gbggg
+3 after: ggggg
+
+Needle: again
+1 trace: bbgbb
+2 slain: bbggg
+3 again: ggggg
+
+Needle: agape
+1 trace: bbgbg
+2 slave: bbgbg
+3 image: bbgyg
+4 agape: ggggg
+
+Needle: agate
+1 trace: ybgbg
+2 slate: bbggg
+3 agate: ggggg
+
+Needle: agent
+1 trace: ybyby
+2 pleat: bbgyg
+3 agent: ggggg
+
+Needle: agile
+1 trace: bbybg
+2 angle: gbygg
+3 agile: ggggg
+
+Needle: aging
+1 trace: bbybb
+2 salon: bybby
+3 aping: gbggg
+4 aging: ggggg
+
+Needle: aglow
+1 trace: bbybb
+2 salon: byggb
+3 aglow: ggggg
+
+Needle: agony
+1 trace: bbybb
+2 salon: bybyy
+3 among: gbggy
+4 agony: ggggg
+
+Needle: agora
+1 trace: byybb
+2 manor: bybyy
+3 flora: bbggg
+4 agora: ggggg
+
+Needle: agree
+1 trace: byybg
+2 large: bygyg
+3 agree: ggggg
+
+Needle: ahead
+1 trace: bbyby
+2 penal: bybgb
+3 ahead: ggggg
+
+Needle: aider
+1 trace: byyby
+2 gamer: bybgg
+3 aider: ggggg
+
+Needle: aisle
+1 trace: bbybg
+2 alive: gyybg
+3 aisle: ggggg
+
+Needle: alarm
+1 trace: bygbb
+2 shark: bbggb
+3 award: gbggb
+4 alarm: ggggg
+
+Needle: album
+1 trace: bbybb
+2 salon: byybb
+3 album: ggggg
+
+Needle: alert
+1 trace: yyyby
+2 later: yyyyy
+3 alert: ggggg
+
+Needle: algae
+1 trace: bbybg
+2 alive: ggbbg
+3 algae: ggggg
+
+Needle: alibi
+1 trace: bbybb
+2 salon: byybb
+3 album: ggybb
+4 alibi: ggggg
+
+Needle: alien
+1 trace: bbyby
+2 pedal: bybyy
+3 alien: ggggg
+
+Needle: align
+1 trace: bbybb
+2 salon: byybg
+3 align: ggggg
+
+Needle: alike
+1 trace: bbybg
+2 alive: gggbg
+3 alike: ggggg
+
+Needle: alive
+1 trace: bbybg
+2 angle: gbbyg
+3 alike: gggbg
+4 alive: ggggg
+
+Needle: allay
+1 trace: bbybb
+2 salon: bygbb
+3 allay: ggggg
+
+Needle: alley
+1 trace: bbyby
+2 penal: bybyy
+3 abled: gbggb
+4 alley: ggggg
+
+Needle: allot
+1 trace: ybybb
+2 satin: byybb
+3 aloft: ggybg
+4 allot: ggggg
+
+Needle: allow
+1 trace: bbybb
+2 salon: byggb
+3 aglow: gbggg
+4 allow: ggggg
+
+Needle: alloy
+1 trace: bbybb
+2 salon: byggb
+3 allow: ggggb
+4 alloy: ggggg
+
+Needle: aloft
+1 trace: ybybb
+2 satin: byybb
+3 aloft: ggggg
+
+Needle: alone
+1 trace: bbybg
+2 angle: gybyg
+3 alone: ggggg
+
+Needle: along
+1 trace: bbybb
+2 salon: byyyy
+3 along: ggggg
+
+Needle: aloof
+1 trace: bbybb
+2 salon: byygb
+3 aloof: ggggg
+
+Needle: aloud
+1 trace: bbybb
+2 salon: byyyb
+3 modal: byyyy
+4 aloud: ggggg
+
+Needle: alpha
+1 trace: bbybb
+2 salon: byybb
+3 album: ggbbb
+4 alpha: ggggg
+
+Needle: altar
+1 trace: yyybb
+2 party: byyyb
+3 altar: ggggg
+
+Needle: alter
+1 trace: yyyby
+2 alter: ggggg
+
+Needle: amass
+1 trace: bbgbb
+2 slain: ybgbb
+3 amass: ggggg
+
+Needle: amaze
+1 trace: bbgbg
+2 slave: bbgbg
+3 image: bggbg
+4 amaze: ggggg
+
+Needle: amber
+1 trace: byyby
+2 gamer: byygg
+3 amber: ggggg
+
+Needle: amble
+1 trace: bbybg
+2 angle: gbbgg
+3 ample: ggbgg
+4 amble: ggggg
+
+Needle: amend
+1 trace: bbyby
+2 penal: byyyb
+3 ashen: gbbyy
+4 amend: ggggg
+
+Needle: amiss
+1 trace: bbybb
+2 salon: yybbb
+3 amiss: ggggg
+
+Needle: amity
+1 trace: ybybb
+2 satin: byyyb
+3 amity: ggggg
+
+Needle: among
+1 trace: bbybb
+2 salon: bybyy
+3 agony: gyggb
+4 among: ggggg
+
+Needle: ample
+1 trace: bbybg
+2 angle: gbbgg
+3 ample: ggggg
+
+Needle: amply
+1 trace: bbybb
+2 salon: byybb
+3 album: gybby
+4 amply: ggggg
+
+Needle: amuse
+1 trace: bbybg
+2 angle: gbbbg
+3 adobe: gbbbg
+4 amuse: ggggg
+
+Needle: angel
+1 trace: bbyby
+2 pedal: bybyg
+3 bagel: byggg
+4 angel: ggggg
+
+Needle: anger
+1 trace: byyby
+2 relay: yybyb
+3 gamer: yybgg
+4 anger: ggggg
+
+Needle: angle
+1 trace: bbybg
+2 alive: gybbg
+3 ample: gbbgg
+4 angle: ggggg
+
+Needle: angry
+1 trace: byybb
+2 manor: byyby
+3 angry: ggggg
+
+Needle: angst
+1 trace: ybybb
+2 satin: yyyby
+3 angst: ggggg
+
+Needle: anime
+1 trace: bbybg
+2 alive: gbgbg
+3 abide: gbgbg
+4 anime: ggggg
+
+Needle: ankle
+1 trace: bbybg
+2 alive: gybbg
+3 ample: gbbgg
+4 angle: ggbgg
+5 ankle: ggggg
+
+Needle: annex
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: gbbgy
+4 annex: ggggg
+
+Needle: annoy
+1 trace: bbybb
+2 salon: bybgy
+3 annoy: ggggg
+
+Needle: annul
+1 trace: bbybb
+2 salon: byyby
+3 annul: ggggg
+
+Needle: anode
+1 trace: bbybg
+2 angle: ggbbg
+3 anime: ggbbg
+4 anode: ggggg
+
+Needle: antic
+1 trace: ybyyb
+2 ascot: gbyby
+3 antic: ggggg
+
+Needle: anvil
+1 trace: bbybb
+2 salon: byyby
+3 anvil: ggggg
+
+Needle: aorta
+1 trace: yyybb
+2 warty: byggb
+3 aorta: ggggg
+
+Needle: apart
+1 trace: yygbb
+2 start: byggg
+3 apart: ggggg
+
+Needle: aphid
+1 trace: bbybb
+2 salon: bybbb
+3 affix: gbbgb
+4 aphid: ggggg
+
+Needle: aping
+1 trace: bbybb
+2 salon: bybby
+3 aging: gyggg
+4 aping: ggggg
+
+Needle: apnea
+1 trace: bbyby
+2 penal: yygyb
+3 apnea: ggggg
+
+Needle: apple
+1 trace: bbybg
+2 angle: gbbgg
+3 ample: gbggg
+4 apple: ggggg
+
+Needle: apply
+1 trace: bbybb
+2 salon: byybb
+3 album: gybbb
+4 apply: ggggg
+
+Needle: apron
+1 trace: byybb
+2 manor: byygy
+3 apron: ggggg
+
+Needle: aptly
+1 trace: ybybb
+2 satin: bygbb
+3 aptly: ggggg
+
+Needle: arbor
+1 trace: bgybb
+2 broad: ygyyb
+3 arbor: ggggg
+
+Needle: ardor
+1 trace: bgybb
+2 arbor: ggbgg
+3 ardor: ggggg
+
+Needle: arena
+1 trace: bgyby
+2 bread: bggyb
+3 arena: ggggg
+
+Needle: argue
+1 trace: bgybg
+2 arise: ggbbg
+3 argue: ggggg
+
+Needle: arise
+1 trace: bgybg
+2 arise: ggggg
+
+Needle: armor
+1 trace: bgybb
+2 broad: bgyyb
+3 armor: ggggg
+
+Needle: aroma
+1 trace: bgybb
+2 arbor: ggbyy
+3 aroma: ggggg
+
+Needle: arose
+1 trace: bgybg
+2 arise: ggbgg
+3 arose: ggggg
+
+Needle: array
+1 trace: bgybb
+2 arbor: ggbby
+3 array: ggggg
+
+Needle: arrow
+1 trace: bgybb
+2 arbor: ggbgy
+3 arrow: ggggg
+
+Needle: arson
+1 trace: bgybb
+2 broad: bgyyb
+3 arrow: ggygb
+4 armor: ggbgy
+5 arson: ggggg
+
+Needle: artsy
+1 trace: ygybb
+2 artsy: ggggg
+
+Needle: ascot
+1 trace: ybyyb
+2 cacti: yygyb
+3 ascot: ggggg
+
+Needle: ashen
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: ggggg
+
+Needle: aside
+1 trace: bbybg
+2 angle: gbbbg
+3 abode: gbbgg
+4 aside: ggggg
+
+Needle: askew
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: ggbgb
+4 askew: ggggg
+
+Needle: assay
+1 trace: bbybb
+2 salon: yybbb
+3 abyss: gbyyy
+4 assay: ggggg
+
+Needle: asset
+1 trace: ybyby
+2 pleat: bbyyg
+3 asset: ggggg
+
+Needle: atoll
+1 trace: ybybb
+2 satin: byybb
+3 aloft: gygby
+4 atoll: ggggg
+
+Needle: atone
+1 trace: ybybg
+2 baste: bybyg
+3 atone: ggggg
+
+Needle: attic
+1 trace: ybyyb
+2 ascot: gbyby
+3 antic: gbggg
+4 attic: ggggg
+
+Needle: audio
+1 trace: bbybb
+2 salon: bybyb
+3 avoid: gbygy
+4 audio: ggggg
+
+Needle: audit
+1 trace: ybybb
+2 satin: byygb
+3 admit: gybgg
+4 audit: ggggg
+
+Needle: augur
+1 trace: byybb
+2 manor: bybbg
+3 augur: ggggg
+
+Needle: aunty
+1 trace: ybybb
+2 satin: byyby
+3 aunty: ggggg
+
+Needle: avail
+1 trace: bbgbb
+2 slain: byggb
+3 avail: ggggg
+
+Needle: avert
+1 trace: yyyby
+2 alter: gbyyy
+3 avert: ggggg
+
+Needle: avian
+1 trace: bbybb
+2 salon: bybbg
+3 avian: ggggg
+
+Needle: avoid
+1 trace: bbybb
+2 salon: bybyb
+3 vodka: yyyby
+4 avoid: ggggg
+
+Needle: await
+1 trace: ybgbb
+2 slant: bbgbg
+3 adapt: gbgbg
+4 await: ggggg
+
+Needle: awake
+1 trace: bbgbg
+2 slave: bbgbg
+3 image: bbgbg
+4 awake: ggggg
+
+Needle: award
+1 trace: bygbb
+2 award: ggggg
+
+Needle: aware
+1 trace: bygbg
+2 share: bbggg
+3 flare: bbggg
+4 aware: ggggg
+
+Needle: awash
+1 trace: bbgbb
+2 slain: ybgbb
+3 awash: ggggg
+
+Needle: awful
+1 trace: bbybb
+2 salon: byybb
+3 album: gybgb
+4 awful: ggggg
+
+Needle: awoke
+1 trace: bbybg
+2 alive: gbbbg
+3 abode: gbgbg
+4 awoke: ggggg
+
+Needle: axial
+1 trace: bbybb
+2 salon: byybb
+3 album: gybbb
+4 apply: gbbyb
+5 axial: ggggg
+
+Needle: axiom
+1 trace: bbybb
+2 salon: bybgb
+3 axiom: ggggg
+
+Needle: axion
+1 trace: bbybb
+2 salon: bybgg
+3 axion: ggggg
+
+Needle: azure
+1 trace: byybg
+2 barge: byybg
+3 adore: gbbgg
+4 afire: gbbgg
+5 azure: ggggg
+
+Needle: bacon
+1 trace: bbyyb
+2 canal: ygyyb
+3 bacon: ggggg
+
+Needle: badge
+1 trace: bbybg
+2 angle: ybybg
+3 gauze: ygbbg
+4 badge: ggggg
+
+Needle: badly
+1 trace: bbybb
+2 salon: bgybb
+3 gaily: bgbgg
+4 badly: ggggg
+
+Needle: bagel
+1 trace: bbyby
+2 pedal: bybyg
+3 angel: ybggg
+4 bagel: ggggg
+
+Needle: baggy
+1 trace: bbybb
+2 salon: bgbbb
+3 magma: bggby
+4 baggy: ggggg
+
+Needle: baker
+1 trace: byyby
+2 relay: yybyb
+3 gamer: bgbgg
+4 safer: bgbgg
+5 parer: bgygg
+6 baker: ggggg
+
+Needle: baler
+1 trace: byyby
+2 relay: yygyb
+3 baler: ggggg
+
+Needle: balmy
+1 trace: bbybb
+2 salon: bggbb
+3 dally: bggyg
+4 balmy: ggggg
+
+Needle: banal
+1 trace: bbybb
+2 salon: bgyby
+3 manly: bggyb
+4 banal: ggggg
+
+Needle: banjo
+1 trace: bbybb
+2 salon: bgbyy
+3 banjo: ggggg
+
+Needle: barge
+1 trace: byybg
+2 barge: ggggg
+
+Needle: baron
+1 trace: byybb
+2 manor: bgygy
+3 baron: ggggg
+
+Needle: basal
+1 trace: bbybb
+2 salon: ygybb
+3 basal: ggggg
+
+Needle: basic
+1 trace: bbyyb
+2 canal: ygbyb
+3 macho: bgybb
+4 basic: ggggg
+
+Needle: basil
+1 trace: bbybb
+2 salon: ygybb
+3 basal: gggyg
+4 basil: ggggg
+
+Needle: basin
+1 trace: bbybb
+2 salon: ygbbg
+3 basin: ggggg
+
+Needle: basis
+1 trace: bbybb
+2 salon: ygbbb
+3 basis: ggggg
+
+Needle: baste
+1 trace: ybybg
+2 haste: bgggg
+3 baste: ggggg
+
+Needle: batch
+1 trace: ybygb
+2 patch: bgggg
+3 latch: bgggg
+4 batch: ggggg
+
+Needle: bathe
+1 trace: ybybg
+2 haste: ygbyg
+3 bathe: ggggg
+
+Needle: baton
+1 trace: ybybb
+2 satin: bggbg
+3 baton: ggggg
+
+Needle: batty
+1 trace: ybybb
+2 satin: bggbb
+3 fatty: bgggg
+4 batty: ggggg
+
+Needle: bawdy
+1 trace: bbybb
+2 salon: bgbbb
+3 magma: bgbby
+4 paddy: bgygg
+5 bawdy: ggggg
+
+Needle: bayou
+1 trace: bbybb
+2 salon: bgbgb
+3 bayou: ggggg
+
+Needle: beach
+1 trace: bbggy
+2 beach: ggggg
+
+Needle: beady
+1 trace: bbgby
+2 leafy: bggbg
+3 beady: ggggg
+
+Needle: beard
+1 trace: bygby
+2 yearn: bgggb
+3 heard: bgggg
+4 beard: ggggg
+
+Needle: beast
+1 trace: ybgby
+2 leant: bggbg
+3 feast: bgggg
+4 beast: ggggg
+
+Needle: beech
+1 trace: bbbgy
+2 belch: ggbgg
+3 beech: ggggg
+
+Needle: beefy
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbgby
+4 beefy: ggggg
+
+Needle: befit
+1 trace: ybbby
+2 spelt: bbybg
+3 duvet: bbbyg
+4 befit: ggggg
+
+Needle: began
+1 trace: bbyby
+2 penal: bgygb
+3 vegan: bgggg
+4 began: ggggg
+
+Needle: begat
+1 trace: ybyby
+2 pleat: bbygg
+3 begat: ggggg
+
+Needle: beget
+1 trace: ybbby
+2 spelt: bbybg
+3 duvet: bbbgg
+4 beget: ggggg
+
+Needle: begin
+1 trace: bbbby
+2 widen: bybyg
+3 elfin: ybbgg
+4 begin: ggggg
+
+Needle: begun
+1 trace: bbbby
+2 widen: bbbyg
+3 felon: bgbbg
+4 begun: ggggg
+
+Needle: being
+1 trace: bbbby
+2 widen: bybyy
+3 eying: ybggg
+4 being: ggggg
+
+Needle: belch
+1 trace: bbbgy
+2 belch: ggggg
+
+Needle: belie
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: gygbg
+4 belie: ggggg
+
+Needle: belle
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: gbgbg
+4 belle: ggggg
+
+Needle: belly
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbygb
+4 belly: ggggg
+
+Needle: below
+1 trace: bbbby
+2 widen: ybbyb
+3 below: ggggg
+
+Needle: bench
+1 trace: bbbgy
+2 welch: bgbgg
+3 beech: ggygg
+4 bench: ggggg
+
+Needle: beret
+1 trace: yybby
+2 metro: bgyyb
+3 beret: ggggg
+
+Needle: berry
+1 trace: bybby
+2 risen: ybbyb
+3 berry: ggggg
+
+Needle: berth
+1 trace: yybby
+2 metro: bgyyb
+3 beret: gggyy
+4 berth: ggggg
+
+Needle: beset
+1 trace: ybbby
+2 spelt: ybybg
+3 beset: ggggg
+
+Needle: betel
+1 trace: ybbby
+2 spelt: bbyyy
+3 motel: bbggg
+4 betel: ggggg
+
+Needle: bevel
+1 trace: bbbby
+2 widen: bbbgb
+3 bleep: gyygb
+4 bevel: ggggg
+
+Needle: bezel
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: ggbgg
+4 bezel: ggggg
+
+Needle: bible
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: ggybg
+4 bible: ggggg
+
+Needle: bicep
+1 trace: bbbyy
+2 dicey: bgggb
+3 bicep: ggggg
+
+Needle: biddy
+1 trace: bbbbb
+2 slimy: bbybg
+3 dingy: ygbbg
+4 biddy: ggggg
+
+Needle: bigot
+1 trace: ybbbb
+2 hoist: byybg
+3 pilot: bgbgg
+4 bigot: ggggg
+
+Needle: bilge
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: ggggg
+
+Needle: billy
+1 trace: bbbbb
+2 spiny: bbybg
+3 filly: bgggg
+4 hilly: bgggg
+5 dilly: bgggg
+6 billy: ggggg
+
+Needle: binge
+1 trace: bbbbg
+2 snipe: byybg
+3 binge: ggggg
+
+Needle: bingo
+1 trace: bbbbb
+2 slimy: bbybb
+3 dingo: bgggg
+4 bingo: ggggg
+
+Needle: biome
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: ggbbg
+4 biome: ggggg
+
+Needle: birch
+1 trace: bybgb
+2 lurch: bbggg
+3 birch: ggggg
+
+Needle: birth
+1 trace: yybbb
+2 short: bybyy
+3 birth: ggggg
+
+Needle: bison
+1 trace: bbbbb
+2 slimy: ybybb
+3 bison: ggggg
+
+Needle: bitty
+1 trace: ybbbb
+2 point: bbyby
+3 fifth: bgbgb
+4 kitty: bgggg
+5 bitty: ggggg
+
+Needle: black
+1 trace: bbggb
+2 snack: bbggg
+3 black: ggggg
+
+Needle: blade
+1 trace: bbgbg
+2 slave: bggbg
+3 flame: bggbg
+4 glaze: bggbg
+5 blade: ggggg
+
+Needle: blame
+1 trace: bbgbg
+2 slave: bggbg
+3 glade: bggbg
+4 flame: bgggg
+5 blame: ggggg
+
+Needle: bland
+1 trace: bbgbb
+2 slain: bggby
+3 bland: ggggg
+
+Needle: blank
+1 trace: bbgbb
+2 slain: bggby
+3 blank: ggggg
+
+Needle: blare
+1 trace: bygbg
+2 glare: bgggg
+3 blare: ggggg
+
+Needle: blast
+1 trace: ybgbb
+2 slant: yggbg
+3 blast: ggggg
+
+Needle: blaze
+1 trace: bbgbg
+2 slave: bggbg
+3 glade: bggbg
+4 blame: gggbg
+5 blaze: ggggg
+
+Needle: bleak
+1 trace: bbyby
+2 pedal: bybgy
+3 glean: bgggb
+4 bleak: ggggg
+
+Needle: bleat
+1 trace: ybyby
+2 pleat: bgggg
+3 bleat: ggggg
+
+Needle: bleed
+1 trace: bbbby
+2 widen: bbygb
+3 speed: bbggg
+4 bleed: ggggg
+
+Needle: bleep
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: gybgy
+4 bleep: ggggg
+
+Needle: blend
+1 trace: bbbby
+2 widen: bbyyy
+3 spend: bbggg
+4 blend: ggggg
+
+Needle: bless
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: ybgyb
+4 bless: ggggg
+
+Needle: blimp
+1 trace: bbbbb
+2 slimy: bgggb
+3 blimp: ggggg
+
+Needle: blind
+1 trace: bbbbb
+2 slimy: bggbb
+3 blind: ggggg
+
+Needle: blink
+1 trace: bbbbb
+2 spiny: bbggb
+3 doing: bbggb
+4 blink: ggggg
+
+Needle: bliss
+1 trace: bbbbb
+2 spiny: ybgbb
+3 bliss: ggggg
+
+Needle: blitz
+1 trace: ybbbb
+2 point: bbgby
+3 still: bygyy
+4 blitz: ggggg
+
+Needle: bloat
+1 trace: ybybb
+2 satin: byybb
+3 aloft: yggbg
+4 bloat: ggggg
+
+Needle: block
+1 trace: bbbgb
+2 couch: yybgb
+3 block: ggggg
+
+Needle: bloke
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: gbybg
+4 bloke: ggggg
+
+Needle: blond
+1 trace: bbbbb
+2 spiny: bbbgb
+3 flunk: bgbgb
+4 blond: ggggg
+
+Needle: blood
+1 trace: bbbbb
+2 slimy: bgbbb
+3 flung: bgbbb
+4 blood: ggggg
+
+Needle: bloom
+1 trace: bbbbb
+2 spiny: bbbbb
+3 gumbo: bbyyy
+4 bloom: ggggg
+
+Needle: blown
+1 trace: bbbbb
+2 spiny: bbbyb
+3 flown: bgggg
+4 blown: ggggg
+
+Needle: bluer
+1 trace: bybby
+2 diner: bbbgg
+3 super: bybgg
+4 bluer: ggggg
+
+Needle: bluff
+1 trace: bbbbb
+2 slimy: bgbbb
+3 flung: yggbb
+4 bluff: ggggg
+
+Needle: blunt
+1 trace: ybbbb
+2 point: bbbgg
+3 stunt: byggg
+4 blunt: ggggg
+
+Needle: blurb
+1 trace: bybbb
+2 surly: byyyb
+3 blurb: ggggg
+
+Needle: blurt
+1 trace: yybbb
+2 short: bbbgg
+3 blurt: ggggg
+
+Needle: blush
+1 trace: bbbbb
+2 slimy: ygbbb
+3 floss: bgbgy
+4 blush: ggggg
+
+Needle: board
+1 trace: bygbb
+2 award: ybggg
+3 hoard: bgggg
+4 board: ggggg
+
+Needle: boast
+1 trace: ybgbb
+2 slant: ybgbg
+3 boast: ggggg
+
+Needle: bobby
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bgybg
+4 hobby: bgggg
+5 bobby: ggggg
+
+Needle: boney
+1 trace: bbbby
+2 widen: bbbgy
+3 money: bgggg
+4 boney: ggggg
+
+Needle: bongo
+1 trace: bbbbb
+2 slimy: bbbbb
+3 bough: ggbgb
+4 bongo: ggggg
+
+Needle: bonus
+1 trace: bbbbb
+2 slimy: ybbbb
+3 bonus: ggggg
+
+Needle: booby
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bggbg
+4 boozy: gggbg
+5 booby: ggggg
+
+Needle: boost
+1 trace: ybbbb
+2 point: bgbbg
+3 boost: ggggg
+
+Needle: booth
+1 trace: ybbbb
+2 hoist: ygbby
+3 mouth: bgbgg
+4 booth: ggggg
+
+Needle: booty
+1 trace: ybbbb
+2 hoist: bgbby
+3 lofty: bgbgg
+4 booty: ggggg
+
+Needle: booze
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: gbbbg
+4 booze: ggggg
+
+Needle: boozy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgbbg
+4 bobby: ggyyg
+5 boozy: ggggg
+
+Needle: borax
+1 trace: byybb
+2 manor: bybyy
+3 royal: ygbgb
+4 borax: ggggg
+
+Needle: borne
+1 trace: bybbg
+2 surge: bbgbg
+3 nerve: yygbg
+4 borne: ggggg
+
+Needle: bosom
+1 trace: bbbbb
+2 slimy: ybbyb
+3 bosom: ggggg
+
+Needle: bossy
+1 trace: bbbbb
+2 slimy: ybbbg
+3 hussy: bbggg
+4 bossy: ggggg
+
+Needle: botch
+1 trace: ybbgb
+2 dutch: bbggg
+3 pitch: bbggg
+4 botch: ggggg
+
+Needle: bough
+1 trace: bbbbb
+2 slimy: bbbbb
+3 bough: ggggg
+
+Needle: boule
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: gyybg
+4 boule: ggggg
+
+Needle: bound
+1 trace: bbbbb
+2 spiny: bbbgb
+3 flung: bbggb
+4 bound: ggggg
+
+Needle: bowel
+1 trace: bbbby
+2 widen: ybbgb
+3 bowel: ggggg
+
+Needle: boxer
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbbgg
+4 mower: bgbgg
+5 rover: ygbgg
+6 foyer: bgbgg
+7 boxer: ggggg
+
+Needle: brace
+1 trace: bgggg
+2 brace: ggggg
+
+Needle: braid
+1 trace: bggbb
+2 brand: gggbg
+3 braid: ggggg
+
+Needle: brain
+1 trace: bggbb
+2 drain: bgggg
+3 brain: ggggg
+
+Needle: brake
+1 trace: bggbg
+2 drake: bgggg
+3 brake: ggggg
+
+Needle: brand
+1 trace: bggbb
+2 brand: ggggg
+
+Needle: brash
+1 trace: bggbb
+2 brand: gggbb
+3 brash: ggggg
+
+Needle: brass
+1 trace: bggbb
+2 brand: gggbb
+3 brass: ggggg
+
+Needle: brave
+1 trace: bggbg
+2 drape: bggbg
+3 brave: ggggg
+
+Needle: bravo
+1 trace: bggbb
+2 brand: gggbb
+3 brass: gggbb
+4 bravo: ggggg
+
+Needle: brawl
+1 trace: bggbb
+2 drawn: bgggb
+3 brawl: ggggg
+
+Needle: brawn
+1 trace: bggbb
+2 drawn: bgggg
+3 brawn: ggggg
+
+Needle: bread
+1 trace: bgyby
+2 bread: ggggg
+
+Needle: break
+1 trace: bgyby
+2 bread: ggggb
+3 break: ggggg
+
+Needle: breed
+1 trace: bgbby
+2 freed: bgggg
+3 breed: ggggg
+
+Needle: briar
+1 trace: bgybb
+2 broad: ggbgb
+3 briar: ggggg
+
+Needle: bribe
+1 trace: bgbbg
+2 pride: bggbg
+3 brine: gggbg
+4 bribe: ggggg
+
+Needle: brick
+1 trace: bgbgb
+2 crock: ygbgg
+3 brick: ggggg
+
+Needle: bride
+1 trace: bgbbg
+2 pride: bgggg
+3 bride: ggggg
+
+Needle: brief
+1 trace: bgbby
+2 freed: ygygb
+3 brief: ggggg
+
+Needle: brine
+1 trace: bgbbg
+2 pride: bggbg
+3 brine: ggggg
+
+Needle: bring
+1 trace: bgbbb
+2 grind: ygggb
+3 bring: ggggg
+
+Needle: brink
+1 trace: bgbbb
+2 grind: bgggb
+3 brink: ggggg
+
+Needle: briny
+1 trace: bgbbb
+2 drink: bgggb
+3 briny: ggggg
+
+Needle: brisk
+1 trace: bgbbb
+2 drink: bggbg
+3 brisk: ggggg
+
+Needle: broad
+1 trace: bgybb
+2 broad: ggggg
+
+Needle: broil
+1 trace: bgbbb
+2 grind: bgybb
+3 broil: ggggg
+
+Needle: broke
+1 trace: bgbbg
+2 pride: bgbbg
+3 froze: bggbg
+4 broke: ggggg
+
+Needle: brood
+1 trace: bgbbb
+2 grind: bgbbg
+3 brood: ggggg
+
+Needle: brook
+1 trace: bgbbb
+2 drink: bgbbg
+3 brook: ggggg
+
+Needle: broom
+1 trace: bgbbb
+2 drink: bgbbb
+3 groom: bgggg
+4 broom: ggggg
+
+Needle: broth
+1 trace: ygbbb
+2 front: bggby
+3 broth: ggggg
+
+Needle: brown
+1 trace: bgbbb
+2 grind: bgbyb
+3 brown: ggggg
+
+Needle: brunt
+1 trace: ygbbb
+2 frost: bgbbg
+3 brunt: ggggg
+
+Needle: brush
+1 trace: bgbbb
+2 grind: bgbbb
+3 brook: ggbbb
+4 brush: ggggg
+
+Needle: brute
+1 trace: ygbbg
+2 wrote: bgbgg
+3 brute: ggggg
+
+Needle: buddy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bbgbg
+4 buddy: ggggg
+
+Needle: budge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: ggbgg
+4 budge: ggggg
+
+Needle: buggy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: ybbbg
+4 buggy: ggggg
+
+Needle: bugle
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: ggyyg
+4 bugle: ggggg
+
+Needle: build
+1 trace: bbbbb
+2 slimy: bygbb
+3 build: ggggg
+
+Needle: built
+1 trace: ybbbb
+2 hoist: bbgbg
+3 guilt: bgggg
+4 built: ggggg
+
+Needle: bulge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: ggggg
+
+Needle: bulky
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bbbyg
+4 bulky: ggggg
+
+Needle: bully
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: bbbgg
+4 bully: ggggg
+
+Needle: bunch
+1 trace: bbbgb
+2 couch: ybygg
+3 mulch: bgbgg
+4 hunch: ygggg
+5 bunch: ggggg
+
+Needle: bunny
+1 trace: bbbbb
+2 spiny: bbbgg
+3 bunny: ggggg
+
+Needle: burly
+1 trace: bybbb
+2 surly: bgggg
+3 burly: ggggg
+
+Needle: burnt
+1 trace: yybbb
+2 short: bbbyg
+3 burnt: ggggg
+
+Needle: burst
+1 trace: yybbb
+2 short: ybbyg
+3 burst: ggggg
+
+Needle: bused
+1 trace: bbbby
+2 widen: bbygb
+3 speed: ybygg
+4 bused: ggggg
+
+Needle: bushy
+1 trace: bbbbb
+2 slimy: ybbbg
+3 hussy: yggyg
+4 bushy: ggggg
+
+Needle: butch
+1 trace: ybbgb
+2 hitch: ybggg
+3 botch: gbggg
+4 butch: ggggg
+
+Needle: butte
+1 trace: ybbbg
+2 utile: yybbg
+3 butte: ggggg
+
+Needle: buxom
+1 trace: bbbbb
+2 spiny: bbbbb
+3 gumbo: bgyyy
+4 buxom: ggggg
+
+Needle: buyer
+1 trace: bybby
+2 risen: ybbgb
+3 lover: bbbgg
+4 purer: bgygg
+5 buyer: ggggg
+
+Needle: bylaw
+1 trace: bbybb
+2 salon: bygbb
+3 bylaw: ggggg
+
+Needle: cabal
+1 trace: bbyyb
+2 canal: ggbgg
+3 cabal: ggggg
+
+Needle: cabby
+1 trace: bbyyb
+2 canal: ggbyb
+3 cabby: ggggg
+
+Needle: cabin
+1 trace: bbyyb
+2 canal: ggyyb
+3 cabin: ggggg
+
+Needle: cable
+1 trace: bbyyg
+2 cable: ggggg
+
+Needle: cacao
+1 trace: bbyyb
+2 canal: ggbgb
+3 cacao: ggggg
+
+Needle: cache
+1 trace: bbyyg
+2 cable: ggbbg
+3 canoe: ggbbg
+4 cache: ggggg
+
+Needle: cacti
+1 trace: ybyyb
+2 ascot: ybgby
+3 cacti: ggggg
+
+Needle: caddy
+1 trace: bbyyb
+2 canal: ggbyb
+3 cabby: ggbbg
+4 caddy: ggggg
+
+Needle: cadet
+1 trace: ybyyy
+2 cleat: gbyyg
+3 cadet: ggggg
+
+Needle: cagey
+1 trace: bbyyy
+2 clean: gbyyb
+3 cagey: ggggg
+
+Needle: cairn
+1 trace: byyyb
+2 cargo: ggybb
+3 cairn: ggggg
+
+Needle: camel
+1 trace: bbyyy
+2 clean: gyyyb
+3 camel: ggggg
+
+Needle: cameo
+1 trace: bbyyy
+2 decal: byyyb
+3 cagey: ggbgb
+4 cameo: ggggg
+
+Needle: canal
+1 trace: bbyyb
+2 canal: ggggg
+
+Needle: candy
+1 trace: bbyyb
+2 canal: gggyb
+3 canny: gggyg
+4 candy: ggggg
+
+Needle: canny
+1 trace: bbyyb
+2 canal: gggyb
+3 candy: gggbg
+4 canny: ggggg
+
+Needle: canoe
+1 trace: bbyyg
+2 cable: ggbbg
+3 canoe: ggggg
+
+Needle: canon
+1 trace: bbyyb
+2 canal: gggyb
+3 candy: gggbb
+4 canon: ggggg
+
+Needle: caper
+1 trace: byyyy
+2 recap: yyyyy
+3 caper: ggggg
+
+Needle: caput
+1 trace: ybyyb
+2 ascot: ybybg
+3 caput: ggggg
+
+Needle: carat
+1 trace: yyyyb
+2 actor: yyyby
+3 carat: ggggg
+
+Needle: cargo
+1 trace: byyyb
+2 cargo: ggggg
+
+Needle: carol
+1 trace: byyyb
+2 cargo: gggby
+3 carol: ggggg
+
+Needle: carry
+1 trace: byyyb
+2 cargo: gggbb
+3 carry: ggggg
+
+Needle: carve
+1 trace: byyyg
+2 carve: ggggg
+
+Needle: caste
+1 trace: ybyyg
+2 acute: yybgg
+3 caste: ggggg
+
+Needle: catch
+1 trace: ybygb
+2 match: bgggg
+3 patch: bgggg
+4 batch: bgggg
+5 latch: bgggg
+6 hatch: ygggg
+7 catch: ggggg
+
+Needle: cater
+1 trace: yyyyy
+2 cater: ggggg
+
+Needle: catty
+1 trace: ybyyb
+2 ascot: ybyby
+3 catty: ggggg
+
+Needle: caulk
+1 trace: bbyyb
+2 canal: ggbyy
+3 caulk: ggggg
+
+Needle: cause
+1 trace: bbyyg
+2 cable: ggbbg
+3 cache: ggybg
+4 canoe: ggbbg
+5 cause: ggggg
+
+Needle: cavil
+1 trace: bbyyb
+2 canal: ggbyg
+3 cavil: ggggg
+
+Needle: cease
+1 trace: bbgyg
+2 chase: gbggg
+3 cease: ggggg
+
+Needle: cedar
+1 trace: byyyy
+2 recap: ygygb
+3 cedar: ggggg
+
+Needle: cello
+1 trace: bbbyy
+2 dicey: bbyyb
+3 cello: ggggg
+
+Needle: chafe
+1 trace: bbgyg
+2 cease: gygbg
+3 chafe: ggggg
+
+Needle: chaff
+1 trace: bbgyb
+2 clasp: gbgbb
+3 chaff: ggggg
+
+Needle: chain
+1 trace: bbgyb
+2 clasp: gbgbb
+3 chaff: gggbb
+4 chain: ggggg
+
+Needle: chair
+1 trace: bygyb
+2 chard: gggyb
+3 chair: ggggg
+
+Needle: chalk
+1 trace: bbgyb
+2 clasp: gygbb
+3 chalk: ggggg
+
+Needle: champ
+1 trace: bbgyb
+2 clasp: gbgbg
+3 champ: ggggg
+
+Needle: chant
+1 trace: ybgyb
+2 chant: ggggg
+
+Needle: chaos
+1 trace: bbgyb
+2 clasp: gbgyb
+3 chaos: ggggg
+
+Needle: chard
+1 trace: bygyb
+2 scary: byggb
+3 chard: ggggg
+
+Needle: charm
+1 trace: bygyb
+2 charm: ggggg
+
+Needle: chart
+1 trace: yygyb
+2 chart: ggggg
+
+Needle: chase
+1 trace: bbgyg
+2 chafe: gggbg
+3 chase: ggggg
+
+Needle: chasm
+1 trace: bbgyb
+2 clasp: gbggb
+3 chasm: ggggg
+
+Needle: cheap
+1 trace: bbyyy
+2 decal: byygb
+3 cheap: ggggg
+
+Needle: cheat
+1 trace: ybyyy
+2 cheat: ggggg
+
+Needle: check
+1 trace: bbbgy
+2 welch: bybgy
+3 check: ggggg
+
+Needle: cheek
+1 trace: bbbyy
+2 dicey: bbygb
+3 cheek: ggggg
+
+Needle: cheer
+1 trace: bybyy
+2 cider: gbbgg
+3 cower: gbbgg
+4 cheer: ggggg
+
+Needle: chess
+1 trace: bbbyy
+2 dicey: bbyyb
+3 cello: gybbb
+4 chess: ggggg
+
+Needle: chest
+1 trace: ybbyy
+2 covet: gbbyg
+3 chest: ggggg
+
+Needle: chick
+1 trace: bbbgb
+2 couch: gbbgy
+3 chick: ggggg
+
+Needle: chide
+1 trace: bbbyg
+2 close: gbbbg
+3 chide: ggggg
+
+Needle: chief
+1 trace: bbbyy
+2 dicey: byygb
+3 chief: ggggg
+
+Needle: child
+1 trace: bbbyb
+2 cumin: gbbyb
+3 chill: ggggy
+4 child: ggggg
+
+Needle: chili
+1 trace: bbbyb
+2 could: gbbgb
+3 chili: ggggg
+
+Needle: chill
+1 trace: bbbyb
+2 could: gbbgb
+3 chili: ggggy
+4 chill: ggggg
+
+Needle: chime
+1 trace: bbbyg
+2 chose: ggbbg
+3 chide: gggbg
+4 chime: ggggg
+
+Needle: china
+1 trace: bbyyb
+2 canal: gyyyb
+3 china: ggggg
+
+Needle: chirp
+1 trace: bybyb
+2 choir: ggbyy
+3 chirp: ggggg
+
+Needle: chock
+1 trace: bbbgb
+2 couch: gybgy
+3 chock: ggggg
+
+Needle: choir
+1 trace: bybyb
+2 choir: ggggg
+
+Needle: choke
+1 trace: bbbyg
+2 chose: gggbg
+3 choke: ggggg
+
+Needle: chord
+1 trace: bybyb
+2 choir: gggby
+3 chord: ggggg
+
+Needle: chore
+1 trace: bybyg
+2 curse: gbybg
+3 chore: ggggg
+
+Needle: chose
+1 trace: bbbyg
+2 close: gbggg
+3 chose: ggggg
+
+Needle: chuck
+1 trace: bbbgb
+2 couch: gbggy
+3 chuck: ggggg
+
+Needle: chump
+1 trace: bbbyb
+2 could: gbgbb
+3 chump: ggggg
+
+Needle: chunk
+1 trace: bbbyb
+2 could: gbgbb
+3 chump: gggbb
+4 chunk: ggggg
+
+Needle: churn
+1 trace: bybyb
+2 choir: ggbby
+3 churn: ggggg
+
+Needle: chute
+1 trace: ybbyg
+2 chute: ggggg
+
+Needle: cider
+1 trace: bybyy
+2 cider: ggggg
+
+Needle: cigar
+1 trace: byyyb
+2 coral: gbygb
+3 cigar: ggggg
+
+Needle: cinch
+1 trace: bbbgb
+2 couch: gbbgg
+3 cinch: ggggg
+
+Needle: circa
+1 trace: byygb
+2 circa: ggggg
+
+Needle: civic
+1 trace: bbbyb
+2 could: gbbbb
+3 civic: ggggg
+
+Needle: civil
+1 trace: bbbyb
+2 could: gbbyb
+3 cling: gyybb
+4 civil: ggggg
+
+Needle: clack
+1 trace: bbggb
+2 snack: bbggg
+3 black: bgggg
+4 clack: ggggg
+
+Needle: claim
+1 trace: bbgyb
+2 clasp: gggbb
+3 clank: gggbb
+4 claim: ggggg
+
+Needle: clamp
+1 trace: bbgyb
+2 clasp: gggbg
+3 clamp: ggggg
+
+Needle: clang
+1 trace: bbgyb
+2 clasp: gggbb
+3 clank: ggggb
+4 clang: ggggg
+
+Needle: clank
+1 trace: bbgyb
+2 clasp: gggbb
+3 clang: ggggb
+4 clank: ggggg
+
+Needle: clash
+1 trace: bbgyb
+2 clasp: ggggb
+3 clash: ggggg
+
+Needle: clasp
+1 trace: bbgyb
+2 clasp: ggggg
+
+Needle: class
+1 trace: bbgyb
+2 clasp: ggggb
+3 clash: ggggb
+4 class: ggggg
+
+Needle: clean
+1 trace: bbyyy
+2 clean: ggggg
+
+Needle: clear
+1 trace: byyyy
+2 clear: ggggg
+
+Needle: cleat
+1 trace: ybyyy
+2 cleat: ggggg
+
+Needle: cleft
+1 trace: ybbyy
+2 chest: gbgbg
+3 cleft: ggggg
+
+Needle: clerk
+1 trace: bybyy
+2 cider: gbbyy
+3 clerk: ggggg
+
+Needle: click
+1 trace: bbbgb
+2 couch: gbbgb
+3 click: ggggg
+
+Needle: cliff
+1 trace: bbbyb
+2 could: gbbyb
+3 cling: gggbb
+4 cliff: ggggg
+
+Needle: climb
+1 trace: bbbyb
+2 cumin: gbyyb
+3 climb: ggggg
+
+Needle: cling
+1 trace: bbbyb
+2 could: gbbyb
+3 clink: ggggb
+4 cling: ggggg
+
+Needle: clink
+1 trace: bbbyb
+2 could: gbbyb
+3 clink: ggggg
+
+Needle: cloak
+1 trace: bbyyb
+2 canal: gybgy
+3 cloak: ggggg
+
+Needle: clock
+1 trace: bbbgb
+2 couch: gybgb
+3 clock: ggggg
+
+Needle: clone
+1 trace: bbbyg
+2 close: gggbg
+3 clone: ggggg
+
+Needle: close
+1 trace: bbbyg
+2 close: ggggg
+
+Needle: cloth
+1 trace: ybbyb
+2 scout: bygby
+3 cloth: ggggg
+
+Needle: cloud
+1 trace: bbbyb
+2 could: gyyyg
+3 cloud: ggggg
+
+Needle: clout
+1 trace: ybbyb
+2 clout: ggggg
+
+Needle: clove
+1 trace: bbbyg
+2 close: gggbg
+3 clone: gggbg
+4 clove: ggggg
+
+Needle: clown
+1 trace: bbbyb
+2 could: gybyb
+3 clown: ggggg
+
+Needle: cluck
+1 trace: bbbgb
+2 couch: gbggb
+3 cluck: ggggg
+
+Needle: clued
+1 trace: bbbyy
+2 dicey: ybygb
+3 clued: ggggg
+
+Needle: clump
+1 trace: bbbyb
+2 could: gbgyb
+3 clump: ggggg
+
+Needle: clung
+1 trace: bbbyb
+2 cumin: gybby
+3 chunk: gbggb
+4 clung: ggggg
+
+Needle: coach
+1 trace: bbggb
+2 slack: bbggb
+3 coach: ggggg
+
+Needle: coast
+1 trace: ybgyb
+2 coast: ggggg
+
+Needle: cobra
+1 trace: byyyb
+2 coral: ggyyb
+3 cobra: ggggg
+
+Needle: cocoa
+1 trace: bbyyb
+2 canal: gybyb
+3 cocoa: ggggg
+
+Needle: colon
+1 trace: bbbyb
+2 cumin: gbbbg
+3 clown: gyybg
+4 colon: ggggg
+
+Needle: color
+1 trace: bybyb
+2 choir: gbybg
+3 color: ggggg
+
+Needle: comet
+1 trace: ybbyy
+2 chest: gbybg
+3 comet: ggggg
+
+Needle: comfy
+1 trace: bbbyb
+2 could: ggbbb
+3 comfy: ggggg
+
+Needle: comic
+1 trace: bbbyb
+2 could: ggbbb
+3 comic: ggggg
+
+Needle: comma
+1 trace: bbyyb
+2 canal: gybyb
+3 cocoa: ggyyg
+4 comma: ggggg
+
+Needle: conch
+1 trace: bbbgb
+2 couch: ggbgg
+3 conch: ggggg
+
+Needle: condo
+1 trace: bbbyb
+2 cumin: gbbby
+3 condo: ggggg
+
+Needle: conic
+1 trace: bbbyb
+2 could: ggbbb
+3 comic: ggbgg
+4 conic: ggggg
+
+Needle: copse
+1 trace: bbbyg
+2 clone: gbybg
+3 copse: ggggg
+
+Needle: coral
+1 trace: byyyb
+2 carol: gygyg
+3 coral: ggggg
+
+Needle: corer
+1 trace: bybyy
+2 cider: gbbgg
+3 cover: ggbgg
+4 corer: ggggg
+
+Needle: corny
+1 trace: bybyb
+2 choir: gbyby
+3 corny: ggggg
+
+Needle: couch
+1 trace: bbbgb
+2 couch: ggggg
+
+Needle: cough
+1 trace: bbbyb
+2 cumin: gybbb
+3 cloud: gbyyb
+4 cough: ggggg
+
+Needle: could
+1 trace: bbbyb
+2 cumin: gybbb
+3 cloud: gyyyg
+4 could: ggggg
+
+Needle: count
+1 trace: ybbyb
+2 scout: byyyg
+3 count: ggggg
+
+Needle: coupe
+1 trace: bbbyg
+2 chose: gbybg
+3 coupe: ggggg
+
+Needle: court
+1 trace: yybyb
+2 court: ggggg
+
+Needle: coven
+1 trace: bbbyy
+2 dicey: bbygb
+3 cheek: gbygb
+4 coven: ggggg
+
+Needle: cover
+1 trace: bybyy
+2 cider: gbbgg
+3 cover: ggggg
+
+Needle: covet
+1 trace: ybbyy
+2 comet: ggbgg
+3 covet: ggggg
+
+Needle: covey
+1 trace: bbbyy
+2 dicey: bbygg
+3 covey: ggggg
+
+Needle: cower
+1 trace: bybyy
+2 cider: gbbgg
+3 cower: ggggg
+
+Needle: coyly
+1 trace: bbbyb
+2 could: ggbgb
+3 coyly: ggggg
+
+Needle: crack
+1 trace: bgggb
+2 crack: ggggg
+
+Needle: craft
+1 trace: yggyb
+2 craft: ggggg
+
+Needle: cramp
+1 trace: bggyb
+2 crash: gggbb
+3 crawl: gggbb
+4 cramp: ggggg
+
+Needle: crane
+1 trace: bggyg
+2 crave: gggbg
+3 crane: ggggg
+
+Needle: crank
+1 trace: bggyb
+2 crass: gggbb
+3 cramp: gggbb
+4 crawl: gggbb
+5 crank: ggggg
+
+Needle: crash
+1 trace: bggyb
+2 crass: ggggy
+3 crash: ggggg
+
+Needle: crass
+1 trace: bggyb
+2 crass: ggggg
+
+Needle: crate
+1 trace: yggyg
+2 crate: ggggg
+
+Needle: crave
+1 trace: bggyg
+2 crane: gggbg
+3 crave: ggggg
+
+Needle: crawl
+1 trace: bggyb
+2 crass: gggbb
+3 crank: gggbb
+4 cramp: gggbb
+5 crawl: ggggg
+
+Needle: craze
+1 trace: bggyg
+2 crane: gggbg
+3 crave: gggbg
+4 craze: ggggg
+
+Needle: crazy
+1 trace: bggyb
+2 crass: gggbb
+3 cramp: gggbb
+4 crank: gggbb
+5 crawl: gggbb
+6 crazy: ggggg
+
+Needle: creak
+1 trace: bgyyy
+2 creak: ggggg
+
+Needle: cream
+1 trace: bgyyy
+2 creak: ggggb
+3 cream: ggggg
+
+Needle: credo
+1 trace: bgbyy
+2 creed: gggyy
+3 credo: ggggg
+
+Needle: creed
+1 trace: bgbyy
+2 cried: ggbgg
+3 creed: ggggg
+
+Needle: creek
+1 trace: bgbyy
+2 cried: ggbgb
+3 creep: ggggb
+4 creek: ggggg
+
+Needle: creep
+1 trace: bgbyy
+2 cried: ggbgb
+3 creek: ggggb
+4 creep: ggggg
+
+Needle: creme
+1 trace: bgbyg
+2 creme: ggggg
+
+Needle: crepe
+1 trace: bgbyg
+2 creme: gggbg
+3 crepe: ggggg
+
+Needle: crept
+1 trace: ygbyy
+2 crept: ggggg
+
+Needle: cress
+1 trace: bgbyy
+2 cried: ggbyb
+3 cress: ggggg
+
+Needle: crest
+1 trace: ygbyy
+2 crept: gggbg
+3 crest: ggggg
+
+Needle: crick
+1 trace: bgbgb
+2 crock: ggbgg
+3 crick: ggggg
+
+Needle: cried
+1 trace: bgbyy
+2 creed: ggygg
+3 cried: ggggg
+
+Needle: crier
+1 trace: bgbyy
+2 cried: ggggb
+3 crier: ggggg
+
+Needle: crime
+1 trace: bgbyg
+2 creme: ggygg
+3 crime: ggggg
+
+Needle: crimp
+1 trace: bgbyb
+2 crump: ggbgg
+3 crimp: ggggg
+
+Needle: crisp
+1 trace: bgbyb
+2 crump: ggbbg
+3 crisp: ggggg
+
+Needle: croak
+1 trace: bgyyb
+2 croak: ggggg
+
+Needle: crock
+1 trace: bgbgb
+2 crick: ggbgg
+3 crock: ggggg
+
+Needle: crone
+1 trace: bgbyg
+2 creme: ggybg
+3 crone: ggggg
+
+Needle: crony
+1 trace: bgbyb
+2 crump: ggbbb
+3 crown: gggby
+4 crony: ggggg
+
+Needle: crook
+1 trace: bgbyb
+2 crump: ggbbb
+3 crown: gggbb
+4 crook: ggggg
+
+Needle: cross
+1 trace: bgbyb
+2 crump: ggbbb
+3 crown: gggbb
+4 crook: gggyb
+5 cross: ggggg
+
+Needle: croup
+1 trace: bgbyb
+2 crump: ggybg
+3 croup: ggggg
+
+Needle: crowd
+1 trace: bgbyb
+2 crump: ggbbb
+3 crown: ggggb
+4 crowd: ggggg
+
+Needle: crown
+1 trace: bgbyb
+2 crump: ggbbb
+3 crown: ggggg
+
+Needle: crude
+1 trace: bgbyg
+2 creme: ggybg
+3 crone: ggbbg
+4 crude: ggggg
+
+Needle: cruel
+1 trace: bgbyy
+2 cried: ggbgb
+3 creek: ggygb
+4 cruel: ggggg
+
+Needle: crumb
+1 trace: bgbyb
+2 crump: ggggb
+3 crumb: ggggg
+
+Needle: crump
+1 trace: bgbyb
+2 crump: ggggg
+
+Needle: crush
+1 trace: bgbyb
+2 crump: gggbb
+3 crush: ggggg
+
+Needle: crust
+1 trace: ygbyb
+2 crust: ggggg
+
+Needle: crypt
+1 trace: ygbyb
+2 crust: ggbbg
+3 crypt: ggggg
+
+Needle: cubic
+1 trace: bbbyb
+2 cumin: ggbgb
+3 cubic: ggggg
+
+Needle: cumin
+1 trace: bbbyb
+2 cumin: ggggg
+
+Needle: curio
+1 trace: bybyb
+2 choir: gbygy
+3 curio: ggggg
+
+Needle: curly
+1 trace: bybyb
+2 choir: gbbby
+3 curly: ggggg
+
+Needle: curry
+1 trace: bybyb
+2 choir: gbbby
+3 curry: ggggg
+
+Needle: curse
+1 trace: bybyg
+2 scree: yygyg
+3 curse: ggggg
+
+Needle: curve
+1 trace: bybyg
+2 curse: gggbg
+3 curve: ggggg
+
+Needle: curvy
+1 trace: bybyb
+2 choir: gbbby
+3 curly: gggbg
+4 curry: gggyg
+5 curvy: ggggg
+
+Needle: cutie
+1 trace: ybbyg
+2 chute: gbyyg
+3 cutie: ggggg
+
+Needle: cyber
+1 trace: bybyy
+2 cider: gbbgg
+3 cover: gbbgg
+4 cheer: gbygg
+5 cyber: ggggg
+
+Needle: cycle
+1 trace: bbbyg
+2 clone: gybbg
+3 cycle: ggggg
+
+Needle: cynic
+1 trace: bbbyb
+2 could: gbbbb
+3 civic: gybgg
+4 cynic: ggggg
+
+Needle: daddy
+1 trace: bbybb
+2 salon: bgbbb
+3 gaudy: bgbgg
+4 daddy: ggggg
+
+Needle: daily
+1 trace: bbybb
+2 salon: bgybb
+3 gaily: bgggg
+4 daily: ggggg
+
+Needle: dairy
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgybg
+4 fairy: bgggg
+5 dairy: ggggg
+
+Needle: daisy
+1 trace: bbybb
+2 salon: ygbbb
+3 basis: bgyyy
+4 daisy: ggggg
+
+Needle: dally
+1 trace: bbybb
+2 salon: bggbb
+3 balmy: bggbg
+4 dally: ggggg
+
+Needle: dance
+1 trace: bbygg
+2 dance: ggggg
+
+Needle: dandy
+1 trace: bbybb
+2 salon: bgbby
+3 fanny: bggyg
+4 dandy: ggggg
+
+Needle: datum
+1 trace: ybybb
+2 satin: bggbb
+3 fatty: bggyb
+4 datum: ggggg
+
+Needle: daunt
+1 trace: ybybb
+2 satin: bgyby
+3 jaunt: bgggg
+4 gaunt: bgggg
+5 daunt: ggggg
+
+Needle: dealt
+1 trace: ybgby
+2 leant: yggbg
+3 dealt: ggggg
+
+Needle: death
+1 trace: ybgby
+2 leant: bggby
+3 death: ggggg
+
+Needle: debar
+1 trace: byyby
+2 gamer: bybyg
+3 rebar: ygggg
+4 debar: ggggg
+
+Needle: debit
+1 trace: ybbby
+2 spelt: bbybg
+3 duvet: gbbyg
+4 debit: ggggg
+
+Needle: debug
+1 trace: bbbby
+2 widen: bbyyb
+3 debug: ggggg
+
+Needle: debut
+1 trace: ybbby
+2 spelt: bbybg
+3 duvet: gybyg
+4 debut: ggggg
+
+Needle: decal
+1 trace: bbyyy
+2 clean: yyygb
+3 decal: ggggg
+
+Needle: decay
+1 trace: bbyyy
+2 decal: ggggb
+3 decay: ggggg
+
+Needle: decor
+1 trace: bybyy
+2 cider: ybyyg
+3 decor: ggggg
+
+Needle: decoy
+1 trace: bbbyy
+2 dicey: gbgyg
+3 decoy: ggggg
+
+Needle: decry
+1 trace: bybyy
+2 cider: ybyyy
+3 decry: ggggg
+
+Needle: defer
+1 trace: bybby
+2 risen: ybbgb
+3 older: bbygg
+4 defer: ggggg
+
+Needle: deign
+1 trace: bbbby
+2 widen: byyyg
+3 deign: ggggg
+
+Needle: deity
+1 trace: ybbby
+2 spelt: bbyby
+3 fetid: bgyyy
+4 deity: ggggg
+
+Needle: delay
+1 trace: bbyby
+2 penal: bgbgy
+3 delay: ggggg
+
+Needle: delta
+1 trace: ybyby
+2 pleat: byyyy
+3 delta: ggggg
+
+Needle: delve
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbgbg
+4 delve: ggggg
+
+Needle: demon
+1 trace: bbbby
+2 widen: bbyyg
+3 demon: ggggg
+
+Needle: demur
+1 trace: bybby
+2 siren: bbyyb
+3 lemur: bgggg
+4 demur: ggggg
+
+Needle: denim
+1 trace: bbbby
+2 widen: byyyy
+3 denim: ggggg
+
+Needle: dense
+1 trace: bbbbg
+2 snipe: yybbg
+3 dense: ggggg
+
+Needle: depot
+1 trace: ybbby
+2 spelt: byybg
+3 depot: ggggg
+
+Needle: depth
+1 trace: ybbby
+2 spelt: byyby
+3 depth: ggggg
+
+Needle: derby
+1 trace: bybby
+2 siren: bbgyb
+3 berry: yggyg
+4 derby: ggggg
+
+Needle: deter
+1 trace: yybby
+2 metro: bggyb
+3 deter: ggggg
+
+Needle: detox
+1 trace: ybbby
+2 spelt: bbyby
+3 detox: ggggg
+
+Needle: deuce
+1 trace: bbbgg
+2 ounce: bybgg
+3 deuce: ggggg
+
+Needle: devil
+1 trace: bbbby
+2 widen: byyyb
+3 devil: ggggg
+
+Needle: diary
+1 trace: bygbb
+2 hoard: bbggy
+3 diary: ggggg
+
+Needle: dicey
+1 trace: bbbyy
+2 dicey: ggggg
+
+Needle: digit
+1 trace: ybbbb
+2 hoist: bbybg
+3 unlit: bbbgg
+4 digit: ggggg
+
+Needle: dilly
+1 trace: bbbbb
+2 spiny: bbybg
+3 filmy: bggbg
+4 billy: bgggg
+5 dilly: ggggg
+
+Needle: dimly
+1 trace: bbbbb
+2 spiny: bbybg
+3 filmy: bgyyg
+4 dimly: ggggg
+
+Needle: diner
+1 trace: bybby
+2 diner: ggggg
+
+Needle: dingo
+1 trace: bbbbb
+2 spiny: bbyyb
+3 bingo: bgggg
+4 dingo: ggggg
+
+Needle: dingy
+1 trace: bbbbb
+2 spiny: bbyyg
+3 windy: bggyg
+4 dingy: ggggg
+
+Needle: diode
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: bgbbg
+4 diode: ggggg
+
+Needle: dirge
+1 trace: bybbg
+2 surge: bbggg
+3 merge: byggg
+4 gorge: ybggg
+5 dirge: ggggg
+
+Needle: dirty
+1 trace: yybbb
+2 short: bbbyy
+3 dirty: ggggg
+
+Needle: disco
+1 trace: bbbgb
+2 couch: yybgb
+3 block: bbygb
+4 disco: ggggg
+
+Needle: ditch
+1 trace: ybbgb
+2 butch: bbggg
+3 witch: bgggg
+4 ditch: ggggg
+
+Needle: ditto
+1 trace: ybbbb
+2 point: byyby
+3 ditto: ggggg
+
+Needle: ditty
+1 trace: ybbbb
+2 point: bbyby
+3 fifth: bgbgb
+4 witty: bgggg
+5 bitty: bgggg
+6 ditty: ggggg
+
+Needle: diver
+1 trace: bybby
+2 risen: ygbgb
+3 liver: bgggg
+4 diver: ggggg
+
+Needle: dizzy
+1 trace: bbbbb
+2 spiny: bbybg
+3 filmy: bgbbg
+4 giddy: bgyyg
+5 dizzy: ggggg
+
+Needle: dodge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbbgg
+4 hedge: byggg
+5 dodge: ggggg
+
+Needle: dodgy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: yggbg
+4 dodgy: ggggg
+
+Needle: dogma
+1 trace: bbybb
+2 salon: bybyb
+3 audio: ybyby
+4 dogma: ggggg
+
+Needle: doing
+1 trace: bbbbb
+2 spiny: bbggb
+3 doing: ggggg
+
+Needle: dolly
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgygg
+4 dolly: ggggg
+
+Needle: donor
+1 trace: bybbb
+2 surly: bbybb
+3 rhino: ybbyy
+4 donor: ggggg
+
+Needle: donut
+1 trace: ybbbb
+2 point: bgbyg
+3 donut: ggggg
+
+Needle: dopey
+1 trace: bbbby
+2 widen: bbygb
+3 bused: bbbgy
+4 dopey: ggggg
+
+Needle: doubt
+1 trace: ybbbb
+2 hoist: bgbbg
+3 moult: bggbg
+4 doubt: ggggg
+
+Needle: dough
+1 trace: bbbbb
+2 slimy: bbbbb
+3 bough: bgggg
+4 dough: ggggg
+
+Needle: dowdy
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bgygg
+4 dowdy: ggggg
+
+Needle: dowel
+1 trace: bbbby
+2 widen: ybygb
+3 dowel: ggggg
+
+Needle: downy
+1 trace: bbbbb
+2 spiny: bbbgg
+3 funny: bbygg
+4 downy: ggggg
+
+Needle: dowry
+1 trace: bybbb
+2 surly: bbybg
+3 ivory: bbygg
+4 dowry: ggggg
+
+Needle: dozen
+1 trace: bbbby
+2 widen: bbygg
+3 dozen: ggggg
+
+Needle: draft
+1 trace: yggbb
+2 grant: bggbg
+3 draft: ggggg
+
+Needle: drain
+1 trace: bggbb
+2 brand: bggyy
+3 drain: ggggg
+
+Needle: drake
+1 trace: bggbg
+2 drake: ggggg
+
+Needle: drama
+1 trace: bggbb
+2 brand: bggby
+3 drama: ggggg
+
+Needle: drank
+1 trace: bggbb
+2 drain: gggby
+3 drank: ggggg
+
+Needle: drape
+1 trace: bggbg
+2 drape: ggggg
+
+Needle: drawl
+1 trace: bggbb
+2 brand: bggby
+3 drama: gggby
+4 drawl: ggggg
+
+Needle: drawn
+1 trace: bggbb
+2 drawn: ggggg
+
+Needle: dread
+1 trace: bgyby
+2 bread: bgggg
+3 dread: ggggg
+
+Needle: dream
+1 trace: bgyby
+2 bread: bgggy
+3 dream: ggggg
+
+Needle: dress
+1 trace: bgbby
+2 freed: bggyy
+3 dress: ggggg
+
+Needle: dried
+1 trace: bgbby
+2 freed: bgygg
+3 dried: ggggg
+
+Needle: drier
+1 trace: bgbby
+2 freed: bgygy
+3 drier: ggggg
+
+Needle: drift
+1 trace: ygbbb
+2 front: ygbbg
+3 drift: ggggg
+
+Needle: drill
+1 trace: bgbbb
+2 grind: bggby
+3 drill: ggggg
+
+Needle: drink
+1 trace: bgbbb
+2 grind: bgggy
+3 drink: ggggg
+
+Needle: drive
+1 trace: bgbbg
+2 pride: bggyg
+3 drive: ggggg
+
+Needle: droit
+1 trace: ygbbb
+2 front: bggbg
+3 droit: ggggg
+
+Needle: droll
+1 trace: bgbbb
+2 grind: bgbby
+3 drool: gggyg
+4 droll: ggggg
+
+Needle: drone
+1 trace: bgbbg
+2 pride: bgbyg
+3 drone: ggggg
+
+Needle: drool
+1 trace: bgbbb
+2 grind: bgbby
+3 drool: ggggg
+
+Needle: droop
+1 trace: bgbbb
+2 drink: ggbbb
+3 drool: ggggb
+4 droop: ggggg
+
+Needle: dross
+1 trace: bgbbb
+2 grind: bgbby
+3 drool: gggyb
+4 dross: ggggg
+
+Needle: drove
+1 trace: bgbbg
+2 pride: bgbyg
+3 drone: gggbg
+4 drove: ggggg
+
+Needle: drown
+1 trace: bgbbb
+2 grind: bgbyy
+3 drown: ggggg
+
+Needle: druid
+1 trace: bgbbb
+2 drink: ggybb
+3 druid: ggggg
+
+Needle: drunk
+1 trace: bgbbb
+2 grind: bgbgy
+3 drunk: ggggg
+
+Needle: dryer
+1 trace: bgbby
+2 freed: bgygy
+3 drier: ggbgg
+4 dryer: ggggg
+
+Needle: dryly
+1 trace: bgbbb
+2 drink: ggbbb
+3 drool: ggbby
+4 dryly: ggggg
+
+Needle: duchy
+1 trace: bbbyb
+2 could: ybyby
+3 duchy: ggggg
+
+Needle: dully
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: bbygg
+4 dully: ggggg
+
+Needle: dummy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bbybg
+4 dummy: ggggg
+
+Needle: dumpy
+1 trace: bbbbb
+2 spiny: bybbg
+3 guppy: bgygg
+4 lumpy: bgggg
+5 dumpy: ggggg
+
+Needle: dunce
+1 trace: bbbgg
+2 pence: byggg
+3 mince: bbggg
+4 dunce: ggggg
+
+Needle: dusky
+1 trace: bbbbb
+2 slimy: ybbbg
+3 husky: bgggg
+4 dusky: ggggg
+
+Needle: dusty
+1 trace: ybbbb
+2 hoist: bbbyy
+3 stung: yyybb
+4 dusty: ggggg
+
+Needle: dutch
+1 trace: ybbgb
+2 hitch: ybggg
+3 butch: bgggg
+4 dutch: ggggg
+
+Needle: duvet
+1 trace: ybbby
+2 spelt: bbybg
+3 debit: gybbg
+4 duvet: ggggg
+
+Needle: dwarf
+1 trace: bygbb
+2 hoard: bbggy
+3 diary: gbggb
+4 dwarf: ggggg
+
+Needle: dwell
+1 trace: bbbby
+2 widen: ybyyb
+3 dwell: ggggg
+
+Needle: dwelt
+1 trace: ybbby
+2 spelt: bbggg
+3 dwelt: ggggg
+
+Needle: dying
+1 trace: bbbbb
+2 slimy: bbgby
+3 dying: ggggg
+
+Needle: eager
+1 trace: byyby
+2 gamer: ygbgg
+3 lager: bgggg
+4 eager: ggggg
+
+Needle: eagle
+1 trace: bbybg
+2 angle: ybggg
+3 eagle: ggggg
+
+Needle: early
+1 trace: byyby
+2 relay: yyyyg
+3 early: ggggg
+
+Needle: earth
+1 trace: yyyby
+2 alter: ybyyy
+3 earth: ggggg
+
+Needle: easel
+1 trace: bbyby
+2 penal: bybyg
+3 bagel: bgbgg
+4 easel: ggggg
+
+Needle: eaten
+1 trace: ybyby
+2 pleat: bbyyy
+3 eaten: ggggg
+
+Needle: eater
+1 trace: yyyby
+2 later: bgggg
+3 eater: ggggg
+
+Needle: ebony
+1 trace: bbbby
+2 widen: bbbyy
+3 envoy: gybyg
+4 ebony: ggggg
+
+Needle: eclat
+1 trace: ybyyy
+2 cleat: yyygg
+3 eclat: ggggg
+
+Needle: edict
+1 trace: ybbgy
+2 edict: ggggg
+
+Needle: edify
+1 trace: bbbby
+2 widen: byyyb
+3 devil: yybyb
+4 edify: ggggg
+
+Needle: eerie
+1 trace: bybbg
+2 surge: bbgbg
+3 nerve: bggbg
+4 eerie: ggggg
+
+Needle: egret
+1 trace: yybby
+2 metro: byyyb
+3 ether: gybgy
+4 egret: ggggg
+
+Needle: eight
+1 trace: ybbby
+2 spelt: bbybg
+3 debit: bybyg
+4 eight: ggggg
+
+Needle: eject
+1 trace: ybbgy
+2 edict: gbbgg
+3 eject: ggggg
+
+Needle: eking
+1 trace: bbbby
+2 widen: bybyy
+3 eying: gbggg
+4 eking: ggggg
+
+Needle: elate
+1 trace: ybgbg
+2 slate: bgggg
+3 elate: ggggg
+
+Needle: elbow
+1 trace: bbbby
+2 widen: ybbyb
+3 elbow: ggggg
+
+Needle: elder
+1 trace: bybby
+2 risen: ybbgb
+3 lower: ybbgg
+4 bluer: bgbgg
+5 elder: ggggg
+
+Needle: elect
+1 trace: ybbgy
+2 evict: gbbgg
+3 eject: gbggg
+4 elect: ggggg
+
+Needle: elegy
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbgyb
+4 elegy: ggggg
+
+Needle: elfin
+1 trace: bbbby
+2 widen: bybyg
+3 elfin: ggggg
+
+Needle: elide
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: bgggg
+4 elide: ggggg
+
+Needle: elite
+1 trace: ybbbg
+2 quite: bbggg
+3 smite: bbggg
+4 elite: ggggg
+
+Needle: elope
+1 trace: bbbbg
+2 snipe: bbbgg
+3 elope: ggggg
+
+Needle: elude
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: byybg
+4 flume: bggbg
+5 elude: ggggg
+
+Needle: email
+1 trace: bbgby
+2 leash: yygbb
+3 email: ggggg
+
+Needle: embed
+1 trace: bbbby
+2 widen: bbygb
+3 speed: bbygg
+4 embed: ggggg
+
+Needle: ember
+1 trace: bybby
+2 siren: bbygb
+3 lover: bbbgg
+4 ruder: ybbgg
+5 ember: ggggg
+
+Needle: emcee
+1 trace: bbbyg
+2 close: ybbbg
+3 emcee: ggggg
+
+Needle: empty
+1 trace: ybbby
+2 spelt: byyby
+3 depth: byggb
+4 empty: ggggg
+
+Needle: enact
+1 trace: ybggy
+2 enact: ggggg
+
+Needle: endow
+1 trace: bbbby
+2 widen: ybgyy
+3 endow: ggggg
+
+Needle: enema
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: ybbyy
+4 enema: ggggg
+
+Needle: enemy
+1 trace: bbbby
+2 widen: bbbyy
+3 envoy: ggbbg
+4 enemy: ggggg
+
+Needle: enjoy
+1 trace: bbbby
+2 widen: bbbyy
+3 envoy: ggbgg
+4 enjoy: ggggg
+
+Needle: ennui
+1 trace: bbbby
+2 widen: bybyy
+3 eking: gbyyb
+4 ennui: ggggg
+
+Needle: ensue
+1 trace: bbbbg
+2 snipe: ygbbg
+3 ensue: ggggg
+
+Needle: enter
+1 trace: yybby
+2 metro: bygyb
+3 enter: ggggg
+
+Needle: entry
+1 trace: yybby
+2 metro: byggb
+3 entry: ggggg
+
+Needle: envoy
+1 trace: bbbby
+2 widen: bbbyy
+3 enjoy: ggbgg
+4 envoy: ggggg
+
+Needle: epoch
+1 trace: bbbgy
+2 belch: bybgg
+3 epoch: ggggg
+
+Needle: epoxy
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbybb
+4 epoxy: ggggg
+
+Needle: equal
+1 trace: bbyby
+2 penal: bybgg
+3 equal: ggggg
+
+Needle: equip
+1 trace: bbbby
+2 widen: bybyb
+3 helix: bybgb
+4 equip: ggggg
+
+Needle: erase
+1 trace: bggbg
+2 drape: bggbg
+3 brave: bggbg
+4 erase: ggggg
+
+Needle: erect
+1 trace: ygbgy
+2 erect: ggggg
+
+Needle: erode
+1 trace: bgbbg
+2 pride: bgbgg
+3 erode: ggggg
+
+Needle: error
+1 trace: bgbby
+2 freed: bgyyb
+3 error: ggggg
+
+Needle: erupt
+1 trace: ygbby
+2 wrest: bgybg
+3 erupt: ggggg
+
+Needle: essay
+1 trace: bbyby
+2 pedal: bybgb
+3 essay: ggggg
+
+Needle: ester
+1 trace: yybby
+2 metro: bygyb
+3 enter: gbggg
+4 ester: ggggg
+
+Needle: ether
+1 trace: yybby
+2 metro: byyyb
+3 egret: gbygy
+4 ether: ggggg
+
+Needle: ethic
+1 trace: ybbyy
+2 comet: ybbyy
+3 ethic: ggggg
+
+Needle: ethos
+1 trace: ybbby
+2 spelt: ybyby
+3 fetus: byybg
+4 ethos: ggggg
+
+Needle: etude
+1 trace: ybbbg
+2 utile: ygbbg
+3 etude: ggggg
+
+Needle: evade
+1 trace: bbgbg
+2 slave: bbgyg
+3 evade: ggggg
+
+Needle: event
+1 trace: ybbby
+2 spelt: bbgbg
+3 event: ggggg
+
+Needle: every
+1 trace: bybby
+2 siren: bbyyb
+3 lemur: bybby
+4 every: ggggg
+
+Needle: evict
+1 trace: ybbgy
+2 evict: ggggg
+
+Needle: evoke
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbbbg
+4 evoke: ggggg
+
+Needle: exact
+1 trace: ybggy
+2 enact: gbggg
+3 exact: ggggg
+
+Needle: exalt
+1 trace: ybgby
+2 leant: yygbg
+3 exalt: ggggg
+
+Needle: excel
+1 trace: bbbyy
+2 dicey: bbggb
+3 excel: ggggg
+
+Needle: exert
+1 trace: yybby
+2 metro: byygb
+3 exert: ggggg
+
+Needle: exile
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: bygbg
+4 exile: ggggg
+
+Needle: exist
+1 trace: ybbby
+2 spelt: ybybg
+3 onset: bbyyg
+4 exist: ggggg
+
+Needle: expel
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: bybgg
+4 expel: ggggg
+
+Needle: extol
+1 trace: ybbby
+2 spelt: bbyyy
+3 hotel: bygyg
+4 extol: ggggg
+
+Needle: extra
+1 trace: yyyby
+2 alter: ybgyy
+3 extra: ggggg
+
+Needle: exult
+1 trace: ybbby
+2 spelt: bbygg
+3 exult: ggggg
+
+Needle: eying
+1 trace: bbbby
+2 widen: bybyy
+3 eying: ggggg
+
+Needle: fable
+1 trace: bbybg
+2 angle: ybbgg
+3 fable: ggggg
+
+Needle: facet
+1 trace: ybyyy
+2 cheat: ybyyg
+3 facet: ggggg
+
+Needle: faint
+1 trace: ybybb
+2 satin: bgyyy
+3 faint: ggggg
+
+Needle: fairy
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgybg
+4 dairy: bgggg
+5 fairy: ggggg
+
+Needle: faith
+1 trace: ybybb
+2 satin: bgyyb
+3 faith: ggggg
+
+Needle: false
+1 trace: bbybg
+2 alive: yybbg
+3 lapse: ygbgg
+4 false: ggggg
+
+Needle: fancy
+1 trace: bbygb
+2 fancy: ggggg
+
+Needle: fanny
+1 trace: bbybb
+2 salon: bgbby
+3 handy: bggbg
+4 fanny: ggggg
+
+Needle: farce
+1 trace: byygg
+2 farce: ggggg
+
+Needle: fatal
+1 trace: ybybb
+2 satin: bggbb
+3 fatty: gggyb
+4 fatal: ggggg
+
+Needle: fatty
+1 trace: ybybb
+2 satin: bggbb
+3 fatty: ggggg
+
+Needle: fault
+1 trace: ybybb
+2 satin: bgybb
+3 fault: ggggg
+
+Needle: fauna
+1 trace: bbybb
+2 salon: bgbby
+3 fauna: ggggg
+
+Needle: favor
+1 trace: byybb
+2 manor: bgbgg
+3 valor: ygbgg
+4 favor: ggggg
+
+Needle: feast
+1 trace: ybgby
+2 least: bgggg
+3 feast: ggggg
+
+Needle: fecal
+1 trace: bbyyy
+2 decal: bgggg
+3 fecal: ggggg
+
+Needle: feign
+1 trace: bbbby
+2 widen: bybyg
+3 begin: bgyyg
+4 feign: ggggg
+
+Needle: fella
+1 trace: bbyby
+2 penal: bgbyy
+3 fella: ggggg
+
+Needle: felon
+1 trace: bbbby
+2 widen: bbbyg
+3 melon: bgggg
+4 felon: ggggg
+
+Needle: femme
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbbbg
+4 evoke: ybbbg
+5 femme: ggggg
+
+Needle: femur
+1 trace: bybby
+2 siren: bbyyb
+3 lemur: bgggg
+4 demur: bgggg
+5 femur: ggggg
+
+Needle: fence
+1 trace: bbbgg
+2 ounce: bbggg
+3 hence: bgggg
+4 fence: ggggg
+
+Needle: feral
+1 trace: byyby
+2 relay: ygygb
+3 feral: ggggg
+
+Needle: ferry
+1 trace: bybby
+2 diner: bbbyy
+3 merry: bgggg
+4 berry: bgggg
+5 ferry: ggggg
+
+Needle: fetal
+1 trace: ybyby
+2 pleat: byygy
+3 fetal: ggggg
+
+Needle: fetch
+1 trace: ybbgy
+2 edict: ybbgy
+3 fetch: ggggg
+
+Needle: fetid
+1 trace: ybbby
+2 spelt: bbyby
+3 fetid: ggggg
+
+Needle: fetus
+1 trace: ybbby
+2 spelt: ybyby
+3 ethos: yybbg
+4 fetus: ggggg
+
+Needle: fever
+1 trace: bybby
+2 siren: bbygb
+3 revel: ygggb
+4 fever: ggggg
+
+Needle: fewer
+1 trace: bybby
+2 siren: bbygb
+3 revel: ygbgb
+4 defer: bgygg
+5 fewer: ggggg
+
+Needle: fiber
+1 trace: bybby
+2 risen: ygbgb
+3 diver: bgbgg
+4 filer: ggbgg
+5 fiber: ggggg
+
+Needle: fibre
+1 trace: bybbg
+2 surge: bbybg
+3 rhyme: ybbbg
+4 fibre: ggggg
+
+Needle: ficus
+1 trace: bbbyb
+2 cumin: yybyb
+3 ficus: ggggg
+
+Needle: field
+1 trace: bbbby
+2 widen: bgyyb
+3 field: ggggg
+
+Needle: fiend
+1 trace: bbbby
+2 widen: bgyyy
+3 fiend: ggggg
+
+Needle: fiery
+1 trace: bybby
+2 siren: bgyyb
+3 fiery: ggggg
+
+Needle: fifth
+1 trace: ybbbb
+2 hoist: ybyby
+3 fifth: ggggg
+
+Needle: fifty
+1 trace: ybbbb
+2 point: bbyby
+3 fifth: ggggb
+4 fifty: ggggg
+
+Needle: fight
+1 trace: ybbbb
+2 hoist: ybybg
+3 might: bgggg
+4 night: bgggg
+5 fight: ggggg
+
+Needle: filer
+1 trace: bybby
+2 diner: bgbgg
+3 river: ygbgg
+4 fixer: ggbgg
+5 fiber: ggbgg
+6 filer: ggggg
+
+Needle: filet
+1 trace: ybbby
+2 spelt: bbyyg
+3 filet: ggggg
+
+Needle: filly
+1 trace: bbbbb
+2 spiny: bbybg
+3 filly: ggggg
+
+Needle: filmy
+1 trace: bbbbb
+2 slimy: byygg
+3 filmy: ggggg
+
+Needle: filth
+1 trace: ybbbb
+2 point: bbyby
+3 fifty: ggygb
+4 filth: ggggg
+
+Needle: final
+1 trace: bbybb
+2 salon: byyby
+3 annul: yygbg
+4 final: ggggg
+
+Needle: finch
+1 trace: bbbgb
+2 couch: ybbgg
+3 which: byygg
+4 finch: ggggg
+
+Needle: finer
+1 trace: bybby
+2 risen: ygbgy
+3 liner: bgggg
+4 finer: ggggg
+
+Needle: first
+1 trace: yybbb
+2 short: ybbyg
+3 burst: bbggg
+4 first: ggggg
+
+Needle: fishy
+1 trace: bbbbb
+2 spiny: ybybg
+3 fishy: ggggg
+
+Needle: fixer
+1 trace: bybby
+2 diner: bgbgg
+3 river: ygbgg
+4 fiber: ggbgg
+5 filer: ggbgg
+6 fixer: ggggg
+
+Needle: fizzy
+1 trace: bbbbb
+2 spiny: bbybg
+3 filmy: ggbbg
+4 fizzy: ggggg
+
+Needle: fjord
+1 trace: bybbb
+2 surly: bbybb
+3 rhino: ybbby
+4 fjord: ggggg
+
+Needle: flack
+1 trace: bbggb
+2 black: bgggg
+3 clack: ygggg
+4 flack: ggggg
+
+Needle: flail
+1 trace: bbgbb
+2 slain: bgggb
+3 flail: ggggg
+
+Needle: flair
+1 trace: bygbb
+2 shark: bbgyb
+3 flair: ggggg
+
+Needle: flake
+1 trace: bbgbg
+2 slave: bggbg
+3 blame: bggbg
+4 glade: bggbg
+5 flake: ggggg
+
+Needle: flaky
+1 trace: bbgbb
+2 slain: bggbb
+3 llama: yggby
+4 flaky: ggggg
+
+Needle: flame
+1 trace: bbgbg
+2 slave: bggbg
+3 blaze: bggbg
+4 flame: ggggg
+
+Needle: flank
+1 trace: bbgbb
+2 slain: bggby
+3 bland: bgggb
+4 flank: ggggg
+
+Needle: flare
+1 trace: bygbg
+2 snare: bbggg
+3 flare: ggggg
+
+Needle: flash
+1 trace: bbgbb
+2 slain: yggbb
+3 flash: ggggg
+
+Needle: flask
+1 trace: bbgbb
+2 slain: yggbb
+3 flask: ggggg
+
+Needle: fleck
+1 trace: bbbgy
+2 belch: byygb
+3 fleck: ggggg
+
+Needle: fleet
+1 trace: ybbby
+2 spelt: bbgyg
+3 fleet: ggggg
+
+Needle: flesh
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: yygyy
+4 flesh: ggggg
+
+Needle: flick
+1 trace: bbbgb
+2 couch: ybbgb
+3 flick: ggggg
+
+Needle: flier
+1 trace: bybby
+2 risen: yybgb
+3 plier: bgggg
+4 flier: ggggg
+
+Needle: fling
+1 trace: bbbbb
+2 slimy: bggbb
+3 blind: bgggb
+4 fling: ggggg
+
+Needle: flint
+1 trace: ybbbb
+2 point: bbggg
+3 flint: ggggg
+
+Needle: flirt
+1 trace: yybbb
+2 short: bbbgg
+3 blurt: bgbgg
+4 flirt: ggggg
+
+Needle: float
+1 trace: ybybb
+2 satin: byybb
+3 bloat: bgggg
+4 float: ggggg
+
+Needle: flock
+1 trace: bbbgb
+2 couch: yybgb
+3 flock: ggggg
+
+Needle: flood
+1 trace: bbbbb
+2 spiny: bbbbb
+3 gumbo: bbbby
+4 flood: ggggg
+
+Needle: floor
+1 trace: bybbb
+2 surly: bbyyb
+3 floor: ggggg
+
+Needle: flora
+1 trace: byybb
+2 manor: bybyy
+3 flora: ggggg
+
+Needle: floss
+1 trace: bbbbb
+2 slimy: ygbbb
+3 floss: ggggg
+
+Needle: flour
+1 trace: bybbb
+2 surly: byyyb
+3 blurb: bgyyb
+4 flour: ggggg
+
+Needle: flout
+1 trace: ybbbb
+2 hoist: bybbg
+3 flout: ggggg
+
+Needle: flown
+1 trace: bbbbb
+2 spiny: bbbyb
+3 flown: ggggg
+
+Needle: fluff
+1 trace: bbbbb
+2 slimy: bgbbb
+3 flunk: gggbb
+4 fluff: ggggg
+
+Needle: fluid
+1 trace: bbbbb
+2 slimy: bgybb
+3 fluid: ggggg
+
+Needle: fluke
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: byybg
+4 fluke: ggggg
+
+Needle: flume
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: byybg
+4 flume: ggggg
+
+Needle: flung
+1 trace: bbbbb
+2 spiny: bbbgb
+3 flunk: ggggb
+4 flung: ggggg
+
+Needle: flunk
+1 trace: bbbbb
+2 spiny: bbbgb
+3 flung: ggggb
+4 flunk: ggggg
+
+Needle: flush
+1 trace: bbbbb
+2 spiny: ybbbb
+3 floss: ggbgy
+4 flush: ggggg
+
+Needle: flute
+1 trace: ybbbg
+2 quite: bybgg
+3 flute: ggggg
+
+Needle: flyer
+1 trace: bybby
+2 risen: ybbgb
+3 lover: ybbgg
+4 elder: ygbgg
+5 bluer: bgbgg
+6 flyer: ggggg
+
+Needle: foamy
+1 trace: bbgbb
+2 slain: bbgbb
+3 foamy: ggggg
+
+Needle: focal
+1 trace: bbyyb
+2 canal: yybgg
+3 focal: ggggg
+
+Needle: focus
+1 trace: bbbyb
+2 cumin: yybbb
+3 focus: ggggg
+
+Needle: foggy
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: ygybg
+4 foggy: ggggg
+
+Needle: foist
+1 trace: ybbbb
+2 point: bggbg
+3 joist: bgggg
+4 foist: ggggg
+
+Needle: folio
+1 trace: bbbbb
+2 spiny: bbybb
+3 livid: yybgb
+4 folio: ggggg
+
+Needle: folly
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgbgg
+4 lowly: ygbgg
+5 holly: bgggg
+6 folly: ggggg
+
+Needle: foray
+1 trace: byybb
+2 manor: bybyy
+3 flora: gbyyy
+4 foray: ggggg
+
+Needle: force
+1 trace: bybgg
+2 force: ggggg
+
+Needle: forge
+1 trace: bybbg
+2 surge: bbggg
+3 verge: byggg
+4 gorge: ygggg
+5 forge: ggggg
+
+Needle: forgo
+1 trace: bybbb
+2 surly: bbgbb
+3 morph: bggbb
+4 forgo: ggggg
+
+Needle: forte
+1 trace: yybbg
+2 forte: ggggg
+
+Needle: forth
+1 trace: yybbb
+2 short: byyyy
+3 north: bgggg
+4 forth: ggggg
+
+Needle: forty
+1 trace: yybbb
+2 short: bbyyy
+3 motor: bgyyy
+4 forty: ggggg
+
+Needle: forum
+1 trace: bybbb
+2 surly: bygbb
+3 forum: ggggg
+
+Needle: found
+1 trace: bbbbb
+2 spiny: bbbgb
+3 flunk: gbggb
+4 found: ggggg
+
+Needle: foyer
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbbgg
+4 lower: bgbgg
+5 homer: bgbgg
+6 roger: ygbgg
+7 boxer: bgbgg
+8 foyer: ggggg
+
+Needle: frail
+1 trace: bggbb
+2 drain: bgggb
+3 frail: ggggg
+
+Needle: frame
+1 trace: bggbg
+2 drape: bggbg
+3 grave: bggbg
+4 erase: yggbg
+5 brake: bggbg
+6 frame: ggggg
+
+Needle: frank
+1 trace: bggbb
+2 drain: bggby
+3 frank: ggggg
+
+Needle: fraud
+1 trace: bggbb
+2 drawn: yggbb
+3 braid: bggbg
+4 fraud: ggggg
+
+Needle: freak
+1 trace: bgyby
+2 bread: bgggb
+3 freak: ggggg
+
+Needle: freed
+1 trace: bgbby
+2 freed: ggggg
+
+Needle: freer
+1 trace: bgbby
+2 freed: ggggb
+3 freer: ggggg
+
+Needle: fresh
+1 trace: bgbby
+2 freed: gggyb
+3 fresh: ggggg
+
+Needle: friar
+1 trace: bgybb
+2 arbor: ygbbg
+3 friar: ggggg
+
+Needle: fried
+1 trace: bgbby
+2 freed: ggygg
+3 fried: ggggg
+
+Needle: frill
+1 trace: bgbbb
+2 drink: bggbb
+3 primo: bggbb
+4 frill: ggggg
+
+Needle: frisk
+1 trace: bgbbb
+2 drink: bggbg
+3 brisk: bgggg
+4 frisk: ggggg
+
+Needle: fritz
+1 trace: ygbbb
+2 front: ggbby
+3 fritz: ggggg
+
+Needle: frock
+1 trace: bgbgb
+2 crock: ygggg
+3 frock: ggggg
+
+Needle: frond
+1 trace: bgbbb
+2 drink: ygbgb
+3 frond: ggggg
+
+Needle: front
+1 trace: ygbbb
+2 front: ggggg
+
+Needle: frost
+1 trace: ygbbb
+2 front: gggbg
+3 frost: ggggg
+
+Needle: froth
+1 trace: ygbbb
+2 front: gggby
+3 froth: ggggg
+
+Needle: frown
+1 trace: bgbbb
+2 drink: bgbyb
+3 frown: ggggg
+
+Needle: froze
+1 trace: bgbbg
+2 pride: bgbbg
+3 broke: bggbg
+4 froze: ggggg
+
+Needle: fruit
+1 trace: ygbbb
+2 front: ggbbg
+3 fruit: ggggg
+
+Needle: fudge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bgbgg
+4 fudge: ggggg
+
+Needle: fugue
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bgbyg
+4 fugue: ggggg
+
+Needle: fully
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bbbgg
+4 bully: bgggg
+5 fully: ggggg
+
+Needle: fungi
+1 trace: bbbbb
+2 spiny: bbyyb
+3 dingo: byggb
+4 fungi: ggggg
+
+Needle: funky
+1 trace: bbbbb
+2 spiny: bbbyg
+3 funky: ggggg
+
+Needle: funny
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bbbbg
+4 funny: ggggg
+
+Needle: furor
+1 trace: bybbb
+2 surly: bggbb
+3 furor: ggggg
+
+Needle: furry
+1 trace: bybbb
+2 surly: bggbg
+3 hurry: bgggg
+4 furry: ggggg
+
+Needle: fussy
+1 trace: bbbbb
+2 spiny: ybbbg
+3 mushy: bggbg
+4 dusky: bggbg
+5 fussy: ggggg
+
+Needle: fuzzy
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bbbbg
+4 funny: ggbbg
+5 fuzzy: ggggg
+
+Needle: gaffe
+1 trace: bbybg
+2 alive: ybbbg
+3 gauge: ggbyg
+4 gaffe: ggggg
+
+Needle: gaily
+1 trace: bbybb
+2 salon: bgybb
+3 gaily: ggggg
+
+Needle: gamer
+1 trace: byyby
+2 relay: yybyb
+3 gamer: ggggg
+
+Needle: gamma
+1 trace: bbybb
+2 salon: bgbbb
+3 gamma: ggggg
+
+Needle: gamut
+1 trace: ybybb
+2 satin: bgybb
+3 fault: bgybg
+4 gamut: ggggg
+
+Needle: gassy
+1 trace: bbybb
+2 salon: ygbbb
+3 basis: bggby
+4 gassy: ggggg
+
+Needle: gaudy
+1 trace: bbybb
+2 salon: bgbbb
+3 gamma: ggbby
+4 gaudy: ggggg
+
+Needle: gauge
+1 trace: bbybg
+2 angle: ybybg
+3 gauge: ggggg
+
+Needle: gaunt
+1 trace: ybybb
+2 satin: bgyby
+3 jaunt: bgggg
+4 daunt: bgggg
+5 haunt: bgggg
+6 gaunt: ggggg
+
+Needle: gauze
+1 trace: bbybg
+2 alive: ybbbg
+3 gauge: gggyg
+4 gauze: ggggg
+
+Needle: gavel
+1 trace: bbyby
+2 pedal: bybyg
+3 bagel: bgygg
+4 gavel: ggggg
+
+Needle: gawky
+1 trace: bbybb
+2 salon: bgbbb
+3 gamma: ggbby
+4 gaudy: ggbbg
+5 gawky: ggggg
+
+Needle: gayer
+1 trace: byyby
+2 gamer: ggbgg
+3 gayer: ggggg
+
+Needle: gayly
+1 trace: bbybb
+2 salon: bgybb
+3 gaily: ggbgg
+4 gayly: ggggg
+
+Needle: gazer
+1 trace: byyby
+2 relay: yybyb
+3 gamer: ggbgg
+4 gazer: ggggg
+
+Needle: gecko
+1 trace: bbbyy
+2 dicey: bbgyb
+3 gecko: ggggg
+
+Needle: geeky
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbgbb
+4 geeky: ggggg
+
+Needle: geese
+1 trace: bbbbg
+2 snipe: ybbbg
+3 moose: bbbgg
+4 geese: ggggg
+
+Needle: genie
+1 trace: bbbbg
+2 snipe: byybg
+3 hinge: bygyg
+4 genie: ggggg
+
+Needle: genre
+1 trace: bybbg
+2 surge: bbyyg
+3 genre: ggggg
+
+Needle: ghost
+1 trace: ybbbb
+2 hoist: yybgg
+3 ghost: ggggg
+
+Needle: ghoul
+1 trace: bbbbb
+2 slimy: bybbb
+3 ghoul: ggggg
+
+Needle: giant
+1 trace: ybgbb
+2 slant: bbggg
+3 giant: ggggg
+
+Needle: giddy
+1 trace: bbbbb
+2 spiny: bbybg
+3 filly: bgbbg
+4 biddy: bgggg
+5 giddy: ggggg
+
+Needle: gipsy
+1 trace: bbbbb
+2 slimy: ybybg
+3 fishy: bgybg
+4 gipsy: ggggg
+
+Needle: girly
+1 trace: bybbb
+2 surly: bbggg
+3 girly: ggggg
+
+Needle: girth
+1 trace: yybbb
+2 short: bybyy
+3 birth: bgggg
+4 girth: ggggg
+
+Needle: given
+1 trace: bbbby
+2 widen: bgbgg
+3 liken: bgbgg
+4 given: ggggg
+
+Needle: giver
+1 trace: bybby
+2 diner: bgbgg
+3 liver: bgggg
+4 giver: ggggg
+
+Needle: glade
+1 trace: bbgbg
+2 slave: bggbg
+3 blame: bggbg
+4 glade: ggggg
+
+Needle: gland
+1 trace: bbgbb
+2 slain: bggby
+3 blank: bgggb
+4 gland: ggggg
+
+Needle: glare
+1 trace: bygbg
+2 spare: bbggg
+3 glare: ggggg
+
+Needle: glass
+1 trace: bbgbb
+2 slain: yggbb
+3 flash: bgggb
+4 glass: ggggg
+
+Needle: glaze
+1 trace: bbgbg
+2 slave: bggbg
+3 blaze: bgggg
+4 glaze: ggggg
+
+Needle: gleam
+1 trace: bbyby
+2 penal: bybgy
+3 bleak: bgggb
+4 gleam: ggggg
+
+Needle: glean
+1 trace: bbyby
+2 pedal: bybgy
+3 gleam: ggggb
+4 glean: ggggg
+
+Needle: glide
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: ggggg
+
+Needle: glint
+1 trace: ybbbb
+2 point: bbggg
+3 flint: bgggg
+4 glint: ggggg
+
+Needle: gloat
+1 trace: ybybb
+2 satin: byybb
+3 float: bgggg
+4 bloat: bgggg
+5 gloat: ggggg
+
+Needle: globe
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: ybyyg
+4 globe: ggggg
+
+Needle: gloom
+1 trace: bbbbb
+2 slimy: bgbyb
+3 bloom: bgggg
+4 gloom: ggggg
+
+Needle: glory
+1 trace: bybbb
+2 surly: bbyyg
+3 glory: ggggg
+
+Needle: gloss
+1 trace: bbbbb
+2 slimy: ygbbb
+3 flush: bgbgb
+4 gloss: ggggg
+
+Needle: glove
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbyyg
+4 glove: ggggg
+
+Needle: glyph
+1 trace: bbbbb
+2 spiny: bybby
+3 glyph: ggggg
+
+Needle: gnash
+1 trace: bbgbb
+2 slain: ybgby
+3 gnash: ggggg
+
+Needle: gnome
+1 trace: bbbbg
+2 snipe: bgbbg
+3 gnome: ggggg
+
+Needle: godly
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: ggggg
+
+Needle: going
+1 trace: bbbbb
+2 slimy: bbgbb
+3 onion: yygyy
+4 doing: bgggg
+5 going: ggggg
+
+Needle: golem
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: bybgy
+4 sleep: byygb
+5 golem: ggggg
+
+Needle: golly
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: ggbgg
+4 golly: ggggg
+
+Needle: gonad
+1 trace: bbybb
+2 salon: bybyy
+3 among: ybyyy
+4 gonad: ggggg
+
+Needle: goner
+1 trace: bybby
+2 diner: bbggg
+3 goner: ggggg
+
+Needle: goody
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: ggggg
+
+Needle: gooey
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: bybgb
+4 gooey: ggggg
+
+Needle: goofy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: ggbbg
+4 goofy: ggggg
+
+Needle: goose
+1 trace: bbbbg
+2 snipe: ybbbg
+3 loose: bgggg
+4 goose: ggggg
+
+Needle: gorge
+1 trace: bybbg
+2 surge: bbggg
+3 gorge: ggggg
+
+Needle: gouge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bybgg
+4 gouge: ggggg
+
+Needle: gourd
+1 trace: bybbb
+2 surly: byybb
+3 mourn: bgggb
+4 gourd: ggggg
+
+Needle: grace
+1 trace: bgggg
+2 brace: bgggg
+3 grace: ggggg
+
+Needle: grade
+1 trace: bggbg
+2 drape: yggbg
+3 grade: ggggg
+
+Needle: graft
+1 trace: yggbb
+2 graft: ggggg
+
+Needle: grail
+1 trace: bggbb
+2 brand: bggbb
+3 grasp: gggbb
+4 grail: ggggg
+
+Needle: grain
+1 trace: bggbb
+2 brand: bggyb
+3 grain: ggggg
+
+Needle: grand
+1 trace: bggbb
+2 drain: yggby
+3 brand: bgggg
+4 grand: ggggg
+
+Needle: grant
+1 trace: yggbb
+2 grant: ggggg
+
+Needle: grape
+1 trace: bggbg
+2 drake: bggbg
+3 grave: gggbg
+4 grape: ggggg
+
+Needle: graph
+1 trace: bggbb
+2 brand: bggbb
+3 grasp: gggby
+4 graph: ggggg
+
+Needle: grasp
+1 trace: bggbb
+2 drawn: bggbb
+3 brass: bgggy
+4 grasp: ggggg
+
+Needle: grass
+1 trace: bggbb
+2 brand: bggbb
+3 grasp: ggggb
+4 grass: ggggg
+
+Needle: grate
+1 trace: yggbg
+2 grate: ggggg
+
+Needle: grave
+1 trace: bggbg
+2 drake: bggbg
+3 grave: ggggg
+
+Needle: gravy
+1 trace: bggbb
+2 brand: bggbb
+3 grasp: gggbb
+4 grail: gggbb
+5 gravy: ggggg
+
+Needle: graze
+1 trace: bggbg
+2 drape: bggbg
+3 brave: bggbg
+4 erase: yggbg
+5 frame: bggbg
+6 graze: ggggg
+
+Needle: great
+1 trace: ygyby
+2 great: ggggg
+
+Needle: greed
+1 trace: bgbby
+2 freed: bgggg
+3 breed: bgggg
+4 greed: ggggg
+
+Needle: green
+1 trace: bgbby
+2 freed: bgggb
+3 green: ggggg
+
+Needle: greet
+1 trace: ygbby
+2 wrest: bggbg
+3 greet: ggggg
+
+Needle: grief
+1 trace: bgbby
+2 freed: ygygb
+3 brief: bgggg
+4 grief: ggggg
+
+Needle: grill
+1 trace: bgbbb
+2 grind: gggbb
+3 grill: ggggg
+
+Needle: grime
+1 trace: bgbbg
+2 pride: bggbg
+3 brine: bggbg
+4 grime: ggggg
+
+Needle: grimy
+1 trace: bgbbb
+2 grind: gggbb
+3 grill: gggbb
+4 grimy: ggggg
+
+Needle: grind
+1 trace: bgbbb
+2 drink: ygggb
+3 grind: ggggg
+
+Needle: gripe
+1 trace: bgbbg
+2 pride: yggbg
+3 gripe: ggggg
+
+Needle: groan
+1 trace: bgybb
+2 arbor: ygbyy
+3 groan: ggggg
+
+Needle: groin
+1 trace: bgbbb
+2 grind: ggyyb
+3 groin: ggggg
+
+Needle: groom
+1 trace: bgbbb
+2 grind: ggbbb
+3 groom: ggggg
+
+Needle: grope
+1 trace: bgbbg
+2 pride: ygbbg
+3 grope: ggggg
+
+Needle: gross
+1 trace: bgbbb
+2 grind: ggbbb
+3 groom: gggyb
+4 gross: ggggg
+
+Needle: group
+1 trace: bgbbb
+2 grind: ggbbb
+3 growl: gggbb
+4 groom: gggyb
+5 gross: gggbb
+6 group: ggggg
+
+Needle: grout
+1 trace: ygbbb
+2 frost: bggbg
+3 droit: bggbg
+4 grout: ggggg
+
+Needle: grove
+1 trace: bgbbg
+2 pride: bgbbg
+3 broke: bggbg
+4 froze: bggbg
+5 grove: ggggg
+
+Needle: growl
+1 trace: bgbbb
+2 drink: bgbbb
+3 prowl: bgggg
+4 growl: ggggg
+
+Needle: grown
+1 trace: bgbbb
+2 drink: bgbyb
+3 frown: bgggg
+4 brown: bgggg
+5 grown: ggggg
+
+Needle: gruel
+1 trace: bgbby
+2 freed: bgygb
+3 gruel: ggggg
+
+Needle: gruff
+1 trace: bgbbb
+2 drink: bgbbb
+3 growl: ggbbb
+4 gruff: ggggg
+
+Needle: grunt
+1 trace: ygbbb
+2 frost: bgbbg
+3 brunt: bgggg
+4 grunt: ggggg
+
+Needle: guard
+1 trace: bygbb
+2 hoard: bbggg
+3 award: ybggg
+4 guard: ggggg
+
+Needle: guava
+1 trace: bbgbb
+2 slain: bbgbb
+3 foamy: bbgbb
+4 guava: ggggg
+
+Needle: guess
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: ybgbb
+4 guess: ggggg
+
+Needle: guest
+1 trace: ybbby
+2 spelt: ybgbg
+3 guest: ggggg
+
+Needle: guide
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: gbggg
+4 guide: ggggg
+
+Needle: guild
+1 trace: bbbbb
+2 slimy: bygbb
+3 guild: ggggg
+
+Needle: guile
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: gygbg
+4 guile: ggggg
+
+Needle: guilt
+1 trace: ybbbb
+2 hoist: bbgbg
+3 glint: gygbg
+4 guilt: ggggg
+
+Needle: guise
+1 trace: bbbbg
+2 snipe: ybgbg
+3 guise: ggggg
+
+Needle: gulch
+1 trace: bbbgb
+2 couch: ybygg
+3 mulch: bgggg
+4 gulch: ggggg
+
+Needle: gully
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: gbbgg
+4 gully: ggggg
+
+Needle: gumbo
+1 trace: bbbbb
+2 spiny: bbbbb
+3 gumbo: ggggg
+
+Needle: gummy
+1 trace: bbbbb
+2 slimy: bbbgg
+3 gummy: ggggg
+
+Needle: guppy
+1 trace: bbbbb
+2 spiny: bybbg
+3 pulpy: ygbgg
+4 dumpy: bgbgg
+5 guppy: ggggg
+
+Needle: gusto
+1 trace: ybbbb
+2 hoist: bybyy
+3 stoop: yyyyb
+4 gusto: ggggg
+
+Needle: gusty
+1 trace: ybbbb
+2 point: bbbby
+3 study: yyybg
+4 gusty: ggggg
+
+Needle: gypsy
+1 trace: bbbbb
+2 spiny: yybbg
+3 gypsy: ggggg
+
+Needle: habit
+1 trace: ybybb
+2 satin: bgygb
+3 habit: ggggg
+
+Needle: hairy
+1 trace: byybb
+2 manor: bgbby
+3 harpy: ggybg
+4 hairy: ggggg
+
+Needle: halve
+1 trace: bbybg
+2 angle: ybbyg
+3 salve: bgggg
+4 halve: ggggg
+
+Needle: handy
+1 trace: bbybb
+2 salon: bgbby
+3 mangy: bggbg
+4 dandy: ygggg
+5 handy: ggggg
+
+Needle: happy
+1 trace: bbybb
+2 salon: bgbbb
+3 gawky: bgbbg
+4 paddy: ygbbg
+5 happy: ggggg
+
+Needle: hardy
+1 trace: byybb
+2 manor: bgbby
+3 harpy: gggbg
+4 hardy: ggggg
+
+Needle: harem
+1 trace: byyby
+2 relay: yybyb
+3 gamer: bgygy
+4 harem: ggggg
+
+Needle: harpy
+1 trace: byybb
+2 manor: bgbby
+3 harpy: ggggg
+
+Needle: harry
+1 trace: byybb
+2 manor: bgbby
+3 harpy: gggbg
+4 hardy: gggbg
+5 harry: ggggg
+
+Needle: harsh
+1 trace: byybb
+2 manor: bgbby
+3 harpy: gggbb
+4 harsh: ggggg
+
+Needle: haste
+1 trace: ybybg
+2 baste: bgggg
+3 haste: ggggg
+
+Needle: hasty
+1 trace: ybybb
+2 satin: ygybb
+3 hasty: ggggg
+
+Needle: hatch
+1 trace: ybygb
+2 latch: bgggg
+3 match: bgggg
+4 catch: ygggg
+5 hatch: ggggg
+
+Needle: hater
+1 trace: yyyby
+2 later: bgggg
+3 hater: ggggg
+
+Needle: haunt
+1 trace: ybybb
+2 satin: bgyby
+3 jaunt: bgggg
+4 gaunt: bgggg
+5 haunt: ggggg
+
+Needle: haute
+1 trace: ybybg
+2 haste: ggbgg
+3 haute: ggggg
+
+Needle: haven
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: ybygg
+4 haven: ggggg
+
+Needle: havoc
+1 trace: bbyyb
+2 canal: ygbyb
+3 magic: bgbbg
+4 havoc: ggggg
+
+Needle: hazel
+1 trace: bbyby
+2 pedal: bybyg
+3 angel: ybbgg
+4 hazel: ggggg
+
+Needle: heady
+1 trace: bbgby
+2 leash: bggby
+3 heady: ggggg
+
+Needle: heard
+1 trace: bygby
+2 yearn: bgggb
+3 heard: ggggg
+
+Needle: heart
+1 trace: yygby
+2 heart: ggggg
+
+Needle: heath
+1 trace: ybgby
+2 least: bggby
+3 death: bgggg
+4 heath: ggggg
+
+Needle: heave
+1 trace: bbgbg
+2 slave: bbggg
+3 heave: ggggg
+
+Needle: heavy
+1 trace: bbgby
+2 leash: bggby
+3 heady: gggbg
+4 heavy: ggggg
+
+Needle: hedge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbbgg
+4 wedge: bgggg
+5 hedge: ggggg
+
+Needle: hefty
+1 trace: ybbby
+2 spelt: bbyby
+3 fetid: ygybb
+4 hefty: ggggg
+
+Needle: heist
+1 trace: ybbby
+2 spelt: ybybg
+3 onset: bbyyg
+4 exist: ybggg
+5 heist: ggggg
+
+Needle: helix
+1 trace: bbbby
+2 widen: bybyb
+3 sheik: byygb
+4 helix: ggggg
+
+Needle: hello
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: byygb
+4 hello: ggggg
+
+Needle: hence
+1 trace: bbbgg
+2 pence: bgggg
+3 fence: bgggg
+4 hence: ggggg
+
+Needle: heron
+1 trace: bybby
+2 risen: ybbyg
+3 heron: ggggg
+
+Needle: hilly
+1 trace: bbbbb
+2 spiny: bbybg
+3 filly: bgggg
+4 hilly: ggggg
+
+Needle: hinge
+1 trace: bbbbg
+2 snipe: byybg
+3 hinge: ggggg
+
+Needle: hippo
+1 trace: bbbbb
+2 spiny: byybb
+3 hippo: ggggg
+
+Needle: hippy
+1 trace: bbbbb
+2 slimy: bbybg
+3 dingy: bgbbg
+4 jiffy: bgbbg
+5 hippy: ggggg
+
+Needle: hitch
+1 trace: ybbgb
+2 botch: bbggg
+3 hutch: gbggg
+4 hitch: ggggg
+
+Needle: hoard
+1 trace: bygbb
+2 hoard: ggggg
+
+Needle: hobby
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bgybg
+4 hobby: ggggg
+
+Needle: hoist
+1 trace: ybbbb
+2 point: bggbg
+3 foist: bgggg
+4 joist: bgggg
+5 hoist: ggggg
+
+Needle: holly
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgbgg
+4 lowly: ygbgg
+5 folly: bgggg
+6 holly: ggggg
+
+Needle: homer
+1 trace: bybby
+2 risen: ybbgb
+3 lower: bgbgg
+4 mover: ygbgg
+5 homer: ggggg
+
+Needle: honey
+1 trace: bbbby
+2 widen: bbbgy
+3 boney: bgggg
+4 honey: ggggg
+
+Needle: honor
+1 trace: bybbb
+2 surly: bbybb
+3 rigid: ybbbb
+4 honor: ggggg
+
+Needle: horde
+1 trace: bybbg
+2 surge: bbgbg
+3 nerve: bygbg
+4 horde: ggggg
+
+Needle: horny
+1 trace: bybbb
+2 surly: bbgbg
+3 worry: bggyg
+4 horny: ggggg
+
+Needle: horse
+1 trace: bybbg
+2 surge: ybgbg
+3 worse: bgggg
+4 horse: ggggg
+
+Needle: hotel
+1 trace: ybbby
+2 spelt: bbyyy
+3 hotel: ggggg
+
+Needle: hotly
+1 trace: ybbbb
+2 hoist: ggbby
+3 hotly: ggggg
+
+Needle: hound
+1 trace: bbbbb
+2 spiny: bbbgb
+3 flunk: bbggb
+4 bound: bgggg
+5 mound: bgggg
+6 hound: ggggg
+
+Needle: house
+1 trace: bbbbg
+2 snipe: ybbbg
+3 loose: bgygg
+4 house: ggggg
+
+Needle: hovel
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: byggg
+4 hovel: ggggg
+
+Needle: hover
+1 trace: bybby
+2 risen: ybbgb
+3 lower: bgbgg
+4 homer: ggbgg
+5 hover: ggggg
+
+Needle: howdy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgybg
+4 howdy: ggggg
+
+Needle: human
+1 trace: bbybb
+2 salon: bybbg
+3 admin: ybgbg
+4 human: ggggg
+
+Needle: humid
+1 trace: bbbbb
+2 slimy: bbyyb
+3 humid: ggggg
+
+Needle: humor
+1 trace: bybbb
+2 surly: bgybb
+3 rumor: ygggg
+4 humor: ggggg
+
+Needle: humph
+1 trace: bbbbb
+2 slimy: bbbyb
+3 jumbo: bggbb
+4 humph: ggggg
+
+Needle: humus
+1 trace: bbbbb
+2 slimy: ybbyb
+3 bosom: bbyby
+4 humus: ggggg
+
+Needle: hunch
+1 trace: bbbgb
+2 couch: ybygg
+3 mulch: bgbgg
+4 bunch: bgggg
+5 hunch: ggggg
+
+Needle: hunky
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bbbbg
+4 funny: bggyg
+5 hunky: ggggg
+
+Needle: hurry
+1 trace: bybbb
+2 surly: bggbg
+3 furry: bgggg
+4 hurry: ggggg
+
+Needle: husky
+1 trace: bbbbb
+2 slimy: ybbbg
+3 hussy: gggyg
+4 husky: ggggg
+
+Needle: hussy
+1 trace: bbbbb
+2 spiny: ybbbg
+3 mushy: bggyg
+4 husky: gggbg
+5 hussy: ggggg
+
+Needle: hutch
+1 trace: ybbgb
+2 hutch: ggggg
+
+Needle: hydro
+1 trace: bybbb
+2 surly: bbyby
+3 hydro: ggggg
+
+Needle: hyena
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: ybyyy
+4 hyena: ggggg
+
+Needle: hymen
+1 trace: bbbby
+2 widen: bbbgg
+3 semen: byggg
+4 hymen: ggggg
+
+Needle: hyper
+1 trace: bybby
+2 risen: ybbgb
+3 older: bbbgg
+4 buyer: bbygg
+5 hyper: ggggg
+
+Needle: icily
+1 trace: bbbyb
+2 could: ybbgb
+3 icily: ggggg
+
+Needle: icing
+1 trace: bbbyb
+2 could: ybbbb
+3 mimic: bybyy
+4 icing: ggggg
+
+Needle: ideal
+1 trace: bbyby
+2 penal: bybgg
+3 equal: ybbgg
+4 ideal: ggggg
+
+Needle: idiom
+1 trace: bbbbb
+2 slimy: bbgyb
+3 idiom: ggggg
+
+Needle: idiot
+1 trace: ybbbb
+2 hoist: bygbg
+3 idiot: ggggg
+
+Needle: idler
+1 trace: bybby
+2 diner: yybgg
+3 idler: ggggg
+
+Needle: idyll
+1 trace: bbbbb
+2 slimy: byyby
+3 idyll: ggggg
+
+Needle: igloo
+1 trace: bbbbb
+2 slimy: byybb
+3 vigil: byyyy
+4 igloo: ggggg
+
+Needle: iliac
+1 trace: bbyyb
+2 canal: yybgy
+3 iliac: ggggg
+
+Needle: image
+1 trace: bbgbg
+2 slave: bbgbg
+3 image: ggggg
+
+Needle: imbue
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: yybbg
+4 imbue: ggggg
+
+Needle: impel
+1 trace: bbbby
+2 widen: bybgb
+3 impel: ggggg
+
+Needle: imply
+1 trace: bbbbb
+2 spiny: byybg
+3 hippy: bygyg
+4 imply: ggggg
+
+Needle: inane
+1 trace: bbgbg
+2 slave: bbgbg
+3 image: gbgbg
+4 inane: ggggg
+
+Needle: inbox
+1 trace: bbbbb
+2 slimy: bbybb
+3 dingo: byyby
+4 inbox: ggggg
+
+Needle: incur
+1 trace: bybyb
+2 choir: ybbyg
+3 incur: ggggg
+
+Needle: index
+1 trace: bbbby
+2 widen: byggy
+3 index: ggggg
+
+Needle: inept
+1 trace: ybbby
+2 spelt: bygbg
+3 inept: ggggg
+
+Needle: inert
+1 trace: yybby
+2 metro: byygb
+3 inert: ggggg
+
+Needle: infer
+1 trace: bybby
+2 risen: yybgy
+3 infer: ggggg
+
+Needle: ingot
+1 trace: ybbbb
+2 hoist: byybg
+3 pivot: bybgg
+4 ingot: ggggg
+
+Needle: inlay
+1 trace: bbybb
+2 salon: bygby
+3 inlay: ggggg
+
+Needle: inlet
+1 trace: ybbby
+2 spelt: bbyyg
+3 filet: byggg
+4 inlet: ggggg
+
+Needle: inner
+1 trace: bybby
+2 diner: byggg
+3 inner: ggggg
+
+Needle: input
+1 trace: ybbbb
+2 point: ybyyg
+3 input: ggggg
+
+Needle: inter
+1 trace: yybby
+2 metro: bygyb
+3 enter: ygggg
+4 inter: ggggg
+
+Needle: intro
+1 trace: yybbb
+2 short: bbygy
+3 intro: ggggg
+
+Needle: ionic
+1 trace: bbbyb
+2 cumin: ybbgy
+3 ionic: ggggg
+
+Needle: irate
+1 trace: yggbg
+2 grate: bgggg
+3 irate: ggggg
+
+Needle: irony
+1 trace: bgbbb
+2 drink: bgygb
+3 irony: ggggg
+
+Needle: islet
+1 trace: ybbby
+2 spelt: ybyyg
+3 islet: ggggg
+
+Needle: issue
+1 trace: bbbbg
+2 snipe: ybybg
+3 issue: ggggg
+
+Needle: itchy
+1 trace: ybbyb
+2 scout: bybby
+3 itchy: ggggg
+
+Needle: ivory
+1 trace: bybbb
+2 surly: bbybg
+3 ivory: ggggg
+
+Needle: jaunt
+1 trace: ybybb
+2 satin: bgyby
+3 jaunt: ggggg
+
+Needle: jazzy
+1 trace: bbybb
+2 salon: bgbbb
+3 gaudy: bgbbg
+4 jazzy: ggggg
+
+Needle: jelly
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbygb
+4 belly: bgggg
+5 jelly: ggggg
+
+Needle: jerky
+1 trace: bybby
+2 diner: bbbyy
+3 merry: bggyg
+4 jerky: ggggg
+
+Needle: jetty
+1 trace: ybbby
+2 spelt: bbyby
+3 detox: bggbb
+4 jetty: ggggg
+
+Needle: jewel
+1 trace: bbbby
+2 widen: ybbgb
+3 vowel: bbggg
+4 jewel: ggggg
+
+Needle: jiffy
+1 trace: bbbbb
+2 spiny: bbybg
+3 filly: ygbbg
+4 jiffy: ggggg
+
+Needle: joint
+1 trace: ybbbb
+2 hoist: bggbg
+3 joint: ggggg
+
+Needle: joist
+1 trace: ybbbb
+2 hoist: bgggg
+3 joist: ggggg
+
+Needle: joker
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbbgg
+4 lower: bgbgg
+5 mover: bgbgg
+6 foyer: bgbgg
+7 boxer: bgbgg
+8 joker: ggggg
+
+Needle: jolly
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgbgg
+4 jolly: ggggg
+
+Needle: joust
+1 trace: ybbbb
+2 point: bgbbg
+3 boost: bgygg
+4 joust: ggggg
+
+Needle: judge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bgbgg
+4 fudge: bgggg
+5 judge: ggggg
+
+Needle: juice
+1 trace: bbbgg
+2 ounce: bgbgg
+3 juice: ggggg
+
+Needle: juicy
+1 trace: bbbgb
+2 couch: ybygb
+3 juicy: ggggg
+
+Needle: jumbo
+1 trace: bbbbb
+2 slimy: bbbyb
+3 jumbo: ggggg
+
+Needle: jumpy
+1 trace: bbbbb
+2 slimy: bbbyg
+3 jumpy: ggggg
+
+Needle: junta
+1 trace: ybybb
+2 satin: byyby
+3 aunty: ygggb
+4 junta: ggggg
+
+Needle: junto
+1 trace: ybbbb
+2 point: bybyy
+3 junto: ggggg
+
+Needle: juror
+1 trace: bybbb
+2 surly: bggbb
+3 furor: bgggg
+4 juror: ggggg
+
+Needle: kappa
+1 trace: bbybb
+2 salon: bgbbb
+3 paddy: ygbbb
+4 kappa: ggggg
+
+Needle: karma
+1 trace: byybb
+2 manor: ygbby
+3 karma: ggggg
+
+Needle: kayak
+1 trace: bbybb
+2 salon: bgbbb
+3 magma: bgbby
+4 paddy: bgbby
+5 kayak: ggggg
+
+Needle: kebab
+1 trace: bbyby
+2 pedal: bgbgb
+3 began: ygbgb
+4 kebab: ggggg
+
+Needle: khaki
+1 trace: bbgbb
+2 slain: bbgyb
+3 khaki: ggggg
+
+Needle: kinky
+1 trace: bbbbb
+2 slimy: bbybg
+3 dingy: bggbg
+4 pinky: bgggg
+5 kinky: ggggg
+
+Needle: kiosk
+1 trace: bbbbb
+2 slimy: ybybb
+3 bison: bgyyb
+4 kiosk: ggggg
+
+Needle: kitty
+1 trace: ybbbb
+2 point: bbyby
+3 fifth: bgbgb
+4 kitty: ggggg
+
+Needle: knack
+1 trace: bbggb
+2 slack: bbggg
+3 aback: ybggg
+4 quack: bbggg
+5 knack: ggggg
+
+Needle: knave
+1 trace: bbgbg
+2 slave: bbggg
+3 heave: byggg
+4 knave: ggggg
+
+Needle: knead
+1 trace: bbyby
+2 penal: byygb
+3 knead: ggggg
+
+Needle: kneed
+1 trace: bbbby
+2 widen: bbygy
+3 kneed: ggggg
+
+Needle: kneel
+1 trace: bbbby
+2 widen: bbbgy
+3 boney: bbygb
+4 kneel: ggggg
+
+Needle: knelt
+1 trace: ybbby
+2 spelt: bbggg
+3 dwelt: bbggg
+4 knelt: ggggg
+
+Needle: knife
+1 trace: bbbbg
+2 snipe: bggbg
+3 knife: ggggg
+
+Needle: knock
+1 trace: bbbgb
+2 couch: yybgb
+3 block: bbggg
+4 knock: ggggg
+
+Needle: knoll
+1 trace: bbbbb
+2 slimy: bybbb
+3 ghoul: bbgbg
+4 knoll: ggggg
+
+Needle: known
+1 trace: bbbbb
+2 slimy: bbbbb
+3 bough: bybbb
+4 known: ggggg
+
+Needle: koala
+1 trace: bbgbb
+2 slain: bygbb
+3 loamy: yggbb
+4 koala: ggggg
+
+Needle: krill
+1 trace: bgbbb
+2 drink: bggby
+3 krill: ggggg
+
+Needle: label
+1 trace: bbyby
+2 penal: bybyg
+3 bagel: ygbgg
+4 label: ggggg
+
+Needle: labor
+1 trace: byybb
+2 manor: bgbgg
+3 valor: bgygg
+4 labor: ggggg
+
+Needle: laden
+1 trace: bbyby
+2 penal: byyyy
+3 alien: yybgg
+4 laden: ggggg
+
+Needle: ladle
+1 trace: bbybg
+2 alive: yybbg
+3 lapse: ggbbg
+4 ladle: ggggg
+
+Needle: lager
+1 trace: byyby
+2 relay: yyyyb
+3 lager: ggggg
+
+Needle: lance
+1 trace: bbygg
+2 lance: ggggg
+
+Needle: lanky
+1 trace: bbybb
+2 salon: bgyby
+3 lanky: ggggg
+
+Needle: lapel
+1 trace: bbyby
+2 pedal: yybyg
+3 lapel: ggggg
+
+Needle: lapse
+1 trace: bbybg
+2 angle: ybbyg
+3 salve: ygybg
+4 lapse: ggggg
+
+Needle: large
+1 trace: byybg
+2 large: ggggg
+
+Needle: larva
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bggbb
+4 larva: ggggg
+
+Needle: lasso
+1 trace: bbybb
+2 salon: ygyyb
+3 lasso: ggggg
+
+Needle: latch
+1 trace: ybygb
+2 latch: ggggg
+
+Needle: later
+1 trace: yyyby
+2 alter: yyggg
+3 later: ggggg
+
+Needle: lathe
+1 trace: ybybg
+2 haste: ygbyg
+3 bathe: bgggg
+4 lathe: ggggg
+
+Needle: latte
+1 trace: ybybg
+2 bathe: bggbg
+3 latte: ggggg
+
+Needle: laugh
+1 trace: bbybb
+2 salon: bgybb
+3 gaily: ygbyb
+4 laugh: ggggg
+
+Needle: layer
+1 trace: byyby
+2 relay: yyyyy
+3 layer: ggggg
+
+Needle: leach
+1 trace: bbggy
+2 beach: bgggg
+3 leach: ggggg
+
+Needle: leafy
+1 trace: bbgby
+2 leafy: ggggg
+
+Needle: leaky
+1 trace: bbgby
+2 leaky: ggggg
+
+Needle: leant
+1 trace: ybgby
+2 leant: ggggg
+
+Needle: leapt
+1 trace: ybgby
+2 least: gggbg
+3 leant: gggbg
+4 leapt: ggggg
+
+Needle: learn
+1 trace: bygby
+2 learn: ggggg
+
+Needle: lease
+1 trace: bbgbg
+2 slave: yygbg
+3 lease: ggggg
+
+Needle: leash
+1 trace: bbgby
+2 leaky: gggbb
+3 leash: ggggg
+
+Needle: least
+1 trace: ybgby
+2 leant: gggbg
+3 leapt: gggbg
+4 least: ggggg
+
+Needle: leave
+1 trace: bbgbg
+2 slave: byggg
+3 leave: ggggg
+
+Needle: ledge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbygg
+4 ledge: ggggg
+
+Needle: leech
+1 trace: bbbgy
+2 welch: bgygg
+3 leech: ggggg
+
+Needle: leery
+1 trace: bybby
+2 siren: bbyyb
+3 lemur: ggbby
+4 leery: ggggg
+
+Needle: lefty
+1 trace: ybbby
+2 spelt: bbyyy
+3 motel: bbyyy
+4 lefty: ggggg
+
+Needle: legal
+1 trace: bbyby
+2 penal: bgbgg
+3 legal: ggggg
+
+Needle: leggy
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbyyb
+4 leggy: ggggg
+
+Needle: lemon
+1 trace: bbbby
+2 widen: bbbyg
+3 melon: ygygg
+4 lemon: ggggg
+
+Needle: lemur
+1 trace: bybby
+2 diner: bbbyg
+3 femur: bgggg
+4 lemur: ggggg
+
+Needle: leper
+1 trace: bybby
+2 siren: bbygb
+3 lover: gbbgg
+4 leper: ggggg
+
+Needle: level
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: bgggg
+4 level: ggggg
+
+Needle: lever
+1 trace: bybby
+2 risen: ybbgb
+3 lover: gbggg
+4 lever: ggggg
+
+Needle: libel
+1 trace: bbbby
+2 widen: bgbgb
+3 libel: ggggg
+
+Needle: liege
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: bgygg
+4 liege: ggggg
+
+Needle: light
+1 trace: ybbbb
+2 hoist: ybybg
+3 fight: bgggg
+4 light: ggggg
+
+Needle: liken
+1 trace: bbbby
+2 widen: bgbgg
+3 linen: ggygg
+4 liken: ggggg
+
+Needle: lilac
+1 trace: bbyyb
+2 canal: yybgy
+3 iliac: yyygg
+4 lilac: ggggg
+
+Needle: limbo
+1 trace: bbbbb
+2 slimy: byyyb
+3 limbo: ggggg
+
+Needle: limit
+1 trace: ybbbb
+2 hoist: bbybg
+3 limit: ggggg
+
+Needle: linen
+1 trace: bbbby
+2 widen: bgbgg
+3 liken: ggbgg
+4 linen: ggggg
+
+Needle: liner
+1 trace: bybby
+2 risen: ygbgy
+3 liner: ggggg
+
+Needle: lingo
+1 trace: bbbbb
+2 spiny: bbyyb
+3 bingo: bgggg
+4 dingo: bgggg
+5 lingo: ggggg
+
+Needle: lipid
+1 trace: bbbbb
+2 slimy: byybb
+3 vigil: bgbgy
+4 lipid: ggggg
+
+Needle: lithe
+1 trace: ybbbg
+2 suite: bbyyg
+3 lithe: ggggg
+
+Needle: liver
+1 trace: bybby
+2 diner: bgbgg
+3 liver: ggggg
+
+Needle: livid
+1 trace: bbbbb
+2 spiny: bbybb
+3 livid: ggggg
+
+Needle: llama
+1 trace: bbgbb
+2 slain: bggbb
+3 plaza: bggbg
+4 llama: ggggg
+
+Needle: loamy
+1 trace: bbgbb
+2 slain: bygbb
+3 loamy: ggggg
+
+Needle: loath
+1 trace: ybgbb
+2 slant: bygby
+3 loath: ggggg
+
+Needle: lobby
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgbyg
+4 lobby: ggggg
+
+Needle: local
+1 trace: bbyyb
+2 canal: yybgg
+3 focal: bgggg
+4 local: ggggg
+
+Needle: locus
+1 trace: bbbyb
+2 cumin: yybbb
+3 focus: bgggg
+4 locus: ggggg
+
+Needle: lodge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbygg
+4 ledge: gyggg
+5 lodge: ggggg
+
+Needle: lofty
+1 trace: ybbbb
+2 hoist: bgbby
+3 lofty: ggggg
+
+Needle: logic
+1 trace: bbbyb
+2 cumin: ybbgb
+3 logic: ggggg
+
+Needle: login
+1 trace: bbbbb
+2 spiny: bbyyb
+3 lingo: gyyyy
+4 login: ggggg
+
+Needle: loopy
+1 trace: bbbbb
+2 spiny: bybbg
+3 guppy: bbygg
+4 loopy: ggggg
+
+Needle: loose
+1 trace: bbbbg
+2 snipe: ybbbg
+3 loose: ggggg
+
+Needle: lorry
+1 trace: bybbb
+2 surly: bbgyg
+3 lorry: ggggg
+
+Needle: loser
+1 trace: bybby
+2 siren: ybygb
+3 loser: ggggg
+
+Needle: louse
+1 trace: bbbbg
+2 snipe: ybbbg
+3 moose: bgygg
+4 house: bgggg
+5 louse: ggggg
+
+Needle: lousy
+1 trace: bbbbb
+2 spiny: ybbbg
+3 mushy: byybg
+4 lousy: ggggg
+
+Needle: lover
+1 trace: bybby
+2 risen: ybbgb
+3 lover: ggggg
+
+Needle: lower
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbbgg
+4 lower: ggggg
+
+Needle: lowly
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: bgbgg
+4 holly: bgygg
+5 wooly: ygygg
+6 lowly: ggggg
+
+Needle: loyal
+1 trace: bbybb
+2 salon: byyyb
+3 modal: bgbgg
+4 loyal: ggggg
+
+Needle: lucid
+1 trace: bbbyb
+2 cumin: ygbgb
+3 lucid: ggggg
+
+Needle: lucky
+1 trace: bbbyb
+2 could: ybyyb
+3 lucky: ggggg
+
+Needle: lumen
+1 trace: bbbby
+2 widen: bbbgg
+3 sheen: bbygg
+4 lumen: ggggg
+
+Needle: lumpy
+1 trace: bbbbb
+2 spiny: bybbg
+3 lumpy: ggggg
+
+Needle: lunar
+1 trace: byybb
+2 manor: bygbg
+3 lunar: ggggg
+
+Needle: lunch
+1 trace: bbbgb
+2 couch: ybygg
+3 mulch: bgygg
+4 lunch: ggggg
+
+Needle: lunge
+1 trace: bbbbg
+2 snipe: bybbg
+3 lunge: ggggg
+
+Needle: lupus
+1 trace: bbbbb
+2 spiny: yybbb
+3 lupus: ggggg
+
+Needle: lurch
+1 trace: bybgb
+2 birch: bbggg
+3 lurch: ggggg
+
+Needle: lurid
+1 trace: bybbb
+2 surly: bggyb
+3 lurid: ggggg
+
+Needle: lusty
+1 trace: ybbbb
+2 point: bbbby
+3 lusty: ggggg
+
+Needle: lying
+1 trace: bbbbb
+2 spiny: bbggy
+3 lying: ggggg
+
+Needle: lymph
+1 trace: bbbbb
+2 spiny: bybby
+3 glyph: byygg
+4 lymph: ggggg
+
+Needle: lynch
+1 trace: bbbgb
+2 couch: ybbgg
+3 winch: bbggg
+4 lynch: ggggg
+
+Needle: lyric
+1 trace: bybyb
+2 choir: ybbgy
+3 lyric: ggggg
+
+Needle: macaw
+1 trace: bbyyb
+2 canal: ygbgb
+3 macaw: ggggg
+
+Needle: macho
+1 trace: bbyyb
+2 canal: ygbyb
+3 magic: ggbby
+4 macho: ggggg
+
+Needle: macro
+1 trace: byyyb
+2 coral: yyyyb
+3 acorn: yyygb
+4 macro: ggggg
+
+Needle: madam
+1 trace: bbybb
+2 salon: bgbbb
+3 magma: ggbyy
+4 madam: ggggg
+
+Needle: madly
+1 trace: bbybb
+2 salon: bgybb
+3 gaily: bgbgg
+4 badly: bgggg
+5 madly: ggggg
+
+Needle: mafia
+1 trace: bbybb
+2 salon: bgbbb
+3 gaudy: bgbbb
+4 mafia: ggggg
+
+Needle: magic
+1 trace: bbyyb
+2 canal: ygbyb
+3 macho: ggybb
+4 magic: ggggg
+
+Needle: magma
+1 trace: bbybb
+2 salon: bgbbb
+3 gawky: ygbbb
+4 magma: ggggg
+
+Needle: maize
+1 trace: bbybg
+2 angle: ybbbg
+3 pause: bgbbg
+4 maybe: ggbbg
+5 maize: ggggg
+
+Needle: major
+1 trace: byybb
+2 manor: ggbgg
+3 major: ggggg
+
+Needle: maker
+1 trace: byyby
+2 gamer: bgygg
+3 maker: ggggg
+
+Needle: mambo
+1 trace: bbybb
+2 salon: bgbyb
+3 mambo: ggggg
+
+Needle: mamma
+1 trace: bbybb
+2 salon: bgbbb
+3 magma: ggbgg
+4 mamma: ggggg
+
+Needle: mammy
+1 trace: bbybb
+2 salon: bgbbb
+3 magma: ggbgy
+4 mammy: ggggg
+
+Needle: manga
+1 trace: bbybb
+2 salon: bgbby
+3 fanny: bggyb
+4 manga: ggggg
+
+Needle: mange
+1 trace: bbybg
+2 angle: yyybg
+3 mange: ggggg
+
+Needle: mango
+1 trace: bbybb
+2 salon: bgbyy
+3 banjo: bggbg
+4 mango: ggggg
+
+Needle: mangy
+1 trace: bbybb
+2 salon: bgbby
+3 fauna: bgbyy
+4 dandy: bggbg
+5 mangy: ggggg
+
+Needle: mania
+1 trace: bbybb
+2 salon: bgbby
+3 fanny: bggyb
+4 manga: gggbg
+5 mania: ggggg
+
+Needle: manic
+1 trace: bbyyb
+2 canal: yggyb
+3 manic: ggggg
+
+Needle: manly
+1 trace: bbybb
+2 salon: bgyby
+3 manly: ggggg
+
+Needle: manor
+1 trace: byybb
+2 manor: ggggg
+
+Needle: maple
+1 trace: bbybg
+2 alive: yybbg
+3 lapse: yggbg
+4 maple: ggggg
+
+Needle: march
+1 trace: byygb
+2 circa: ybggy
+3 march: ggggg
+
+Needle: marry
+1 trace: byybb
+2 manor: ggbby
+3 marry: ggggg
+
+Needle: marsh
+1 trace: byybb
+2 manor: ggbby
+3 marry: gggyb
+4 marsh: ggggg
+
+Needle: mason
+1 trace: bbybb
+2 salon: ygbgg
+3 mason: ggggg
+
+Needle: masse
+1 trace: bbybg
+2 angle: ybbbg
+3 mauve: ggbbg
+4 masse: ggggg
+
+Needle: match
+1 trace: ybygb
+2 hatch: ygggg
+3 patch: bgggg
+4 latch: bgggg
+5 catch: ygggg
+6 match: ggggg
+
+Needle: matey
+1 trace: ybyby
+2 pleat: bbyyy
+3 eaten: ygggb
+4 matey: ggggg
+
+Needle: mauve
+1 trace: bbybg
+2 angle: ybbbg
+3 mauve: ggggg
+
+Needle: maxim
+1 trace: bbybb
+2 salon: bgbbb
+3 gaudy: bgbbb
+4 mamma: ggyyy
+5 maxim: ggggg
+
+Needle: maybe
+1 trace: bbybg
+2 angle: ybbbg
+3 mauve: ggbbg
+4 masse: ggbbg
+5 maize: ggbbg
+6 maybe: ggggg
+
+Needle: mayor
+1 trace: byybb
+2 manor: ggbgg
+3 major: ggbgg
+4 mayor: ggggg
+
+Needle: mealy
+1 trace: bbgby
+2 leash: yggbb
+3 mealy: ggggg
+
+Needle: meant
+1 trace: ybgby
+2 least: bggbg
+3 meant: ggggg
+
+Needle: meaty
+1 trace: ybgby
+2 leant: bggby
+3 heath: bgggb
+4 meaty: ggggg
+
+Needle: mecca
+1 trace: bbygy
+2 mecca: ggggg
+
+Needle: medal
+1 trace: bbyby
+2 pedal: bgggg
+3 medal: ggggg
+
+Needle: media
+1 trace: bbyby
+2 penal: bgbyb
+3 media: ggggg
+
+Needle: medic
+1 trace: bbbyy
+2 dicey: yyyyb
+3 medic: ggggg
+
+Needle: melee
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbgbg
+4 delve: bggbg
+5 melee: ggggg
+
+Needle: melon
+1 trace: bbbby
+2 widen: bbbyg
+3 lemon: ygygg
+4 melon: ggggg
+
+Needle: mercy
+1 trace: bybgy
+2 mercy: ggggg
+
+Needle: merge
+1 trace: bybbg
+2 surge: bbggg
+3 forge: bbggg
+4 verge: bgggg
+5 merge: ggggg
+
+Needle: merit
+1 trace: yybby
+2 metro: ggyyb
+3 merit: ggggg
+
+Needle: merry
+1 trace: bybby
+2 risen: ybbyb
+3 lemur: bgyby
+4 merry: ggggg
+
+Needle: metal
+1 trace: ybyby
+2 pleat: byygy
+3 fetal: bgggg
+4 metal: ggggg
+
+Needle: meter
+1 trace: yybby
+2 metro: gggyb
+3 meter: ggggg
+
+Needle: metro
+1 trace: yybby
+2 metro: ggggg
+
+Needle: micro
+1 trace: bybyb
+2 choir: ybyyy
+3 micro: ggggg
+
+Needle: midge
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: bgbgg
+4 midge: ggggg
+
+Needle: midst
+1 trace: ybbbb
+2 point: bbybg
+3 midst: ggggg
+
+Needle: might
+1 trace: ybbbb
+2 point: bbybg
+3 midst: ggbbg
+4 might: ggggg
+
+Needle: milky
+1 trace: bbbbb
+2 spiny: bbybg
+3 filly: bggyg
+4 milky: ggggg
+
+Needle: mimic
+1 trace: bbbyb
+2 cumin: ybggb
+3 mimic: ggggg
+
+Needle: mince
+1 trace: bbbgg
+2 spice: bbygg
+3 wince: bgggg
+4 mince: ggggg
+
+Needle: miner
+1 trace: bybby
+2 siren: bgygy
+3 finer: bgggg
+4 diner: bgggg
+5 liner: bgggg
+6 miner: ggggg
+
+Needle: minim
+1 trace: bbbbb
+2 spiny: bbyyb
+3 lingo: bggbb
+4 minim: ggggg
+
+Needle: minor
+1 trace: bybbb
+2 surly: bbybb
+3 rhino: ybyyy
+4 minor: ggggg
+
+Needle: minty
+1 trace: ybbbb
+2 point: bbyyy
+3 ninth: ygggb
+4 minty: ggggg
+
+Needle: minus
+1 trace: bbbbb
+2 spiny: ybyyb
+3 bison: bgyby
+4 minus: ggggg
+
+Needle: mirth
+1 trace: yybbb
+2 short: bybyy
+3 girth: bgggg
+4 birth: bgggg
+5 mirth: ggggg
+
+Needle: miser
+1 trace: bybby
+2 siren: ygygb
+3 riser: ygggg
+4 miser: ggggg
+
+Needle: missy
+1 trace: bbbbb
+2 slimy: ybyyg
+3 missy: ggggg
+
+Needle: mocha
+1 trace: bbyyb
+2 canal: yybyb
+3 mocha: ggggg
+
+Needle: modal
+1 trace: bbybb
+2 salon: byyyb
+3 modal: ggggg
+
+Needle: model
+1 trace: bbbby
+2 widen: bbggb
+3 model: ggggg
+
+Needle: modem
+1 trace: bbbby
+2 widen: bbggb
+3 model: ggggb
+4 modem: ggggg
+
+Needle: mogul
+1 trace: bbbbb
+2 spiny: bbbbb
+3 gumbo: yyyby
+4 mogul: ggggg
+
+Needle: moist
+1 trace: ybbbb
+2 point: bggbg
+3 hoist: bgggg
+4 joist: bgggg
+5 foist: bgggg
+6 moist: ggggg
+
+Needle: molar
+1 trace: byybb
+2 manor: gybyg
+3 molar: ggggg
+
+Needle: moldy
+1 trace: bbbbb
+2 slimy: bybyg
+3 lumpy: ybybg
+4 moldy: ggggg
+
+Needle: money
+1 trace: bbbby
+2 widen: bbbgy
+3 money: ggggg
+
+Needle: month
+1 trace: ybbbb
+2 point: bgbyy
+3 month: ggggg
+
+Needle: moody
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgybg
+4 howdy: bgbgg
+5 moody: ggggg
+
+Needle: moose
+1 trace: bbbbg
+2 snipe: ybbbg
+3 moose: ggggg
+
+Needle: moral
+1 trace: byybb
+2 manor: gybyy
+3 moral: ggggg
+
+Needle: moron
+1 trace: bybbb
+2 surly: bbgbb
+3 moron: ggggg
+
+Needle: morph
+1 trace: bybbb
+2 surly: bbgbb
+3 moron: gggyb
+4 morph: ggggg
+
+Needle: mossy
+1 trace: bbbbb
+2 spiny: ybbbg
+3 mushy: gbgbg
+4 mossy: ggggg
+
+Needle: motel
+1 trace: ybbby
+2 spelt: bbyyy
+3 hotel: bgggg
+4 motel: ggggg
+
+Needle: motif
+1 trace: ybbbb
+2 hoist: bgyby
+3 motif: ggggg
+
+Needle: motor
+1 trace: yybbb
+2 short: bbyyy
+3 motor: ggggg
+
+Needle: motto
+1 trace: ybbbb
+2 hoist: bgbby
+3 booty: bgygb
+4 motto: ggggg
+
+Needle: moult
+1 trace: ybbbb
+2 hoist: bgbbg
+3 donut: bgbyg
+4 moult: ggggg
+
+Needle: mound
+1 trace: bbbbb
+2 slimy: bbbyb
+3 jumbo: byyby
+4 mound: ggggg
+
+Needle: mount
+1 trace: ybbbb
+2 point: bgbgg
+3 mount: ggggg
+
+Needle: mourn
+1 trace: bybbb
+2 surly: byybb
+3 mourn: ggggg
+
+Needle: mouse
+1 trace: bbbbg
+2 snipe: ybbbg
+3 loose: bgygg
+4 house: bgggg
+5 mouse: ggggg
+
+Needle: mouth
+1 trace: ybbbb
+2 hoist: ygbby
+3 mouth: ggggg
+
+Needle: mover
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbbgg
+4 lower: bgbgg
+5 homer: bgygg
+6 mover: ggggg
+
+Needle: movie
+1 trace: bbbbg
+2 snipe: bbybg
+3 bilge: bybbg
+4 movie: ggggg
+
+Needle: mower
+1 trace: bybby
+2 risen: ybbgb
+3 lover: bgbgg
+4 mower: ggggg
+
+Needle: mucky
+1 trace: bbbyb
+2 could: ybybb
+3 mucky: ggggg
+
+Needle: mucus
+1 trace: bbbyb
+2 could: ybybb
+3 ficus: bbggg
+4 mucus: ggggg
+
+Needle: muddy
+1 trace: bbbbb
+2 slimy: bbbyg
+3 dumpy: ygybg
+4 muddy: ggggg
+
+Needle: mulch
+1 trace: bbbgb
+2 couch: ybygg
+3 mulch: ggggg
+
+Needle: mummy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bbbbg
+4 fuzzy: bgbbg
+5 mummy: ggggg
+
+Needle: munch
+1 trace: bbbgb
+2 couch: ybygg
+3 mulch: ggbgg
+4 munch: ggggg
+
+Needle: mural
+1 trace: byybb
+2 manor: gybby
+3 mural: ggggg
+
+Needle: murky
+1 trace: bybbb
+2 surly: bggbg
+3 hurry: bggyg
+4 murky: ggggg
+
+Needle: mushy
+1 trace: bbbbb
+2 spiny: ybbbg
+3 mushy: ggggg
+
+Needle: music
+1 trace: bbbyb
+2 cumin: ygygb
+3 music: ggggg
+
+Needle: musky
+1 trace: bbbbb
+2 spiny: ybbbg
+3 mushy: gggbg
+4 musky: ggggg
+
+Needle: musty
+1 trace: ybbbb
+2 hoist: bbbyy
+3 stung: yyybb
+4 dusty: bgggg
+5 lusty: bgggg
+6 musty: ggggg
+
+Needle: myrrh
+1 trace: bybbb
+2 surly: bbgby
+3 myrrh: ggggg
+
+Needle: nadir
+1 trace: byybb
+2 manor: bgybg
+3 nadir: ggggg
+
+Needle: naive
+1 trace: bbybg
+2 alive: ybggg
+3 naive: ggggg
+
+Needle: nanny
+1 trace: bbybb
+2 salon: bgbby
+3 mania: bggby
+4 handy: bggbg
+5 fanny: bgggg
+6 nanny: ggggg
+
+Needle: nasal
+1 trace: bbybb
+2 salon: ygyby
+3 nasal: ggggg
+
+Needle: nasty
+1 trace: ybybb
+2 satin: ygyby
+3 nasty: ggggg
+
+Needle: natal
+1 trace: ybybb
+2 satin: bggby
+3 natal: ggggg
+
+Needle: naval
+1 trace: bbybb
+2 salon: bgyby
+3 manly: bgyyb
+4 naval: ggggg
+
+Needle: navel
+1 trace: bbyby
+2 pedal: bybyg
+3 gavel: bgggg
+4 navel: ggggg
+
+Needle: needy
+1 trace: bbbby
+2 widen: bbyyy
+3 blend: bbgyy
+4 needy: ggggg
+
+Needle: neigh
+1 trace: bbbby
+2 widen: bybyy
+3 eking: ybgyy
+4 neigh: ggggg
+
+Needle: nerdy
+1 trace: bybby
+2 risen: ybbyy
+3 nerdy: ggggg
+
+Needle: nerve
+1 trace: bybbg
+2 surge: bbgbg
+3 nerve: ggggg
+
+Needle: never
+1 trace: bybby
+2 siren: bbygy
+3 renew: ygygb
+4 never: ggggg
+
+Needle: newer
+1 trace: bybby
+2 siren: bbygy
+3 renew: ygygy
+4 newer: ggggg
+
+Needle: newly
+1 trace: bbbby
+2 widen: ybbyy
+3 newly: ggggg
+
+Needle: nicer
+1 trace: bybyy
+2 cider: ygbgg
+3 nicer: ggggg
+
+Needle: niche
+1 trace: bbbyg
+2 clone: ybbyg
+3 niche: ggggg
+
+Needle: niece
+1 trace: bbbgg
+2 spice: bbygg
+3 mince: bgygg
+4 niece: ggggg
+
+Needle: night
+1 trace: ybbbb
+2 hoist: ybybg
+3 light: bgggg
+4 might: bgggg
+5 night: ggggg
+
+Needle: ninja
+1 trace: bbybb
+2 salon: bybby
+3 aping: ybyyb
+4 ninja: ggggg
+
+Needle: ninny
+1 trace: bbbbb
+2 slimy: bbybg
+3 dingy: bggbg
+4 pinky: bggbg
+5 ninny: ggggg
+
+Needle: ninth
+1 trace: ybbbb
+2 point: bbyyy
+3 ninth: ggggg
+
+Needle: noble
+1 trace: bbbbg
+2 snipe: bybbg
+3 nudge: gbbbg
+4 noble: ggggg
+
+Needle: nobly
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: bgbgg
+4 wooly: bgygg
+5 folly: bgygg
+6 nobly: ggggg
+
+Needle: noise
+1 trace: bbbbg
+2 snipe: yygbg
+3 noise: ggggg
+
+Needle: noisy
+1 trace: bbbbb
+2 spiny: ybgyg
+3 noisy: ggggg
+
+Needle: nomad
+1 trace: bbybb
+2 salon: bybyy
+3 among: yyyyb
+4 nomad: ggggg
+
+Needle: noose
+1 trace: bbbbg
+2 snipe: yybbg
+3 dense: byygg
+4 noose: ggggg
+
+Needle: north
+1 trace: yybbb
+2 short: byyyy
+3 forth: bgggg
+4 north: ggggg
+
+Needle: nosey
+1 trace: bbbby
+2 widen: bbbgy
+3 money: bgygg
+4 nosey: ggggg
+
+Needle: notch
+1 trace: ybbgb
+2 hitch: ybggg
+3 butch: bbggg
+4 notch: ggggg
+
+Needle: novel
+1 trace: bbbby
+2 widen: bbbgy
+3 boney: bgygb
+4 novel: ggggg
+
+Needle: nudge
+1 trace: bbbbg
+2 snipe: bybbg
+3 nudge: ggggg
+
+Needle: nurse
+1 trace: bybbg
+2 surge: yggbg
+3 nurse: ggggg
+
+Needle: nutty
+1 trace: ybbbb
+2 hoist: bbbby
+3 nutty: ggggg
+
+Needle: nylon
+1 trace: bbbbb
+2 slimy: bybby
+3 nylon: ggggg
+
+Needle: nymph
+1 trace: bbbbb
+2 slimy: bbbyy
+3 nymph: ggggg
+
+Needle: oaken
+1 trace: bbyby
+2 penal: byyyb
+3 ashen: ybbgg
+4 oaken: ggggg
+
+Needle: obese
+1 trace: bbbbg
+2 snipe: ybbbg
+3 moose: byygg
+4 obese: ggggg
+
+Needle: occur
+1 trace: bybyb
+2 choir: ybybg
+3 occur: ggggg
+
+Needle: ocean
+1 trace: bbyyy
+2 clean: ybggg
+3 ocean: ggggg
+
+Needle: octal
+1 trace: ybyyb
+2 ascot: ybyyy
+3 octal: ggggg
+
+Needle: octet
+1 trace: ybbyy
+2 covet: yybgg
+3 octet: ggggg
+
+Needle: odder
+1 trace: bybby
+2 siren: bbygb
+3 lover: bybgg
+4 odder: ggggg
+
+Needle: oddly
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: byggg
+4 oddly: ggggg
+
+Needle: offal
+1 trace: bbybb
+2 salon: byyyb
+3 modal: bybgg
+4 offal: ggggg
+
+Needle: offer
+1 trace: bybby
+2 risen: ybbgb
+3 lover: bybgg
+4 odder: gbbgg
+5 offer: ggggg
+
+Needle: often
+1 trace: ybbby
+2 spelt: bbyby
+3 detox: bygyb
+4 often: ggggg
+
+Needle: olden
+1 trace: bbbby
+2 widen: bbggg
+3 olden: ggggg
+
+Needle: older
+1 trace: bybby
+2 risen: ybbgb
+3 lover: yybgg
+4 older: ggggg
+
+Needle: olive
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: bggbg
+4 olive: ggggg
+
+Needle: ombre
+1 trace: bybbg
+2 surge: bbybg
+3 fibre: bbggg
+4 ombre: ggggg
+
+Needle: omega
+1 trace: bbyby
+2 penal: bybyb
+3 abbey: ybbyb
+4 omega: ggggg
+
+Needle: onion
+1 trace: bbbbb
+2 slimy: bbgbb
+3 going: bygyb
+4 onion: ggggg
+
+Needle: onset
+1 trace: ybbby
+2 spelt: ybybg
+3 unset: bgggg
+4 onset: ggggg
+
+Needle: opera
+1 trace: byyby
+2 gamer: bybyy
+3 relay: yybyb
+4 opera: ggggg
+
+Needle: opine
+1 trace: bbbbg
+2 snipe: bygyg
+3 opine: ggggg
+
+Needle: opium
+1 trace: bbbbb
+2 spiny: bggbb
+3 opium: ggggg
+
+Needle: optic
+1 trace: ybbyb
+2 clout: ybyby
+3 optic: ggggg
+
+Needle: orbit
+1 trace: ygbbb
+2 frost: bgybg
+3 orbit: ggggg
+
+Needle: order
+1 trace: bgbby
+2 freed: bgygy
+3 drier: ygbgg
+4 order: ggggg
+
+Needle: organ
+1 trace: bgybb
+2 broad: bgygb
+3 organ: ggggg
+
+Needle: other
+1 trace: yybby
+2 metro: byyyy
+3 other: ggggg
+
+Needle: otter
+1 trace: yybby
+2 metro: bygyy
+3 otter: ggggg
+
+Needle: ought
+1 trace: ybbbb
+2 hoist: yybbg
+3 ought: ggggg
+
+Needle: ounce
+1 trace: bbbgg
+2 since: bbggg
+3 fence: byggg
+4 dunce: bgggg
+5 ounce: ggggg
+
+Needle: outdo
+1 trace: ybbbb
+2 point: bybby
+3 stood: byyyy
+4 outdo: ggggg
+
+Needle: outer
+1 trace: yybby
+2 metro: bygyy
+3 outer: ggggg
+
+Needle: outgo
+1 trace: ybbbb
+2 hoist: bybby
+3 outdo: gggbg
+4 outgo: ggggg
+
+Needle: ovary
+1 trace: bygbb
+2 shard: bbggb
+3 ovary: ggggg
+
+Needle: ovate
+1 trace: ybgbg
+2 slate: bbggg
+3 agate: ybggg
+4 ovate: ggggg
+
+Needle: overt
+1 trace: yybby
+2 metro: byygy
+3 overt: ggggg
+
+Needle: ovine
+1 trace: bbbbg
+2 snipe: bygbg
+3 ovine: ggggg
+
+Needle: ovoid
+1 trace: bbbbb
+2 spiny: bbybb
+3 livid: byygg
+4 ovoid: ggggg
+
+Needle: owing
+1 trace: bbbbb
+2 spiny: bbggb
+3 doing: byggg
+4 owing: ggggg
+
+Needle: owner
+1 trace: bybby
+2 diner: bbggg
+3 goner: byggg
+4 owner: ggggg
+
+Needle: oxide
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: bbggg
+4 oxide: ggggg
+
+Needle: ozone
+1 trace: bbbbg
+2 snipe: bybbg
+3 lunge: bbybg
+4 ozone: ggggg
+
+Needle: paddy
+1 trace: bbybb
+2 salon: bgbbb
+3 paddy: ggggg
+
+Needle: pagan
+1 trace: bbybb
+2 salon: bgbbg
+3 pagan: ggggg
+
+Needle: paint
+1 trace: ybybb
+2 satin: bgyyy
+3 faint: bgggg
+4 paint: ggggg
+
+Needle: paler
+1 trace: byyby
+2 relay: yygyb
+3 baler: bgggg
+4 paler: ggggg
+
+Needle: palsy
+1 trace: bbybb
+2 salon: yggbb
+3 palsy: ggggg
+
+Needle: panel
+1 trace: bbyby
+2 pedal: gybyg
+3 panel: ggggg
+
+Needle: panic
+1 trace: bbyyb
+2 canal: yggyb
+3 manic: bgggg
+4 panic: ggggg
+
+Needle: pansy
+1 trace: bbybb
+2 salon: ygbby
+3 pansy: ggggg
+
+Needle: papal
+1 trace: bbybb
+2 salon: bgybb
+3 gaily: bgbyb
+4 papal: ggggg
+
+Needle: paper
+1 trace: byyby
+2 relay: yybyb
+3 gamer: bgbgg
+4 wafer: bgbgg
+5 paper: ggggg
+
+Needle: parer
+1 trace: byyby
+2 gamer: bgbgg
+3 baler: bgbgg
+4 parer: ggggg
+
+Needle: parka
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bggyb
+4 parka: ggggg
+
+Needle: parry
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bggyg
+4 parry: ggggg
+
+Needle: parse
+1 trace: byybg
+2 large: bggbg
+3 parse: ggggg
+
+Needle: party
+1 trace: yyybb
+2 party: ggggg
+
+Needle: pasta
+1 trace: ybybb
+2 satin: ygybb
+3 hasty: bgggb
+4 pasta: ggggg
+
+Needle: paste
+1 trace: ybybg
+2 haste: bgggg
+3 baste: bgggg
+4 paste: ggggg
+
+Needle: pasty
+1 trace: ybybb
+2 satin: ygybb
+3 hasty: bgggg
+4 pasty: ggggg
+
+Needle: patch
+1 trace: ybygb
+2 batch: bgggg
+3 hatch: ygggg
+4 catch: ygggg
+5 match: bgggg
+6 patch: ggggg
+
+Needle: patio
+1 trace: ybybb
+2 satin: bgggb
+3 patio: ggggg
+
+Needle: patsy
+1 trace: ybybb
+2 satin: yggbb
+3 patsy: ggggg
+
+Needle: patty
+1 trace: ybybb
+2 satin: bggbb
+3 fatty: bgggg
+4 batty: bgggg
+5 patty: ggggg
+
+Needle: pause
+1 trace: bbybg
+2 alive: ybbbg
+3 gauze: bggbg
+4 pause: ggggg
+
+Needle: payee
+1 trace: bbybg
+2 angle: ybbbg
+3 mauve: bgbbg
+4 payee: ggggg
+
+Needle: payer
+1 trace: byyby
+2 relay: yybyy
+3 gayer: bgggg
+4 payer: ggggg
+
+Needle: peace
+1 trace: bbggg
+2 place: gbggg
+3 peace: ggggg
+
+Needle: peach
+1 trace: bbggy
+2 leach: bgggg
+3 beach: bgggg
+4 peach: ggggg
+
+Needle: pearl
+1 trace: bygby
+2 learn: ygggb
+3 pearl: ggggg
+
+Needle: pecan
+1 trace: bbyyy
+2 clean: ybygg
+3 pecan: ggggg
+
+Needle: pedal
+1 trace: bbyby
+2 pedal: ggggg
+
+Needle: penal
+1 trace: bbyby
+2 penal: ggggg
+
+Needle: pence
+1 trace: bbbgg
+2 pence: ggggg
+
+Needle: penne
+1 trace: bbbbg
+2 snipe: bybyg
+3 penne: ggggg
+
+Needle: penny
+1 trace: bbbby
+2 widen: bbbyy
+3 venom: bggbb
+4 penny: ggggg
+
+Needle: perch
+1 trace: bybgy
+2 mercy: bgggb
+3 perch: ggggg
+
+Needle: peril
+1 trace: bybby
+2 diner: bybyy
+3 peril: ggggg
+
+Needle: perky
+1 trace: bybby
+2 diner: bbbyy
+3 merry: bggyg
+4 jerky: bgggg
+5 perky: ggggg
+
+Needle: pesky
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: ybybb
+4 pesky: ggggg
+
+Needle: pesto
+1 trace: ybbby
+2 spelt: yyyby
+3 pesto: ggggg
+
+Needle: petal
+1 trace: ybyby
+2 pleat: gyygy
+3 petal: ggggg
+
+Needle: petty
+1 trace: ybbby
+2 spelt: byyby
+3 depth: bgygb
+4 petty: ggggg
+
+Needle: phase
+1 trace: bbgbg
+2 slave: ybgbg
+3 abase: ybggg
+4 phase: ggggg
+
+Needle: phone
+1 trace: bbbbg
+2 snipe: bybyg
+3 penne: gyygg
+4 phone: ggggg
+
+Needle: phony
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bygbg
+4 phony: ggggg
+
+Needle: photo
+1 trace: ybbbb
+2 point: gybby
+3 photo: ggggg
+
+Needle: piano
+1 trace: bbgbb
+2 slain: bbgyy
+3 piano: ggggg
+
+Needle: picky
+1 trace: bbbyb
+2 cumin: ybbyb
+3 icily: yyybg
+4 picky: ggggg
+
+Needle: piece
+1 trace: bbbgg
+2 since: bgbgg
+3 piece: ggggg
+
+Needle: piety
+1 trace: ybbby
+2 spelt: bygby
+3 piety: ggggg
+
+Needle: piggy
+1 trace: bbbbb
+2 slimy: bbybg
+3 dingy: bgbgg
+4 piggy: ggggg
+
+Needle: pilot
+1 trace: ybbbb
+2 point: gyybg
+3 pilot: ggggg
+
+Needle: pinch
+1 trace: bbbgb
+2 couch: ybbgg
+3 finch: bgggg
+4 pinch: ggggg
+
+Needle: piney
+1 trace: bbbby
+2 widen: bgbgy
+3 piney: ggggg
+
+Needle: pinky
+1 trace: bbbbb
+2 slimy: bbybg
+3 dingy: bggbg
+4 pinky: ggggg
+
+Needle: pinto
+1 trace: ybbbb
+2 point: gyyyy
+3 pinto: ggggg
+
+Needle: piper
+1 trace: bybby
+2 diner: bgbgg
+3 liver: bgbgg
+4 riser: ygbgg
+5 fiber: bgbgg
+6 piper: ggggg
+
+Needle: pique
+1 trace: bbbbg
+2 snipe: bbyyg
+3 pique: ggggg
+
+Needle: pitch
+1 trace: ybbgb
+2 dutch: bbggg
+3 notch: bbggg
+4 pitch: ggggg
+
+Needle: pithy
+1 trace: ybbbb
+2 point: gbyby
+3 pithy: ggggg
+
+Needle: pivot
+1 trace: ybbbb
+2 hoist: byybg
+3 pivot: ggggg
+
+Needle: pixel
+1 trace: bbbby
+2 widen: bgbgb
+3 libel: ygbgg
+4 pixel: ggggg
+
+Needle: pixie
+1 trace: bbbbg
+2 snipe: bbyyg
+3 pique: ggbbg
+4 pixie: ggggg
+
+Needle: pizza
+1 trace: bbybb
+2 salon: bybbb
+3 affix: ybbyb
+4 pizza: ggggg
+
+Needle: place
+1 trace: bbggg
+2 peace: gyggg
+3 place: ggggg
+
+Needle: plaid
+1 trace: bbgbb
+2 slain: bgggb
+3 flail: bgggy
+4 plaid: ggggg
+
+Needle: plain
+1 trace: bbgbb
+2 slain: bgggg
+3 plain: ggggg
+
+Needle: plait
+1 trace: ybgbb
+2 slant: bggbg
+3 plait: ggggg
+
+Needle: plane
+1 trace: bbgbg
+2 slave: bggbg
+3 glaze: bggbg
+4 blame: bggbg
+5 flake: bggbg
+6 plane: ggggg
+
+Needle: plank
+1 trace: bbgbb
+2 slain: bggby
+3 blank: bgggg
+4 flank: bgggg
+5 plank: ggggg
+
+Needle: plant
+1 trace: ybgbb
+2 slant: bgggg
+3 plant: ggggg
+
+Needle: plate
+1 trace: ybgbg
+2 stale: bygyg
+3 elate: ygggg
+4 plate: ggggg
+
+Needle: plaza
+1 trace: bbgbb
+2 slain: bggbb
+3 llama: yggbg
+4 plaza: ggggg
+
+Needle: plead
+1 trace: bbyby
+2 penal: gybgy
+3 plead: ggggg
+
+Needle: pleat
+1 trace: ybyby
+2 pleat: ggggg
+
+Needle: plied
+1 trace: bbbby
+2 widen: byygb
+3 shied: bbggg
+4 plied: ggggg
+
+Needle: plier
+1 trace: bybby
+2 diner: bybgg
+3 flier: bgggg
+4 plier: ggggg
+
+Needle: pluck
+1 trace: bbbgb
+2 couch: ybggb
+3 pluck: ggggg
+
+Needle: plumb
+1 trace: bbbbb
+2 slimy: bgbgb
+3 plumb: ggggg
+
+Needle: plume
+1 trace: bbbbg
+2 snipe: bbbyg
+3 plume: ggggg
+
+Needle: plump
+1 trace: bbbbb
+2 spiny: bybbb
+3 plump: ggggg
+
+Needle: plunk
+1 trace: bbbbb
+2 slimy: bgbbb
+3 flunk: bgggg
+4 plunk: ggggg
+
+Needle: plush
+1 trace: bbbbb
+2 spiny: yybbb
+3 lupus: yyyyy
+4 plush: ggggg
+
+Needle: poesy
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: ybgbb
+4 guess: bbggy
+5 poesy: ggggg
+
+Needle: point
+1 trace: ybbbb
+2 point: ggggg
+
+Needle: poise
+1 trace: bbbbg
+2 snipe: ybgyg
+3 poise: ggggg
+
+Needle: poker
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbygg
+4 poker: ggggg
+
+Needle: polar
+1 trace: byybb
+2 manor: bybyg
+3 polar: ggggg
+
+Needle: polka
+1 trace: bbybb
+2 salon: bygyb
+3 polka: ggggg
+
+Needle: polyp
+1 trace: bbbbb
+2 slimy: bybby
+3 nylon: bygyb
+4 polyp: ggggg
+
+Needle: pooch
+1 trace: bbbgb
+2 couch: ygbgg
+3 pooch: ggggg
+
+Needle: poppy
+1 trace: bbbbb
+2 spiny: bybbg
+3 puppy: gbggg
+4 poppy: ggggg
+
+Needle: porch
+1 trace: bybgb
+2 lurch: bbggg
+3 birch: bbggg
+4 porch: ggggg
+
+Needle: poser
+1 trace: bybby
+2 diner: bbbgg
+3 super: ybygg
+4 poser: ggggg
+
+Needle: posit
+1 trace: ybbbb
+2 point: ggybg
+3 posit: ggggg
+
+Needle: posse
+1 trace: bbbbg
+2 snipe: ybbyg
+3 posse: ggggg
+
+Needle: pouch
+1 trace: bbbgb
+2 couch: ygggg
+3 pouch: ggggg
+
+Needle: pound
+1 trace: bbbbb
+2 spiny: bybgb
+3 plunk: gbggb
+4 pound: ggggg
+
+Needle: pouty
+1 trace: ybbbb
+2 point: ggbby
+3 pouty: ggggg
+
+Needle: power
+1 trace: bybby
+2 risen: ybbgb
+3 older: ybbgg
+4 mower: bgggg
+5 power: ggggg
+
+Needle: prank
+1 trace: bggbb
+2 drawn: bggby
+3 frank: bgggg
+4 prank: ggggg
+
+Needle: prawn
+1 trace: bggbb
+2 brand: bggyb
+3 grain: bggbg
+4 prawn: ggggg
+
+Needle: preen
+1 trace: bgbby
+2 freed: bgggb
+3 green: bgggg
+4 preen: ggggg
+
+Needle: press
+1 trace: bgbby
+2 freed: bggyb
+3 press: ggggg
+
+Needle: price
+1 trace: bgbgg
+2 price: ggggg
+
+Needle: prick
+1 trace: bgbgb
+2 crick: ygggg
+3 brick: bgggg
+4 prick: ggggg
+
+Needle: pride
+1 trace: bgbbg
+2 pride: ggggg
+
+Needle: pried
+1 trace: bgbby
+2 freed: bgygg
+3 dried: ygggg
+4 pried: ggggg
+
+Needle: prime
+1 trace: bgbbg
+2 pride: gggbg
+3 prime: ggggg
+
+Needle: primo
+1 trace: bgbbb
+2 drink: bggbb
+3 grimy: bgggb
+4 primo: ggggg
+
+Needle: print
+1 trace: ygbbb
+2 frost: bgbbg
+3 brunt: bgbgg
+4 print: ggggg
+
+Needle: prior
+1 trace: bgbbb
+2 grind: bggbb
+3 frisk: bggbb
+4 prior: ggggg
+
+Needle: prism
+1 trace: bgbbb
+2 grind: bggbb
+3 frisk: bgggb
+4 prism: ggggg
+
+Needle: privy
+1 trace: bgbbb
+2 grind: bggbb
+3 frisk: bggbb
+4 prior: gggby
+5 privy: ggggg
+
+Needle: prize
+1 trace: bgbbg
+2 pride: gggbg
+3 prime: gggbg
+4 prize: ggggg
+
+Needle: probe
+1 trace: bgbbg
+2 pride: ggbbg
+3 prove: gggbg
+4 probe: ggggg
+
+Needle: prone
+1 trace: bgbbg
+2 pride: ggbbg
+3 probe: gggbg
+4 prose: gggbg
+5 prone: ggggg
+
+Needle: prong
+1 trace: bgbbb
+2 grind: ygbgb
+3 prong: ggggg
+
+Needle: proof
+1 trace: bgbbb
+2 drink: bgbbb
+3 group: bggby
+4 prowl: gggbb
+5 proof: ggggg
+
+Needle: prose
+1 trace: bgbbg
+2 pride: ggbbg
+3 probe: gggbg
+4 prone: gggbg
+5 prose: ggggg
+
+Needle: proud
+1 trace: bgbbb
+2 drink: ygbbb
+3 brood: bggyg
+4 proud: ggggg
+
+Needle: prove
+1 trace: bgbbg
+2 pride: ggbbg
+3 probe: gggbg
+4 prone: gggbg
+5 prose: gggbg
+6 prove: ggggg
+
+Needle: prowl
+1 trace: bgbbb
+2 grind: bgbbb
+3 broom: bggyb
+4 prowl: ggggg
+
+Needle: proxy
+1 trace: bgbbb
+2 grind: bgbbb
+3 broom: bggyb
+4 prowl: gggbb
+5 proxy: ggggg
+
+Needle: prude
+1 trace: bgbbg
+2 pride: ggbgg
+3 prude: ggggg
+
+Needle: prune
+1 trace: bgbbg
+2 pride: ggbbg
+3 prose: ggbbg
+4 prune: ggggg
+
+Needle: psalm
+1 trace: bbgbb
+2 slain: yygbb
+3 psalm: ggggg
+
+Needle: pubic
+1 trace: bbbyb
+2 could: ybybb
+3 ficus: byyyb
+4 pubic: ggggg
+
+Needle: pudgy
+1 trace: bbbbb
+2 spiny: bybbg
+3 guppy: ygyyg
+4 pudgy: ggggg
+
+Needle: puffy
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bbbbg
+4 funny: ygbbg
+5 puffy: ggggg
+
+Needle: pulpy
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: bbbyg
+4 bulky: bggbg
+5 pulpy: ggggg
+
+Needle: pulse
+1 trace: bbbbg
+2 snipe: ybbyg
+3 posse: gbygg
+4 pulse: ggggg
+
+Needle: punch
+1 trace: bbbgb
+2 couch: ybygg
+3 mulch: bgbgg
+4 hunch: ygggg
+5 bunch: bgggg
+6 punch: ggggg
+
+Needle: pupal
+1 trace: bbybb
+2 salon: byybb
+3 album: yybyb
+4 pupal: ggggg
+
+Needle: pupil
+1 trace: bbbbb
+2 slimy: byybb
+3 lipid: yyggb
+4 pupil: ggggg
+
+Needle: puppy
+1 trace: bbbbb
+2 spiny: bybbg
+3 lumpy: bgbgg
+4 guppy: bgggg
+5 puppy: ggggg
+
+Needle: puree
+1 trace: bybbg
+2 surge: bggbg
+3 puree: ggggg
+
+Needle: purer
+1 trace: bybby
+2 diner: bbbgg
+3 super: bgygg
+4 purer: ggggg
+
+Needle: purge
+1 trace: bybbg
+2 surge: bgggg
+3 purge: ggggg
+
+Needle: purse
+1 trace: bybbg
+2 surge: yggbg
+3 nurse: bgggg
+4 purse: ggggg
+
+Needle: pushy
+1 trace: bbbbb
+2 spiny: yybbg
+3 gypsy: byyyg
+4 pushy: ggggg
+
+Needle: putty
+1 trace: ybbbb
+2 point: gbbby
+3 putty: ggggg
+
+Needle: pygmy
+1 trace: bbbbb
+2 slimy: bbbgg
+3 mummy: ybygg
+4 pygmy: ggggg
+
+Needle: quack
+1 trace: bbggb
+2 black: bbggg
+3 shack: bbggg
+4 knack: ybggg
+5 quack: ggggg
+
+Needle: quail
+1 trace: bbgbb
+2 slain: byggb
+3 avail: ybggg
+4 quail: ggggg
+
+Needle: quake
+1 trace: bbgbg
+2 slave: bbgbg
+3 image: bbgbg
+4 awake: ybggg
+5 quake: ggggg
+
+Needle: qualm
+1 trace: bbgbb
+2 slain: bygbb
+3 koala: bbggy
+4 qualm: ggggg
+
+Needle: quark
+1 trace: bygbb
+2 shard: bbggb
+3 ovary: bbggb
+4 alarm: ybggb
+5 quark: ggggg
+
+Needle: quart
+1 trace: yygbb
+2 start: byggg
+3 apart: ybggg
+4 quart: ggggg
+
+Needle: quash
+1 trace: bbgbb
+2 slain: ybgbb
+3 awash: ybggg
+4 quash: ggggg
+
+Needle: quasi
+1 trace: bbgbb
+2 slain: ybgyb
+3 quasi: ggggg
+
+Needle: queen
+1 trace: bbbby
+2 widen: bbbgg
+3 semen: bybgg
+4 queen: ggggg
+
+Needle: queer
+1 trace: bybby
+2 diner: bbbgg
+3 super: bgbgg
+4 queer: ggggg
+
+Needle: quell
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: bbggb
+4 quell: ggggg
+
+Needle: query
+1 trace: bybby
+2 risen: ybbyb
+3 femur: bybyy
+4 query: ggggg
+
+Needle: quest
+1 trace: ybbby
+2 spelt: ybgbg
+3 guest: bgggg
+4 quest: ggggg
+
+Needle: queue
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bgbbg
+4 queue: ggggg
+
+Needle: quick
+1 trace: bbbgb
+2 couch: ybygb
+3 juicy: bgggb
+4 quick: ggggg
+
+Needle: quiet
+1 trace: ybbby
+2 spelt: bbybg
+3 debit: bybyg
+4 eight: yybbg
+5 quiet: ggggg
+
+Needle: quill
+1 trace: bbbbb
+2 spiny: bbgbb
+3 guild: bgggb
+4 quill: ggggg
+
+Needle: quilt
+1 trace: ybbbb
+2 point: bbgbg
+3 built: bgggg
+4 guilt: bgggg
+5 quilt: ggggg
+
+Needle: quirk
+1 trace: bybbb
+2 surly: bgybb
+3 rumor: ygbby
+4 quirk: ggggg
+
+Needle: quite
+1 trace: ybbbg
+2 quite: ggggg
+
+Needle: quota
+1 trace: ybybb
+2 satin: byybb
+3 float: bbgyy
+4 quota: ggggg
+
+Needle: quote
+1 trace: ybbbg
+2 suite: bgbgg
+3 butte: bgygg
+4 quote: ggggg
+
+Needle: quoth
+1 trace: ybbbb
+2 point: bybby
+3 stood: bygyb
+4 quoth: ggggg
+
+Needle: rabbi
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgybb
+4 rabbi: ggggg
+
+Needle: rabid
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgybb
+4 rabbi: gggyy
+5 rabid: ggggg
+
+Needle: racer
+1 trace: byyyy
+2 cedar: yybyg
+3 racer: ggggg
+
+Needle: radar
+1 trace: byybb
+2 manor: bgbbg
+3 radar: ggggg
+
+Needle: radii
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgybb
+4 rabid: ggbgy
+5 radii: ggggg
+
+Needle: radio
+1 trace: byybb
+2 manor: bgbyy
+3 radio: ggggg
+
+Needle: rainy
+1 trace: byybb
+2 manor: bgyby
+3 rainy: ggggg
+
+Needle: raise
+1 trace: byybg
+2 large: bgybg
+3 raise: ggggg
+
+Needle: rajah
+1 trace: byybb
+2 manor: bgbby
+3 harpy: ygybb
+4 rajah: ggggg
+
+Needle: rally
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgybg
+4 fairy: bgbyg
+5 rally: ggggg
+
+Needle: ralph
+1 trace: byybb
+2 manor: bgbby
+3 harpy: ygygb
+4 ralph: ggggg
+
+Needle: ramen
+1 trace: byyby
+2 gamer: bgggy
+3 ramen: ggggg
+
+Needle: ranch
+1 trace: byygb
+2 march: bgygg
+3 ranch: ggggg
+
+Needle: randy
+1 trace: byybb
+2 manor: bggby
+3 randy: ggggg
+
+Needle: range
+1 trace: byybg
+2 barge: bgygg
+3 range: ggggg
+
+Needle: rapid
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgyyb
+4 rapid: ggggg
+
+Needle: rarer
+1 trace: byyby
+2 relay: gybyb
+3 ramen: ggbgb
+4 rarer: ggggg
+
+Needle: raspy
+1 trace: byybb
+2 manor: bgbby
+3 harpy: bgygg
+4 raspy: ggggg
+
+Needle: ratio
+1 trace: yyybb
+2 party: bgyyb
+3 ratio: ggggg
+
+Needle: ratty
+1 trace: yyybb
+2 warty: bgygg
+3 ratty: ggggg
+
+Needle: raven
+1 trace: byyby
+2 relay: gybyb
+3 raven: ggggg
+
+Needle: rayon
+1 trace: byybb
+2 manor: bgygy
+3 baron: bgygg
+4 rayon: ggggg
+
+Needle: razor
+1 trace: byybb
+2 manor: bgbgg
+3 valor: bgbgg
+4 razor: ggggg
+
+Needle: reach
+1 trace: byggy
+2 reach: ggggg
+
+Needle: react
+1 trace: yyggy
+2 react: ggggg
+
+Needle: ready
+1 trace: bygby
+2 yearn: yggyb
+3 ready: ggggg
+
+Needle: realm
+1 trace: bygby
+2 learn: yggyb
+3 realm: ggggg
+
+Needle: rearm
+1 trace: bygby
+2 yearn: bgggb
+3 heard: bgggb
+4 pearl: bgggb
+5 rearm: ggggg
+
+Needle: rebar
+1 trace: byyby
+2 relay: ggbgb
+3 rebar: ggggg
+
+Needle: rebel
+1 trace: bybby
+2 diner: bbbgy
+3 rebel: ggggg
+
+Needle: rebus
+1 trace: bybby
+2 diner: bbbyy
+3 merry: bgyyb
+4 rebus: ggggg
+
+Needle: rebut
+1 trace: yybby
+2 metro: bgyyb
+3 beret: ygyyg
+4 rebut: ggggg
+
+Needle: recap
+1 trace: byyyy
+2 recap: ggggg
+
+Needle: recur
+1 trace: bybyy
+2 cider: ybbyg
+3 recur: ggggg
+
+Needle: recut
+1 trace: yybyy
+2 recut: ggggg
+
+Needle: reedy
+1 trace: bybby
+2 diner: ybbyy
+3 reedy: ggggg
+
+Needle: refer
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbbgg
+4 mower: bbbgg
+5 fever: ygbgg
+6 refer: ggggg
+
+Needle: refit
+1 trace: yybby
+2 metro: bgyyb
+3 beret: bgyyg
+4 refit: ggggg
+
+Needle: regal
+1 trace: byyby
+2 relay: ggygb
+3 regal: ggggg
+
+Needle: rehab
+1 trace: byyby
+2 gamer: bybyy
+3 relay: ggbgb
+4 rehab: ggggg
+
+Needle: reign
+1 trace: bybby
+2 siren: byyyg
+3 reign: ggggg
+
+Needle: relax
+1 trace: byyby
+2 gamer: bybyy
+3 relay: ggggb
+4 relax: ggggg
+
+Needle: relay
+1 trace: byyby
+2 gamer: bybyy
+3 relay: ggggg
+
+Needle: relic
+1 trace: bybyy
+2 cider: yybyy
+3 relic: ggggg
+
+Needle: remit
+1 trace: yybby
+2 metro: ygyyb
+3 remit: ggggg
+
+Needle: renal
+1 trace: byyby
+2 relay: ggygb
+3 regal: ggbgg
+4 renal: ggggg
+
+Needle: renew
+1 trace: bybby
+2 diner: bbggy
+3 renew: ggggg
+
+Needle: repay
+1 trace: byyby
+2 relay: ggbgg
+3 repay: ggggg
+
+Needle: repel
+1 trace: bybby
+2 siren: bbygb
+3 lover: ybbgy
+4 rebel: ggbgg
+5 repel: ggggg
+
+Needle: reply
+1 trace: bybby
+2 risen: gbbyb
+3 reedy: ggybg
+4 reply: ggggg
+
+Needle: rerun
+1 trace: bybby
+2 risen: gbbyg
+3 rerun: ggggg
+
+Needle: reset
+1 trace: yybby
+2 metro: bgyyb
+3 beret: bgygg
+4 reset: ggggg
+
+Needle: resin
+1 trace: bybby
+2 risen: gygyg
+3 resin: ggggg
+
+Needle: retch
+1 trace: yybgy
+2 retch: ggggg
+
+Needle: retro
+1 trace: yybby
+2 metro: bgggg
+3 retro: ggggg
+
+Needle: retry
+1 trace: yybby
+2 metro: bgggb
+3 retry: ggggg
+
+Needle: reuse
+1 trace: bybbg
+2 surge: yyybg
+3 reuse: ggggg
+
+Needle: revel
+1 trace: bybby
+2 siren: bbygb
+3 revel: ggggg
+
+Needle: revue
+1 trace: bybbg
+2 surge: byybg
+3 revue: ggggg
+
+Needle: rhino
+1 trace: bybbb
+2 surly: bbybb
+3 rhino: ggggg
+
+Needle: rhyme
+1 trace: bybbg
+2 surge: bbybg
+3 ombre: bybyg
+4 rhyme: ggggg
+
+Needle: rider
+1 trace: bybby
+2 diner: ygbgg
+3 rider: ggggg
+
+Needle: ridge
+1 trace: bybbg
+2 surge: bbygg
+3 ridge: ggggg
+
+Needle: rifle
+1 trace: bybbg
+2 surge: bbybg
+3 fibre: ygbyg
+4 rifle: ggggg
+
+Needle: right
+1 trace: yybbb
+2 short: bybyg
+3 right: ggggg
+
+Needle: rigid
+1 trace: bybbb
+2 surly: bbybb
+3 rhino: gbybb
+4 rigid: ggggg
+
+Needle: rigor
+1 trace: bybbb
+2 surly: bbybb
+3 rhino: gbyby
+4 rigor: ggggg
+
+Needle: rinse
+1 trace: bybbg
+2 surge: ybybg
+3 rinse: ggggg
+
+Needle: ripen
+1 trace: bybby
+2 siren: bgygg
+3 ripen: ggggg
+
+Needle: riper
+1 trace: bybby
+2 diner: bgbgg
+3 liver: bgbgg
+4 riper: ggggg
+
+Needle: risen
+1 trace: bybby
+2 diner: bgygy
+3 risen: ggggg
+
+Needle: riser
+1 trace: bybby
+2 diner: bgbgg
+3 liver: bgbgg
+4 riper: ggbgg
+5 riser: ggggg
+
+Needle: risky
+1 trace: bybbb
+2 surly: ybybg
+3 risky: ggggg
+
+Needle: rival
+1 trace: byybb
+2 manor: bybby
+3 rival: ggggg
+
+Needle: river
+1 trace: bybby
+2 siren: bgygb
+3 rider: ggbgg
+4 riper: ggbgg
+5 river: ggggg
+
+Needle: rivet
+1 trace: yybby
+2 metro: byyyb
+3 egret: ybygg
+4 rivet: ggggg
+
+Needle: roach
+1 trace: byggb
+2 roach: ggggg
+
+Needle: roast
+1 trace: yygbb
+2 stark: yygyb
+3 roast: ggggg
+
+Needle: robin
+1 trace: bybbb
+2 surly: bbybb
+3 rigid: gybgb
+4 robin: ggggg
+
+Needle: robot
+1 trace: yybbb
+2 short: bbyyg
+3 robot: ggggg
+
+Needle: rocky
+1 trace: bybyb
+2 choir: ybyby
+3 rocky: ggggg
+
+Needle: rodeo
+1 trace: bybby
+2 diner: ybbgy
+3 rodeo: ggggg
+
+Needle: roger
+1 trace: bybby
+2 risen: gbbgb
+3 revel: gybgb
+4 rower: ggbgg
+5 roger: ggggg
+
+Needle: rogue
+1 trace: bybbg
+2 surge: byyyg
+3 rogue: ggggg
+
+Needle: roomy
+1 trace: bybbb
+2 surly: bbybg
+3 ivory: bbgyg
+4 roomy: ggggg
+
+Needle: roost
+1 trace: yybbb
+2 short: ybgyg
+3 roost: ggggg
+
+Needle: rotor
+1 trace: yybbb
+2 short: bbyyy
+3 motor: bgggg
+4 rotor: ggggg
+
+Needle: rouge
+1 trace: bybbg
+2 surge: byygg
+3 rouge: ggggg
+
+Needle: rough
+1 trace: bybbb
+2 surly: byybb
+3 mourn: bggyb
+4 rough: ggggg
+
+Needle: round
+1 trace: bybbb
+2 surly: byybb
+3 gourd: bggyg
+4 round: ggggg
+
+Needle: rouse
+1 trace: bybbg
+2 surge: yyybg
+3 reuse: gyggg
+4 rouse: ggggg
+
+Needle: route
+1 trace: yybbg
+2 route: ggggg
+
+Needle: rover
+1 trace: bybby
+2 risen: gbbgb
+3 revel: gyggb
+4 rover: ggggg
+
+Needle: rowdy
+1 trace: bybbb
+2 surly: bbybg
+3 dowry: yggyg
+4 rowdy: ggggg
+
+Needle: rower
+1 trace: bybby
+2 risen: gbbgb
+3 revel: gybgb
+4 roger: ggbgg
+5 rower: ggggg
+
+Needle: royal
+1 trace: byybb
+2 manor: bybyy
+3 royal: ggggg
+
+Needle: ruddy
+1 trace: bybbb
+2 surly: bgybg
+3 ruddy: ggggg
+
+Needle: ruder
+1 trace: bybby
+2 diner: ybbgg
+3 older: bbggg
+4 ruder: ggggg
+
+Needle: rugby
+1 trace: bybbb
+2 surly: bgybg
+3 ruddy: ggbbg
+4 rugby: ggggg
+
+Needle: ruler
+1 trace: bybby
+2 siren: bbygb
+3 lover: ybbgg
+4 bluer: byygg
+5 ruler: ggggg
+
+Needle: rumba
+1 trace: byybb
+2 manor: yybby
+3 rumba: ggggg
+
+Needle: rumor
+1 trace: bybbb
+2 surly: bgybb
+3 rumor: ggggg
+
+Needle: rupee
+1 trace: bybbg
+2 surge: bgybg
+3 rupee: ggggg
+
+Needle: rural
+1 trace: byybb
+2 manor: bybby
+3 rural: ggggg
+
+Needle: rusty
+1 trace: yybbb
+2 short: ybbyy
+3 rusty: ggggg
+
+Needle: sadly
+1 trace: bbybb
+2 salon: ggybb
+3 sadly: ggggg
+
+Needle: safer
+1 trace: byyby
+2 relay: yybyb
+3 gamer: bgbgg
+4 safer: ggggg
+
+Needle: saint
+1 trace: ybybb
+2 satin: ggyyy
+3 saint: ggggg
+
+Needle: salad
+1 trace: bbybb
+2 salon: gggbb
+3 salad: ggggg
+
+Needle: sally
+1 trace: bbybb
+2 salon: gggbb
+3 sally: ggggg
+
+Needle: salon
+1 trace: bbybb
+2 salon: ggggg
+
+Needle: salsa
+1 trace: bbybb
+2 salon: gggbb
+3 salad: gggyb
+4 sally: gggyb
+5 salsa: ggggg
+
+Needle: salty
+1 trace: ybybb
+2 satin: ggybb
+3 salty: ggggg
+
+Needle: salve
+1 trace: bbybg
+2 angle: ybbyg
+3 valve: ygggg
+4 halve: bgggg
+5 salve: ggggg
+
+Needle: salvo
+1 trace: bbybb
+2 salon: gggyb
+3 salvo: ggggg
+
+Needle: sandy
+1 trace: bbybb
+2 salon: ggbby
+3 sandy: ggggg
+
+Needle: saner
+1 trace: byyby
+2 relay: yybyb
+3 gamer: bgbgg
+4 safer: ggbgg
+5 saner: ggggg
+
+Needle: sappy
+1 trace: bbybb
+2 salon: ggbbb
+3 sappy: ggggg
+
+Needle: sassy
+1 trace: bbybb
+2 salon: ggbbb
+3 sappy: ggbbg
+4 sassy: ggggg
+
+Needle: satin
+1 trace: ybybb
+2 satin: ggggg
+
+Needle: satyr
+1 trace: yyybb
+2 warty: bgyyy
+3 satyr: ggggg
+
+Needle: sauce
+1 trace: bbygg
+2 lance: bgbgg
+3 sauce: ggggg
+
+Needle: saucy
+1 trace: bbygb
+2 fancy: bgbgg
+3 saucy: ggggg
+
+Needle: sauna
+1 trace: bbybb
+2 salon: ggbby
+3 sandy: ggybb
+4 sauna: ggggg
+
+Needle: saute
+1 trace: ybybg
+2 bathe: bgybg
+3 paste: bgygg
+4 saute: ggggg
+
+Needle: savor
+1 trace: byybb
+2 manor: bgbgg
+3 valor: ygbgg
+4 favor: bgggg
+5 savor: ggggg
+
+Needle: savoy
+1 trace: bbybb
+2 salon: ggbgb
+3 savoy: ggggg
+
+Needle: savvy
+1 trace: bbybb
+2 salon: ggbbb
+3 sassy: ggyyg
+4 sappy: ggbbg
+5 savvy: ggggg
+
+Needle: scald
+1 trace: bbgyb
+2 clasp: yygyb
+3 scald: ggggg
+
+Needle: scale
+1 trace: bbgyg
+2 chase: ybgyg
+3 scale: ggggg
+
+Needle: scalp
+1 trace: bbgyb
+2 clasp: yygyg
+3 scalp: ggggg
+
+Needle: scaly
+1 trace: bbgyb
+2 clasp: yygyb
+3 scald: ggggb
+4 scaly: ggggg
+
+Needle: scamp
+1 trace: bbgyb
+2 clasp: ybgyg
+3 scamp: ggggg
+
+Needle: scant
+1 trace: ybgyb
+2 chant: ybggg
+3 scant: ggggg
+
+Needle: scare
+1 trace: bygyg
+2 scare: ggggg
+
+Needle: scarf
+1 trace: bygyb
+2 scary: ggggb
+3 scarf: ggggg
+
+Needle: scary
+1 trace: bygyb
+2 scarf: ggggb
+3 scary: ggggg
+
+Needle: scene
+1 trace: bbbyg
+2 clone: ybbgg
+3 scene: ggggg
+
+Needle: scent
+1 trace: ybbyy
+2 cleft: ybgbg
+3 scent: ggggg
+
+Needle: scion
+1 trace: bbbyb
+2 could: yybbb
+3 scoff: ggybb
+4 scion: ggggg
+
+Needle: scoff
+1 trace: bbbyb
+2 could: yybbb
+3 scoff: ggggg
+
+Needle: scold
+1 trace: bbbyb
+2 cumin: ybbbb
+3 scowl: gggby
+4 scold: ggggg
+
+Needle: scone
+1 trace: bbbyg
+2 chose: ybgyg
+3 scone: ggggg
+
+Needle: scoop
+1 trace: bbbyb
+2 cumin: ybbbb
+3 scold: gggbb
+4 scoff: gggbb
+5 scoop: ggggg
+
+Needle: scope
+1 trace: bbbyg
+2 close: ybgyg
+3 scone: gggbg
+4 scope: ggggg
+
+Needle: score
+1 trace: bybyg
+2 curve: ybybg
+3 score: ggggg
+
+Needle: scorn
+1 trace: bybyb
+2 choir: ybgby
+3 scorn: ggggg
+
+Needle: scour
+1 trace: bybyb
+2 choir: ybgbg
+3 scour: ggggg
+
+Needle: scout
+1 trace: ybbyb
+2 scout: ggggg
+
+Needle: scowl
+1 trace: bbbyb
+2 cumin: ybbbb
+3 scowl: ggggg
+
+Needle: scram
+1 trace: byyyb
+2 carol: yygbb
+3 scrap: ggggb
+4 scram: ggggg
+
+Needle: scrap
+1 trace: byyyb
+2 carol: yygbb
+3 scrap: ggggg
+
+Needle: scree
+1 trace: bybyg
+2 curve: ybgbg
+3 scree: ggggg
+
+Needle: screw
+1 trace: bybyy
+2 cider: ybbgy
+3 screw: ggggg
+
+Needle: scrub
+1 trace: bybyb
+2 choir: ybbby
+3 scrub: ggggg
+
+Needle: scrum
+1 trace: bybyb
+2 choir: ybbby
+3 scrub: ggggb
+4 scrum: ggggg
+
+Needle: scuba
+1 trace: bbyyb
+2 canal: yybyb
+3 mocha: bbybg
+4 scuba: ggggg
+
+Needle: sedan
+1 trace: bbyby
+2 penal: bgygb
+3 began: bgbgg
+4 sedan: ggggg
+
+Needle: seedy
+1 trace: bbbby
+2 widen: bbyyb
+3 debug: ygbbb
+4 seedy: ggggg
+
+Needle: segue
+1 trace: bbbbg
+2 snipe: gbbbg
+3 smoke: gbbbg
+4 segue: ggggg
+
+Needle: seize
+1 trace: bbbbg
+2 snipe: gbgbg
+3 slime: gbgbg
+4 seize: ggggg
+
+Needle: semen
+1 trace: bbbby
+2 widen: bbbgg
+3 sheen: gbygg
+4 semen: ggggg
+
+Needle: sense
+1 trace: bbbbg
+2 snipe: gybbg
+3 sense: ggggg
+
+Needle: sepia
+1 trace: bbyby
+2 pedal: ygbyb
+3 sepia: ggggg
+
+Needle: serif
+1 trace: bybby
+2 risen: yyyyb
+3 serif: ggggg
+
+Needle: serum
+1 trace: bybby
+2 siren: gbgyb
+3 serum: ggggg
+
+Needle: serve
+1 trace: bybbg
+2 surge: gbgbg
+3 serve: ggggg
+
+Needle: setup
+1 trace: ybbby
+2 spelt: gyyby
+3 setup: ggggg
+
+Needle: seven
+1 trace: bbbby
+2 widen: bbbgg
+3 semen: ggbgg
+4 seven: ggggg
+
+Needle: sever
+1 trace: bybby
+2 siren: gbygb
+3 sower: gbbgg
+4 sever: ggggg
+
+Needle: sewer
+1 trace: bybby
+2 diner: bbbgg
+3 super: gbbgg
+4 sower: gbggg
+5 sewer: ggggg
+
+Needle: shack
+1 trace: bbggb
+2 slack: gbggg
+3 smack: gbggg
+4 shack: ggggg
+
+Needle: shade
+1 trace: bbgbg
+2 slave: gbgbg
+3 spade: gbggg
+4 shade: ggggg
+
+Needle: shady
+1 trace: bbgbb
+2 slain: gbgbb
+3 spasm: gbgyb
+4 shady: ggggg
+
+Needle: shaft
+1 trace: ybgbb
+2 slant: gbgbg
+3 shaft: ggggg
+
+Needle: shake
+1 trace: bbgbg
+2 slave: gbgbg
+3 shade: gggbg
+4 shame: gggbg
+5 shake: ggggg
+
+Needle: shaky
+1 trace: bbgbb
+2 slain: gbgbb
+3 swamp: gbgbb
+4 shady: gggbg
+5 shaky: ggggg
+
+Needle: shale
+1 trace: bbgbg
+2 slave: gygbg
+3 shale: ggggg
+
+Needle: shall
+1 trace: bbgbb
+2 slain: gygbb
+3 shawl: gggbg
+4 shall: ggggg
+
+Needle: shalt
+1 trace: ybgbb
+2 slant: gygbg
+3 shalt: ggggg
+
+Needle: shame
+1 trace: bbgbg
+2 slave: gbgbg
+3 shape: gggbg
+4 shade: gggbg
+5 shake: gggbg
+6 shame: ggggg
+
+Needle: shank
+1 trace: bbgbb
+2 slain: gbgby
+3 spank: gbggg
+4 shank: ggggg
+
+Needle: shape
+1 trace: bbgbg
+2 slave: gbgbg
+3 shade: gggbg
+4 shake: gggbg
+5 shame: gggbg
+6 shape: ggggg
+
+Needle: shard
+1 trace: bygbb
+2 shard: ggggg
+
+Needle: share
+1 trace: bygbg
+2 spare: gbggg
+3 share: ggggg
+
+Needle: shark
+1 trace: bygbb
+2 shark: ggggg
+
+Needle: sharp
+1 trace: bygbb
+2 hoard: ybggb
+3 shark: ggggb
+4 sharp: ggggg
+
+Needle: shave
+1 trace: bbgbg
+2 slave: gbggg
+3 shave: ggggg
+
+Needle: shawl
+1 trace: bbgbb
+2 slain: gygbb
+3 shall: gggyg
+4 shawl: ggggg
+
+Needle: shear
+1 trace: byyby
+2 gamer: bybyg
+3 spear: gbggg
+4 shear: ggggg
+
+Needle: sheen
+1 trace: bbbby
+2 widen: bbbgg
+3 sheen: ggggg
+
+Needle: sheep
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: bybgb
+4 gooey: bbbgb
+5 sheep: ggggg
+
+Needle: sheer
+1 trace: bybby
+2 risen: ybygb
+3 shrew: ggygb
+4 sheer: ggggg
+
+Needle: sheet
+1 trace: ybbby
+2 spelt: gbgbg
+3 sheet: ggggg
+
+Needle: sheik
+1 trace: bbbby
+2 widen: bybyb
+3 sheik: ggggg
+
+Needle: shelf
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: ggggg
+
+Needle: shell
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: ggggb
+4 shell: ggggg
+
+Needle: shied
+1 trace: bbbby
+2 widen: byygb
+3 plied: bbggg
+4 shied: ggggg
+
+Needle: shift
+1 trace: ybbbb
+2 hoist: ybgyg
+3 shift: ggggg
+
+Needle: shine
+1 trace: bbbbg
+2 snipe: gygbg
+3 shine: ggggg
+
+Needle: shiny
+1 trace: bbbbb
+2 slimy: gbgbg
+3 spiky: gbgbg
+4 shiny: ggggg
+
+Needle: shire
+1 trace: bybbg
+2 surge: gbybg
+3 shire: ggggg
+
+Needle: shirk
+1 trace: bybbb
+2 surly: gbybb
+3 shorn: ggbgb
+4 shirk: ggggg
+
+Needle: shirt
+1 trace: yybbb
+2 short: ggbgg
+3 shirt: ggggg
+
+Needle: shoal
+1 trace: bbybb
+2 salon: gyyyb
+3 shoal: ggggg
+
+Needle: shock
+1 trace: bbbgb
+2 couch: yybgy
+3 shock: ggggg
+
+Needle: shone
+1 trace: bbbbg
+2 snipe: gybbg
+3 sense: gyyyg
+4 shone: ggggg
+
+Needle: shook
+1 trace: bbbbb
+2 slimy: gbbbb
+3 snoop: gbggb
+4 shook: ggggg
+
+Needle: shoot
+1 trace: ybbbb
+2 hoist: yybyg
+3 shoot: ggggg
+
+Needle: shore
+1 trace: bybbg
+2 surge: gbybg
+3 spire: gbbgg
+4 snore: gbggg
+5 shore: ggggg
+
+Needle: shorn
+1 trace: bybbb
+2 surly: gbybb
+3 shorn: ggggg
+
+Needle: short
+1 trace: yybbb
+2 short: ggggg
+
+Needle: shout
+1 trace: ybbbb
+2 point: bybbg
+3 shout: ggggg
+
+Needle: shove
+1 trace: bbbbg
+2 snipe: gbbbg
+3 solve: gybgg
+4 shove: ggggg
+
+Needle: shown
+1 trace: bbbbb
+2 slimy: gbbbb
+3 spunk: gbbyb
+4 shown: ggggg
+
+Needle: showy
+1 trace: bbbbb
+2 spiny: gbbbg
+3 shyly: ggybg
+4 showy: ggggg
+
+Needle: shrew
+1 trace: bybby
+2 risen: ybygb
+3 shrew: ggggg
+
+Needle: shrub
+1 trace: bybbb
+2 surly: gygbb
+3 shrub: ggggg
+
+Needle: shrug
+1 trace: bybbb
+2 surly: gygbb
+3 shrub: ggggb
+4 shrug: ggggg
+
+Needle: shuck
+1 trace: bbbgb
+2 couch: ybggy
+3 shuck: ggggg
+
+Needle: shunt
+1 trace: ybbbb
+2 hoist: ybbyg
+3 shunt: ggggg
+
+Needle: shush
+1 trace: bbbbb
+2 slimy: gbbbb
+3 spunk: gbgbb
+4 shush: ggggg
+
+Needle: shyly
+1 trace: bbbbb
+2 spiny: gbbbg
+3 shyly: ggggg
+
+Needle: siege
+1 trace: bbbbg
+2 snipe: gbybg
+3 siege: ggggg
+
+Needle: sieve
+1 trace: bbbbg
+2 snipe: gbybg
+3 siege: gggbg
+4 sieve: ggggg
+
+Needle: sight
+1 trace: ybbbb
+2 hoist: ybyyg
+3 sight: ggggg
+
+Needle: sigma
+1 trace: bbybb
+2 salon: gybbb
+3 sigma: ggggg
+
+Needle: silky
+1 trace: bbbbb
+2 slimy: gyybg
+3 silky: ggggg
+
+Needle: silly
+1 trace: bbbbb
+2 slimy: gyybg
+3 silky: gggbg
+4 silly: ggggg
+
+Needle: since
+1 trace: bbbgg
+2 since: ggggg
+
+Needle: sinew
+1 trace: bbbby
+2 widen: ygbgy
+3 sinew: ggggg
+
+Needle: singe
+1 trace: bbbbg
+2 snipe: gyybg
+3 singe: ggggg
+
+Needle: siren
+1 trace: bybby
+2 siren: ggggg
+
+Needle: sissy
+1 trace: bbbbb
+2 slimy: gbybg
+3 sissy: ggggg
+
+Needle: sixth
+1 trace: ybbbb
+2 point: bbyby
+3 fifth: bgbgg
+4 sixth: ggggg
+
+Needle: sixty
+1 trace: ybbbb
+2 point: bbyby
+3 witty: bgygg
+4 fifty: bgbgg
+5 sixty: ggggg
+
+Needle: skate
+1 trace: ybgbg
+2 stale: gygbg
+3 skate: ggggg
+
+Needle: skier
+1 trace: bybby
+2 siren: gyygb
+3 skier: ggggg
+
+Needle: skiff
+1 trace: bbbbb
+2 slimy: gbgbb
+3 swing: gbgbb
+4 skiff: ggggg
+
+Needle: skill
+1 trace: bbbbb
+2 spiny: gbgbb
+3 swill: gbggg
+4 skill: ggggg
+
+Needle: skimp
+1 trace: bbbbb
+2 slimy: gbggb
+3 skimp: ggggg
+
+Needle: skirt
+1 trace: yybbb
+2 short: gbbgg
+3 skirt: ggggg
+
+Needle: skulk
+1 trace: bbbbb
+2 spiny: gbbbb
+3 shook: gbbbg
+4 skulk: ggggg
+
+Needle: skull
+1 trace: bbbbb
+2 slimy: gybbb
+3 skulk: ggggy
+4 skull: ggggg
+
+Needle: skunk
+1 trace: bbbbb
+2 spiny: gbbgb
+3 slunk: gbggg
+4 skunk: ggggg
+
+Needle: slack
+1 trace: bbggb
+2 shack: gbggg
+3 smack: gbggg
+4 slack: ggggg
+
+Needle: slain
+1 trace: bbgbb
+2 slain: ggggg
+
+Needle: slang
+1 trace: bbgbb
+2 slain: gggby
+3 slang: ggggg
+
+Needle: slant
+1 trace: ybgbb
+2 slant: ggggg
+
+Needle: slash
+1 trace: bbgbb
+2 slain: gggbb
+3 slash: ggggg
+
+Needle: slate
+1 trace: ybgbg
+2 stale: gygyg
+3 slate: ggggg
+
+Needle: slave
+1 trace: bbgbg
+2 slave: ggggg
+
+Needle: sleek
+1 trace: bbbby
+2 widen: bbbgb
+3 bleep: bgggb
+4 sleek: ggggg
+
+Needle: sleep
+1 trace: bbbby
+2 widen: bbbgb
+3 bevel: bybgy
+4 sleep: ggggg
+
+Needle: sleet
+1 trace: ybbby
+2 spelt: gbgyg
+3 sleet: ggggg
+
+Needle: slept
+1 trace: ybbby
+2 spelt: gygyg
+3 slept: ggggg
+
+Needle: slice
+1 trace: bbbgg
+2 since: gybgg
+3 slice: ggggg
+
+Needle: slick
+1 trace: bbbgb
+2 couch: ybbgb
+3 slick: ggggg
+
+Needle: slide
+1 trace: bbbbg
+2 snipe: gbgbg
+3 slide: ggggg
+
+Needle: slime
+1 trace: bbbbg
+2 snipe: gbgbg
+3 slide: gggbg
+4 slime: ggggg
+
+Needle: slimy
+1 trace: bbbbb
+2 slimy: ggggg
+
+Needle: sling
+1 trace: bbbbb
+2 spiny: gbggb
+3 suing: gbggg
+4 sling: ggggg
+
+Needle: slink
+1 trace: bbbbb
+2 spiny: gbggb
+3 suing: gbggb
+4 slink: ggggg
+
+Needle: sloop
+1 trace: bbbbb
+2 slimy: ggbbb
+3 slush: ggbyb
+4 sloop: ggggg
+
+Needle: slope
+1 trace: bbbbg
+2 snipe: gbbgg
+3 slope: ggggg
+
+Needle: slosh
+1 trace: bbbbb
+2 slimy: ggbbb
+3 slush: ggbgg
+4 slosh: ggggg
+
+Needle: sloth
+1 trace: ybbbb
+2 point: bybby
+3 stood: gygyb
+4 sloth: ggggg
+
+Needle: slump
+1 trace: bbbbb
+2 slimy: ggbgb
+3 slump: ggggg
+
+Needle: slung
+1 trace: bbbbb
+2 slimy: ggbbb
+3 slush: gggyb
+4 slung: ggggg
+
+Needle: slunk
+1 trace: bbbbb
+2 spiny: gbbgb
+3 slunk: ggggg
+
+Needle: slurp
+1 trace: bybbb
+2 surly: gyyyb
+3 slurp: ggggg
+
+Needle: slush
+1 trace: bbbbb
+2 spiny: gbbbb
+3 shook: gybbb
+4 slush: ggggg
+
+Needle: slyly
+1 trace: bbbbb
+2 slimy: ggbbg
+3 slyly: ggggg
+
+Needle: smack
+1 trace: bbggb
+2 slack: gbggg
+3 shack: gbggg
+4 smack: ggggg
+
+Needle: small
+1 trace: bbgbb
+2 slain: gygbb
+3 shawl: gbgbg
+4 small: ggggg
+
+Needle: smart
+1 trace: yygbb
+2 start: gyggg
+3 smart: ggggg
+
+Needle: smash
+1 trace: bbgbb
+2 slain: gbgbb
+3 swamp: gbgyb
+4 smash: ggggg
+
+Needle: smear
+1 trace: byyby
+2 gamer: byyyg
+3 smear: ggggg
+
+Needle: smell
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: gbggb
+4 smell: ggggg
+
+Needle: smelt
+1 trace: ybbby
+2 spelt: gbggg
+3 smelt: ggggg
+
+Needle: smile
+1 trace: bbbbg
+2 snipe: gbgbg
+3 slide: gygbg
+4 smile: ggggg
+
+Needle: smirk
+1 trace: bybbb
+2 surly: gbybb
+3 shorn: gbbgb
+4 smirk: ggggg
+
+Needle: smite
+1 trace: ybbbg
+2 quite: bbggg
+3 spite: gbggg
+4 smite: ggggg
+
+Needle: smith
+1 trace: ybbbb
+2 point: bbgby
+3 still: gygbb
+4 smith: ggggg
+
+Needle: smock
+1 trace: bbbgb
+2 couch: yybgb
+3 block: bbggg
+4 knock: ybggg
+5 smock: ggggg
+
+Needle: smoke
+1 trace: bbbbg
+2 snipe: gbbbg
+3 shove: gbgbg
+4 smoke: ggggg
+
+Needle: smoky
+1 trace: bbbbb
+2 slimy: gbbyg
+3 smoky: ggggg
+
+Needle: smote
+1 trace: ybbbg
+2 utile: bybbg
+3 smote: ggggg
+
+Needle: snack
+1 trace: bbggb
+2 black: bbggg
+3 snack: ggggg
+
+Needle: snail
+1 trace: bbgbb
+2 slain: gyggy
+3 snail: ggggg
+
+Needle: snake
+1 trace: bbgbg
+2 slave: gbgbg
+3 shade: gbgbg
+4 snake: ggggg
+
+Needle: snaky
+1 trace: bbgbb
+2 slain: gbgby
+3 shank: gbgyy
+4 snaky: ggggg
+
+Needle: snare
+1 trace: bygbg
+2 spare: gbggg
+3 share: gbggg
+4 snare: ggggg
+
+Needle: snarl
+1 trace: bygbb
+2 shard: gbggb
+3 snarl: ggggg
+
+Needle: sneak
+1 trace: bbyby
+2 penal: byygb
+3 knead: ygggb
+4 sneak: ggggg
+
+Needle: sneer
+1 trace: bybby
+2 diner: bbygg
+3 never: yybgg
+4 sneer: ggggg
+
+Needle: snide
+1 trace: bbbbg
+2 snipe: gggbg
+3 snide: ggggg
+
+Needle: sniff
+1 trace: bbbbb
+2 spiny: gbgyb
+3 sniff: ggggg
+
+Needle: snipe
+1 trace: bbbbg
+2 snipe: ggggg
+
+Needle: snoop
+1 trace: bbbbb
+2 spiny: gybyb
+3 snoop: ggggg
+
+Needle: snore
+1 trace: bybbg
+2 surge: gbybg
+3 spire: gbbgg
+4 shore: gbggg
+5 snore: ggggg
+
+Needle: snort
+1 trace: yybbb
+2 short: gbggg
+3 snort: ggggg
+
+Needle: snout
+1 trace: ybbbb
+2 hoist: bybyg
+3 snout: ggggg
+
+Needle: snowy
+1 trace: bbbbb
+2 slimy: gbbbg
+3 showy: gbggg
+4 snowy: ggggg
+
+Needle: snuck
+1 trace: bbbgb
+2 couch: ybggb
+3 pluck: bbggg
+4 snuck: ggggg
+
+Needle: snuff
+1 trace: bbbbb
+2 spiny: gbbyb
+3 swoon: gbbby
+4 snuff: ggggg
+
+Needle: soapy
+1 trace: bbgbb
+2 slain: gbgbb
+3 swamp: gbgby
+4 soapy: ggggg
+
+Needle: sober
+1 trace: bybby
+2 diner: bbbgg
+3 super: gbbgg
+4 sewer: gybgg
+5 sheer: gbygg
+6 sober: ggggg
+
+Needle: soggy
+1 trace: bbbbb
+2 spiny: gbbbg
+3 shyly: gbybg
+4 smoky: gbybg
+5 soggy: ggggg
+
+Needle: solar
+1 trace: byybb
+2 manor: bybyg
+3 polar: bgggg
+4 solar: ggggg
+
+Needle: solid
+1 trace: bbbbb
+2 slimy: gyybb
+3 solid: ggggg
+
+Needle: solve
+1 trace: bbbbg
+2 snipe: gbbbg
+3 smoke: gbybg
+4 solve: ggggg
+
+Needle: sonar
+1 trace: byybb
+2 manor: bygyg
+3 sonar: ggggg
+
+Needle: sonic
+1 trace: bbbyb
+2 could: ygbbb
+3 ionic: ygggg
+4 sonic: ggggg
+
+Needle: sooth
+1 trace: ybbbb
+2 hoist: ygbyy
+3 sooth: ggggg
+
+Needle: sooty
+1 trace: ybbbb
+2 hoist: bgbyy
+3 sooty: ggggg
+
+Needle: sorry
+1 trace: bybbb
+2 surly: gbgbg
+3 sorry: ggggg
+
+Needle: sound
+1 trace: bbbbb
+2 slimy: gbbbb
+3 snoop: gyyyb
+4 sound: ggggg
+
+Needle: south
+1 trace: ybbbb
+2 point: bgbby
+3 sooty: ggygb
+4 south: ggggg
+
+Needle: sower
+1 trace: bybby
+2 risen: ybygb
+3 sewer: gyggg
+4 sower: ggggg
+
+Needle: space
+1 trace: bbggg
+2 peace: yyggg
+3 space: ggggg
+
+Needle: spade
+1 trace: bbgbg
+2 slave: gbgbg
+3 shape: gbgyg
+4 spade: ggggg
+
+Needle: spank
+1 trace: bbgbb
+2 slain: gbgby
+3 spank: ggggg
+
+Needle: spare
+1 trace: bygbg
+2 share: gbggg
+3 snare: gbggg
+4 spare: ggggg
+
+Needle: spark
+1 trace: bygbb
+2 shard: gbggb
+3 snarl: gbggb
+4 spark: ggggg
+
+Needle: spasm
+1 trace: bbgbb
+2 slain: gbgbb
+3 swash: gbggb
+4 spasm: ggggg
+
+Needle: spawn
+1 trace: bbgbb
+2 slain: gbgbg
+3 spawn: ggggg
+
+Needle: speak
+1 trace: bbyby
+2 penal: yybgb
+3 speak: ggggg
+
+Needle: spear
+1 trace: byyby
+2 gamer: bybyg
+3 shear: gbggg
+4 spear: ggggg
+
+Needle: speck
+1 trace: bbbgy
+2 welch: bybgb
+3 speck: ggggg
+
+Needle: speed
+1 trace: bbbby
+2 widen: bbygb
+3 bleed: bbggg
+4 speed: ggggg
+
+Needle: spell
+1 trace: bbbby
+2 widen: bbbyb
+3 shelf: gbggb
+4 smell: gbggg
+5 spell: ggggg
+
+Needle: spelt
+1 trace: ybbby
+2 spelt: ggggg
+
+Needle: spend
+1 trace: bbbby
+2 widen: bbyyy
+3 blend: bbggg
+4 spend: ggggg
+
+Needle: spent
+1 trace: ybbby
+2 spelt: gggbg
+3 spent: ggggg
+
+Needle: sperm
+1 trace: bybby
+2 risen: ybyyb
+3 sperm: ggggg
+
+Needle: spice
+1 trace: bbbgg
+2 spice: ggggg
+
+Needle: spicy
+1 trace: bbbgb
+2 couch: ybbgb
+3 flick: bbggb
+4 spicy: ggggg
+
+Needle: spied
+1 trace: bbbby
+2 widen: byygb
+3 plied: ybggg
+4 spied: ggggg
+
+Needle: spiel
+1 trace: bbbby
+2 widen: bybgb
+3 impel: ybygg
+4 spiel: ggggg
+
+Needle: spike
+1 trace: bbbbg
+2 snipe: gbgyg
+3 spike: ggggg
+
+Needle: spiky
+1 trace: bbbbb
+2 slimy: gbgbg
+3 shiny: gbgbg
+4 spiky: ggggg
+
+Needle: spill
+1 trace: bbbbb
+2 slimy: gygbb
+3 spill: ggggg
+
+Needle: spilt
+1 trace: ybbbb
+2 point: ybgbg
+3 spilt: ggggg
+
+Needle: spine
+1 trace: bbbbg
+2 snipe: gygyg
+3 spine: ggggg
+
+Needle: spiny
+1 trace: bbbbb
+2 spiny: ggggg
+
+Needle: spire
+1 trace: bybbg
+2 surge: gbybg
+3 shore: gbbgg
+4 spire: ggggg
+
+Needle: spite
+1 trace: ybbbg
+2 utile: bygbg
+3 spite: ggggg
+
+Needle: splat
+1 trace: ybybb
+2 satin: gyybb
+3 splat: ggggg
+
+Needle: split
+1 trace: ybbbb
+2 point: ybybg
+3 split: ggggg
+
+Needle: spoil
+1 trace: bbbbb
+2 spiny: ggybb
+3 spoil: ggggg
+
+Needle: spoke
+1 trace: bbbbg
+2 snipe: gbbyg
+3 spoke: ggggg
+
+Needle: spoof
+1 trace: bbbbb
+2 spiny: ggbbb
+3 spoof: ggggg
+
+Needle: spook
+1 trace: bbbbb
+2 spiny: ggbbb
+3 spook: ggggg
+
+Needle: spool
+1 trace: bbbbb
+2 slimy: gybbb
+3 skulk: gbbyb
+4 spool: ggggg
+
+Needle: spoon
+1 trace: bbbbb
+2 spiny: ggbyb
+3 spoon: ggggg
+
+Needle: spore
+1 trace: bybbg
+2 surge: gbybg
+3 shore: gbggg
+4 snore: gbggg
+5 spore: ggggg
+
+Needle: sport
+1 trace: yybbb
+2 short: gbggg
+3 snort: gbggg
+4 sport: ggggg
+
+Needle: spout
+1 trace: ybbbb
+2 point: yybbg
+3 spout: ggggg
+
+Needle: spray
+1 trace: byybb
+2 manor: bybby
+3 rural: ybggb
+4 spray: ggggg
+
+Needle: spree
+1 trace: bybbg
+2 surge: gbgbg
+3 serve: gygbg
+4 spree: ggggg
+
+Needle: sprig
+1 trace: bybbb
+2 surly: gbgbb
+3 sprig: ggggg
+
+Needle: spunk
+1 trace: bbbbb
+2 spiny: ggbgb
+3 spunk: ggggg
+
+Needle: spurn
+1 trace: bybbb
+2 surly: gyybb
+3 spurn: ggggg
+
+Needle: spurt
+1 trace: yybbb
+2 short: gbbgg
+3 skirt: gbbgg
+4 spurt: ggggg
+
+Needle: squad
+1 trace: bbybb
+2 salon: gybbb
+3 sigma: gbbby
+4 squad: ggggg
+
+Needle: squat
+1 trace: ybybb
+2 satin: gyybb
+3 splat: gbbgg
+4 squat: ggggg
+
+Needle: squib
+1 trace: bbbbb
+2 spiny: gbybb
+3 squib: ggggg
+
+Needle: stack
+1 trace: ybggb
+2 stack: ggggg
+
+Needle: staff
+1 trace: ybgbb
+2 slant: gbgby
+3 stamp: gggbb
+4 staid: gggbb
+5 staff: ggggg
+
+Needle: stage
+1 trace: ybgbg
+2 slate: gbgyg
+3 stage: ggggg
+
+Needle: staid
+1 trace: ybgbb
+2 slant: gbgby
+3 stash: gggyb
+4 staff: gggbb
+5 staid: ggggg
+
+Needle: stain
+1 trace: ybgbb
+2 slant: gbgyy
+3 stain: ggggg
+
+Needle: stair
+1 trace: yygbb
+2 start: gggyy
+3 stair: ggggg
+
+Needle: stake
+1 trace: ybgbg
+2 slate: gbgyg
+3 stage: gggbg
+4 stake: ggggg
+
+Needle: stale
+1 trace: ybgbg
+2 slate: gygyg
+3 stale: ggggg
+
+Needle: stalk
+1 trace: ybgbb
+2 slant: gygby
+3 stalk: ggggg
+
+Needle: stall
+1 trace: ybgbb
+2 slant: gygby
+3 stalk: ggggb
+4 stall: ggggg
+
+Needle: stamp
+1 trace: ybgbb
+2 slant: gbgby
+3 staid: gggbb
+4 stamp: ggggg
+
+Needle: stand
+1 trace: ybgbb
+2 slant: gbggy
+3 stand: ggggg
+
+Needle: stank
+1 trace: ybgbb
+2 slant: gbggy
+3 stand: ggggb
+4 stank: ggggg
+
+Needle: stare
+1 trace: yygbg
+2 stare: ggggg
+
+Needle: stark
+1 trace: yygbb
+2 start: ggggy
+3 stark: ggggg
+
+Needle: start
+1 trace: yygbb
+2 stark: ggggb
+3 start: ggggg
+
+Needle: stash
+1 trace: ybgbb
+2 slant: gbgby
+3 stamp: gggbb
+4 staid: gggbb
+5 staff: gggbb
+6 stash: ggggg
+
+Needle: state
+1 trace: ybgbg
+2 stale: gggbg
+3 stage: gggbg
+4 stake: gggbg
+5 state: ggggg
+
+Needle: stave
+1 trace: ybgbg
+2 stale: gggbg
+3 stake: gggbg
+4 stage: gggbg
+5 state: gggyg
+6 stave: ggggg
+
+Needle: stead
+1 trace: ybyby
+2 pleat: bbggy
+3 stead: ggggg
+
+Needle: steak
+1 trace: ybyby
+2 pleat: bbggy
+3 steak: ggggg
+
+Needle: steal
+1 trace: ybyby
+2 pleat: byggy
+3 steal: ggggg
+
+Needle: steam
+1 trace: ybyby
+2 pleat: bbggy
+3 stead: ggggb
+4 steak: ggggb
+5 steam: ggggg
+
+Needle: steed
+1 trace: ybbby
+2 spelt: gbgby
+3 steed: ggggg
+
+Needle: steel
+1 trace: ybbby
+2 spelt: gbgyy
+3 steel: ggggg
+
+Needle: steep
+1 trace: ybbby
+2 spelt: gygby
+3 steep: ggggg
+
+Needle: steer
+1 trace: yybby
+2 metro: byyyb
+3 egret: ybygy
+4 steer: ggggg
+
+Needle: stein
+1 trace: ybbby
+2 spelt: gbgby
+3 steed: gggyb
+4 stein: ggggg
+
+Needle: stern
+1 trace: yybby
+2 metro: byygb
+3 inert: byggy
+4 stern: ggggg
+
+Needle: stick
+1 trace: ybbgb
+2 hutch: bbygb
+3 stick: ggggg
+
+Needle: stiff
+1 trace: ybbbb
+2 point: bbgby
+3 stiff: ggggg
+
+Needle: still
+1 trace: ybbbb
+2 hoist: bbgyy
+3 stink: gggbb
+4 stiff: gggbb
+5 still: ggggg
+
+Needle: stilt
+1 trace: ybbbb
+2 point: bbgbg
+3 guilt: bbggg
+4 stilt: ggggg
+
+Needle: sting
+1 trace: ybbbb
+2 point: bbggy
+3 sting: ggggg
+
+Needle: stink
+1 trace: ybbbb
+2 point: bbggy
+3 sting: ggggb
+4 stink: ggggg
+
+Needle: stint
+1 trace: ybbbb
+2 hoist: bbgyg
+3 stilt: gggbg
+4 stint: ggggg
+
+Needle: stock
+1 trace: ybbgb
+2 hutch: bbygb
+3 stick: ggbgg
+4 stock: ggggg
+
+Needle: stoic
+1 trace: ybbyb
+2 clout: ybgby
+3 stoic: ggggg
+
+Needle: stoke
+1 trace: ybbbg
+2 utile: bgbbg
+3 stoke: ggggg
+
+Needle: stole
+1 trace: ybbbg
+2 quite: bbbyg
+3 stole: ggggg
+
+Needle: stomp
+1 trace: ybbbb
+2 hoist: bybyy
+3 stoop: gggyg
+4 stomp: ggggg
+
+Needle: stone
+1 trace: ybbbg
+2 quite: bbbyg
+3 stoke: gggbg
+4 stole: gggbg
+5 stone: ggggg
+
+Needle: stony
+1 trace: ybbbb
+2 point: bybgy
+3 stony: ggggg
+
+Needle: stood
+1 trace: ybbbb
+2 hoist: bybyy
+3 stoop: ggggb
+4 stood: ggggg
+
+Needle: stool
+1 trace: ybbbb
+2 point: bybby
+3 stood: ggggb
+4 stool: ggggg
+
+Needle: stoop
+1 trace: ybbbb
+2 hoist: bybyy
+3 stoop: ggggg
+
+Needle: store
+1 trace: yybbg
+2 forte: byyyg
+3 store: ggggg
+
+Needle: stork
+1 trace: yybbb
+2 short: gbggy
+3 storm: ggggb
+4 stork: ggggg
+
+Needle: storm
+1 trace: yybbb
+2 short: gbggy
+3 stork: ggggb
+4 storm: ggggg
+
+Needle: story
+1 trace: yybbb
+2 short: gbggy
+3 storm: ggggb
+4 stork: ggggb
+5 story: ggggg
+
+Needle: stout
+1 trace: ybbbb
+2 hoist: bybyg
+3 snout: gbggg
+4 spout: gbggg
+5 stout: ggggg
+
+Needle: stove
+1 trace: ybbbg
+2 suite: gbbyg
+3 stone: gggbg
+4 stole: gggbg
+5 stoke: gggbg
+6 stove: ggggg
+
+Needle: strap
+1 trace: yyybb
+2 warty: bygyb
+3 strap: ggggg
+
+Needle: straw
+1 trace: yyybb
+2 party: bygyb
+3 straw: ggggg
+
+Needle: stray
+1 trace: yyybb
+2 party: bygyg
+3 stray: ggggg
+
+Needle: strip
+1 trace: yybbb
+2 short: gbbyy
+3 strip: ggggg
+
+Needle: strut
+1 trace: yybbb
+2 short: gbbyg
+3 strut: ggggg
+
+Needle: stuck
+1 trace: ybbgb
+2 hitch: bbygb
+3 stock: ggbgg
+4 stuck: ggggg
+
+Needle: study
+1 trace: ybbbb
+2 point: bbbby
+3 musty: byyyg
+4 study: ggggg
+
+Needle: stuff
+1 trace: ybbbb
+2 point: bbbby
+3 study: gggbb
+4 stuff: ggggg
+
+Needle: stump
+1 trace: ybbbb
+2 hoist: bbbyy
+3 stung: gggbb
+4 study: gggbb
+5 stuff: gggbb
+6 stump: ggggg
+
+Needle: stung
+1 trace: ybbbb
+2 hoist: bbbyy
+3 gusty: yyyyb
+4 stung: ggggg
+
+Needle: stunk
+1 trace: ybbbb
+2 hoist: bbbyy
+3 stung: ggggb
+4 stunk: ggggg
+
+Needle: stunt
+1 trace: ybbbb
+2 hoist: bbbyg
+3 stunt: ggggg
+
+Needle: style
+1 trace: ybbbg
+2 utile: bgbgg
+3 stole: ggbgg
+4 style: ggggg
+
+Needle: suave
+1 trace: bbgbg
+2 slave: gbggg
+3 shave: gbggg
+4 suave: ggggg
+
+Needle: sugar
+1 trace: byybb
+2 manor: bybbg
+3 augur: yggyg
+4 sugar: ggggg
+
+Needle: suing
+1 trace: bbbbb
+2 slimy: gbgbb
+3 swing: gbggg
+4 suing: ggggg
+
+Needle: suite
+1 trace: ybbbg
+2 suite: ggggg
+
+Needle: sulky
+1 trace: bbbbb
+2 slimy: gybbg
+3 shyly: gbyyg
+4 sulky: ggggg
+
+Needle: sully
+1 trace: bbbbb
+2 slimy: gybbg
+3 shyly: gbygg
+4 sully: ggggg
+
+Needle: sumac
+1 trace: bbyyb
+2 canal: yybgb
+3 sumac: ggggg
+
+Needle: sunny
+1 trace: bbbbb
+2 spiny: gbbgg
+3 sunny: ggggg
+
+Needle: super
+1 trace: bybby
+2 risen: ybygb
+3 shrew: gbygb
+4 sober: gbbgg
+5 sever: gybgg
+6 super: ggggg
+
+Needle: surer
+1 trace: bybby
+2 siren: gbggb
+3 shrew: gbggb
+4 surer: ggggg
+
+Needle: surge
+1 trace: bybbg
+2 surge: ggggg
+
+Needle: surly
+1 trace: bybbb
+2 surly: ggggg
+
+Needle: sushi
+1 trace: bbbbb
+2 slimy: gbybb
+3 squib: gbyyb
+4 sushi: ggggg
+
+Needle: swami
+1 trace: bbgbb
+2 slain: gbgyb
+3 swami: ggggg
+
+Needle: swamp
+1 trace: bbgbb
+2 slain: gbgbb
+3 smash: gygyb
+4 swamp: ggggg
+
+Needle: swarm
+1 trace: bygbb
+2 shard: gbggb
+3 snarl: gbggb
+4 spark: gbggb
+5 swarm: ggggg
+
+Needle: swash
+1 trace: bbgbb
+2 slain: gbgbb
+3 swamp: gggbb
+4 swash: ggggg
+
+Needle: swath
+1 trace: ybgbb
+2 slant: gbgby
+3 stash: gygyg
+4 swath: ggggg
+
+Needle: swear
+1 trace: byyby
+2 gamer: bybyg
+3 debar: bybgg
+4 spear: gbggg
+5 shear: gbggg
+6 swear: ggggg
+
+Needle: sweat
+1 trace: ybyby
+2 pleat: bbggg
+3 sweat: ggggg
+
+Needle: sweep
+1 trace: bbbby
+2 widen: ybbgb
+3 vowel: bbygb
+4 sweep: ggggg
+
+Needle: sweet
+1 trace: ybbby
+2 spelt: gbgbg
+3 sheet: gbggg
+4 sweet: ggggg
+
+Needle: swell
+1 trace: bbbby
+2 widen: ybbyb
+3 below: byyby
+4 swell: ggggg
+
+Needle: swept
+1 trace: ybbby
+2 spelt: gygbg
+3 swept: ggggg
+
+Needle: swift
+1 trace: ybbbb
+2 hoist: bbgyg
+3 stilt: gygbg
+4 swift: ggggg
+
+Needle: swill
+1 trace: bbbbb
+2 slimy: gygbb
+3 spill: gbggg
+4 skill: gbggg
+5 swill: ggggg
+
+Needle: swine
+1 trace: bbbbg
+2 snipe: gygbg
+3 shine: gbggg
+4 swine: ggggg
+
+Needle: swing
+1 trace: bbbbb
+2 slimy: gbgbb
+3 swing: ggggg
+
+Needle: swirl
+1 trace: bybbb
+2 surly: gbyyb
+3 swirl: ggggg
+
+Needle: swish
+1 trace: bbbbb
+2 spiny: gbgbb
+3 skill: gbgbb
+4 swish: ggggg
+
+Needle: swoon
+1 trace: bbbbb
+2 slimy: gbbbb
+3 snoop: gyggb
+4 swoon: ggggg
+
+Needle: swoop
+1 trace: bbbbb
+2 spiny: gybbb
+3 slump: gbbbg
+4 swoop: ggggg
+
+Needle: sword
+1 trace: bybbb
+2 surly: gbybb
+3 shorn: gbggb
+4 sword: ggggg
+
+Needle: swore
+1 trace: bybbg
+2 surge: gbybg
+3 spire: gbbgg
+4 shore: gbggg
+5 snore: gbggg
+6 swore: ggggg
+
+Needle: sworn
+1 trace: bybbb
+2 surly: gbybb
+3 shorn: gbggg
+4 sworn: ggggg
+
+Needle: swung
+1 trace: bbbbb
+2 spiny: gbbgb
+3 slung: gbggg
+4 swung: ggggg
+
+Needle: synod
+1 trace: bbbbb
+2 slimy: gbbby
+3 synod: ggggg
+
+Needle: syrup
+1 trace: bybbb
+2 surly: gygby
+3 syrup: ggggg
+
+Needle: tabby
+1 trace: gbybb
+2 talon: ggbbb
+3 tatty: ggyyg
+4 tabby: ggggg
+
+Needle: table
+1 trace: gbybg
+2 table: ggggg
+
+Needle: taboo
+1 trace: gbybb
+2 talon: ggbgb
+3 taboo: ggggg
+
+Needle: tacit
+1 trace: gbyyb
+2 tacit: ggggg
+
+Needle: tacky
+1 trace: gbyyb
+2 tacit: gggby
+3 tacky: ggggg
+
+Needle: taffy
+1 trace: gbybb
+2 talon: ggbbb
+3 tasty: ggbyg
+4 tabby: ggbbg
+5 taffy: ggggg
+
+Needle: taint
+1 trace: gbybb
+2 tonal: gbyyb
+3 taint: ggggg
+
+Needle: taken
+1 trace: gbyby
+2 theta: gbyyy
+3 taken: ggggg
+
+Needle: taker
+1 trace: gyyby
+2 tamer: ggbgg
+3 taker: ggggg
+
+Needle: tally
+1 trace: gbybb
+2 tonal: gbbyy
+3 tally: ggggg
+
+Needle: talon
+1 trace: gbybb
+2 tonal: gyyyy
+3 talon: ggggg
+
+Needle: tamer
+1 trace: gyyby
+2 taker: ggbgg
+3 tamer: ggggg
+
+Needle: tango
+1 trace: gbybb
+2 talon: ggbyy
+3 tango: ggggg
+
+Needle: tangy
+1 trace: gbybb
+2 tonal: gbgyb
+3 tangy: ggggg
+
+Needle: taper
+1 trace: gyyby
+2 taker: ggbgg
+3 tamer: ggbgg
+4 taper: ggggg
+
+Needle: tapir
+1 trace: gyybb
+2 tardy: ggybb
+3 tapir: ggggg
+
+Needle: tardy
+1 trace: gyybb
+2 tardy: ggggg
+
+Needle: tarot
+1 trace: gyybb
+2 tarot: ggggg
+
+Needle: taste
+1 trace: gbybg
+2 table: ggbbg
+3 taste: ggggg
+
+Needle: tasty
+1 trace: gbybb
+2 tonal: gbbyb
+3 tatty: ggygg
+4 tasty: ggggg
+
+Needle: tatty
+1 trace: gbybb
+2 tonal: gbbyb
+3 tasty: ggbgg
+4 tatty: ggggg
+
+Needle: taunt
+1 trace: gbybb
+2 tonal: gbyyb
+3 taint: ggbgg
+4 taunt: ggggg
+
+Needle: tawny
+1 trace: gbybb
+2 tonal: gbyyb
+3 taunt: ggbgy
+4 tawny: ggggg
+
+Needle: teach
+1 trace: gbggy
+2 teach: ggggg
+
+Needle: teary
+1 trace: gygby
+2 teary: ggggg
+
+Needle: tease
+1 trace: gbgbg
+2 tease: ggggg
+
+Needle: teddy
+1 trace: gbbby
+2 theft: gbyby
+3 tepid: ggbby
+4 teddy: ggggg
+
+Needle: teeth
+1 trace: gbbby
+2 tweet: gbgyy
+3 teeth: ggggg
+
+Needle: tempo
+1 trace: gbbby
+2 tenth: ggbyb
+3 tempo: ggggg
+
+Needle: tenet
+1 trace: gbbby
+2 tweed: gbygb
+3 token: gbbgy
+4 tenet: ggggg
+
+Needle: tenor
+1 trace: gybby
+2 tiger: gbbyg
+3 tenor: ggggg
+
+Needle: tense
+1 trace: gbbbg
+2 these: gbygg
+3 tense: ggggg
+
+Needle: tenth
+1 trace: gbbby
+2 tenth: ggggg
+
+Needle: tepee
+1 trace: gbbbg
+2 these: gbybg
+3 tilde: gbbbg
+4 tepee: ggggg
+
+Needle: tepid
+1 trace: gbbby
+2 teeth: ggyyb
+3 tepid: ggggg
+
+Needle: terra
+1 trace: gyyby
+2 tamer: gybyy
+3 terra: ggggg
+
+Needle: terse
+1 trace: gybbg
+2 there: gbyyg
+3 terse: ggggg
+
+Needle: testy
+1 trace: gbbby
+2 teeth: ggygb
+3 testy: ggggg
+
+Needle: thank
+1 trace: gbgbb
+2 twang: gbggb
+3 thank: ggggg
+
+Needle: theft
+1 trace: gbbby
+2 theft: ggggg
+
+Needle: their
+1 trace: gybby
+2 timer: gybyg
+3 their: ggggg
+
+Needle: theme
+1 trace: gbbbg
+2 these: gggbg
+3 theme: ggggg
+
+Needle: there
+1 trace: gybbg
+2 terse: gyybg
+3 there: ggggg
+
+Needle: these
+1 trace: gbbbg
+2 these: ggggg
+
+Needle: theta
+1 trace: gbyby
+2 taken: gybyb
+3 theta: ggggg
+
+Needle: thick
+1 trace: gbbgb
+2 thick: ggggg
+
+Needle: thief
+1 trace: gbbby
+2 teeth: gyyyy
+3 thief: ggggg
+
+Needle: thigh
+1 trace: gbbbb
+2 tying: gbgby
+3 thigh: ggggg
+
+Needle: thing
+1 trace: gbbbb
+2 tying: gbggg
+3 thing: ggggg
+
+Needle: think
+1 trace: gbbbb
+2 thing: ggggb
+3 think: ggggg
+
+Needle: third
+1 trace: gybbb
+2 throb: ggybb
+3 third: ggggg
+
+Needle: thong
+1 trace: gbbbb
+2 tying: gbbgg
+3 thong: ggggg
+
+Needle: thorn
+1 trace: gybbb
+2 thrum: ggybb
+3 third: ggbgb
+4 thorn: ggggg
+
+Needle: those
+1 trace: gbbbg
+2 these: ggygg
+3 those: ggggg
+
+Needle: three
+1 trace: gybbg
+2 there: ggyyg
+3 three: ggggg
+
+Needle: threw
+1 trace: gybby
+2 timer: gbbgy
+3 threw: ggggg
+
+Needle: throb
+1 trace: gybbb
+2 thrum: gggbb
+3 throb: ggggg
+
+Needle: throw
+1 trace: gybbb
+2 thrum: gggbb
+3 throb: ggggb
+4 throw: ggggg
+
+Needle: thrum
+1 trace: gybbb
+2 turbo: gygbb
+3 thrum: ggggg
+
+Needle: thumb
+1 trace: gbbbb
+2 thing: ggbbb
+3 thumb: ggggg
+
+Needle: thump
+1 trace: gbbbb
+2 tying: gbbbb
+3 thump: ggggg
+
+Needle: thyme
+1 trace: gbbbg
+2 these: ggybg
+3 thyme: ggggg
+
+Needle: tiara
+1 trace: gygbb
+2 tiara: ggggg
+
+Needle: tibia
+1 trace: gbybb
+2 talon: gybbb
+3 tibia: ggggg
+
+Needle: tidal
+1 trace: gbybb
+2 talon: gyybb
+3 tidal: ggggg
+
+Needle: tiger
+1 trace: gybby
+2 tiger: ggggg
+
+Needle: tight
+1 trace: gbbbb
+2 tying: gbyby
+3 tight: ggggg
+
+Needle: tilde
+1 trace: gbbbg
+2 these: gbybg
+3 title: ggyyg
+4 tilde: ggggg
+
+Needle: timer
+1 trace: gybby
+2 timer: ggggg
+
+Needle: timid
+1 trace: gbbbb
+2 tying: gbybb
+3 timid: ggggg
+
+Needle: tipsy
+1 trace: gbbbb
+2 tying: gyybb
+3 tipsy: ggggg
+
+Needle: titan
+1 trace: gbybb
+2 talon: gybbg
+3 titan: ggggg
+
+Needle: tithe
+1 trace: gbbbg
+2 these: gyybg
+3 tithe: ggggg
+
+Needle: title
+1 trace: gbbbg
+2 these: gbybg
+3 tilde: ggybg
+4 title: ggggg
+
+Needle: toast
+1 trace: gbgbb
+2 twang: gbgbb
+3 toast: ggggg
+
+Needle: today
+1 trace: gbybb
+2 tonal: ggbgb
+3 today: ggggg
+
+Needle: toddy
+1 trace: gbbbb
+2 tying: gybbb
+3 toddy: ggggg
+
+Needle: token
+1 trace: gbbby
+2 tenth: gyyyb
+3 token: ggggg
+
+Needle: tonal
+1 trace: gbybb
+2 tonal: ggggg
+
+Needle: tonga
+1 trace: gbybb
+2 talon: gybyy
+3 tonga: ggggg
+
+Needle: tonic
+1 trace: gbbyb
+2 toxic: ggbgg
+3 tonic: ggggg
+
+Needle: tooth
+1 trace: gbbbb
+2 thing: gybbb
+3 tooth: ggggg
+
+Needle: topaz
+1 trace: gbybb
+2 tonal: ggbgb
+3 today: ggbgb
+4 topaz: ggggg
+
+Needle: topic
+1 trace: gbbyb
+2 tonic: ggbgg
+3 topic: ggggg
+
+Needle: torch
+1 trace: gybgb
+2 torch: ggggg
+
+Needle: torso
+1 trace: gybbb
+2 thrum: gbgbb
+3 torso: ggggg
+
+Needle: torus
+1 trace: gybbb
+2 turbo: gygby
+3 torus: ggggg
+
+Needle: total
+1 trace: gbybb
+2 tonal: ggbgg
+3 total: ggggg
+
+Needle: totem
+1 trace: gbbby
+2 theft: gbyby
+3 tempo: gyyby
+4 totem: ggggg
+
+Needle: touch
+1 trace: gbbgb
+2 thick: gybgb
+3 touch: ggggg
+
+Needle: tough
+1 trace: gbbbb
+2 tying: gbbby
+3 tough: ggggg
+
+Needle: towel
+1 trace: gbbby
+2 theft: gbyby
+3 tempo: gybby
+4 token: ggbgb
+5 towel: ggggg
+
+Needle: tower
+1 trace: gybby
+2 timer: gbbgg
+3 tower: ggggg
+
+Needle: toxic
+1 trace: gbbyb
+2 topic: ggbgg
+3 tonic: ggbgg
+4 toxic: ggggg
+
+Needle: toxin
+1 trace: gbbbb
+2 thing: gbyyb
+3 toxin: ggggg
+
+Needle: trace
+1 trace: ggggg
+
+Needle: track
+1 trace: ggggb
+2 track: ggggg
+
+Needle: tract
+1 trace: ggggb
+2 track: ggggb
+3 tract: ggggg
+
+Needle: trade
+1 trace: gggbg
+2 trade: ggggg
+
+Needle: trail
+1 trace: gggbb
+2 trail: ggggg
+
+Needle: train
+1 trace: gggbb
+2 trail: ggggb
+3 train: ggggg
+
+Needle: trait
+1 trace: gggbb
+2 trail: ggggb
+3 train: ggggb
+4 trait: ggggg
+
+Needle: tramp
+1 trace: gggbb
+2 trail: gggbb
+3 tramp: ggggg
+
+Needle: trash
+1 trace: gggbb
+2 trail: gggbb
+3 tramp: gggbb
+4 trash: ggggg
+
+Needle: trawl
+1 trace: gggbb
+2 trail: gggbg
+3 trawl: ggggg
+
+Needle: tread
+1 trace: ggyby
+2 tread: ggggg
+
+Needle: treat
+1 trace: ggyby
+2 tread: ggggb
+3 treat: ggggg
+
+Needle: trend
+1 trace: ggbby
+2 tried: ggbyg
+3 trend: ggggg
+
+Needle: triad
+1 trace: ggybb
+2 triad: ggggg
+
+Needle: trial
+1 trace: ggybb
+2 triad: ggggb
+3 trial: ggggg
+
+Needle: tribe
+1 trace: ggbbg
+2 trope: ggbbg
+3 tribe: ggggg
+
+Needle: trice
+1 trace: ggbgg
+2 trice: ggggg
+
+Needle: trick
+1 trace: ggbgb
+2 trick: ggggg
+
+Needle: tried
+1 trace: ggbby
+2 trend: ggybg
+3 tried: ggggg
+
+Needle: tripe
+1 trace: ggbbg
+2 trope: ggbgg
+3 tripe: ggggg
+
+Needle: trite
+1 trace: ggbbg
+2 trope: ggbbg
+3 tribe: gggbg
+4 trite: ggggg
+
+Needle: troll
+1 trace: ggbbb
+2 truss: ggbbb
+3 troll: ggggg
+
+Needle: troop
+1 trace: ggbbb
+2 trust: ggbby
+3 troll: gggbb
+4 troop: ggggg
+
+Needle: trope
+1 trace: ggbbg
+2 trope: ggggg
+
+Needle: trout
+1 trace: ggbbb
+2 tryst: ggbbg
+3 trout: ggggg
+
+Needle: trove
+1 trace: ggbbg
+2 tripe: ggbbg
+3 trove: ggggg
+
+Needle: truce
+1 trace: ggbgg
+2 trice: ggbgg
+3 truce: ggggg
+
+Needle: truck
+1 trace: ggbgb
+2 trick: ggbgg
+3 truck: ggggg
+
+Needle: truer
+1 trace: ggbby
+2 trend: ggybb
+3 truer: ggggg
+
+Needle: truly
+1 trace: ggbbb
+2 truss: gggbb
+3 truly: ggggg
+
+Needle: trump
+1 trace: ggbbb
+2 truss: gggbb
+3 truly: gggbb
+4 trunk: gggbb
+5 trump: ggggg
+
+Needle: trunk
+1 trace: ggbbb
+2 tryst: ggbby
+3 troop: ggbbb
+4 trunk: ggggg
+
+Needle: truss
+1 trace: ggbbb
+2 tryst: ggbgy
+3 truss: ggggg
+
+Needle: trust
+1 trace: ggbbb
+2 truly: gggbb
+3 trust: ggggg
+
+Needle: truth
+1 trace: ggbbb
+2 truss: gggbb
+3 trump: gggbb
+4 truly: gggbb
+5 trunk: gggbb
+6 truth: ggggg
+
+Needle: tryst
+1 trace: ggbbb
+2 tryst: ggggg
+
+Needle: tubal
+1 trace: gbybb
+2 talon: gyybb
+3 tidal: gbbgg
+4 tubal: ggggg
+
+Needle: tuber
+1 trace: gybby
+2 tiger: gbbgg
+3 tower: gbbgg
+4 tuber: ggggg
+
+Needle: tulip
+1 trace: gbbbb
+2 tying: gbybb
+3 timid: gybgb
+4 tulip: ggggg
+
+Needle: tulle
+1 trace: gbbbg
+2 these: gbybg
+3 title: gbygg
+4 tulle: ggggg
+
+Needle: tumor
+1 trace: gybbb
+2 thrum: gbyyy
+3 tumor: ggggg
+
+Needle: tunic
+1 trace: gbbyb
+2 toxic: gbbgg
+3 tunic: ggggg
+
+Needle: turbo
+1 trace: gybbb
+2 throb: gbgyy
+3 turbo: ggggg
+
+Needle: tutor
+1 trace: gybbb
+2 throb: gbygb
+3 tumor: ggbgg
+4 tutor: ggggg
+
+Needle: twang
+1 trace: gbgbb
+2 thank: gbggb
+3 twang: ggggg
+
+Needle: tweak
+1 trace: gbyby
+2 theta: gbgyy
+3 tweak: ggggg
+
+Needle: tweed
+1 trace: gbbby
+2 theft: gbgby
+3 tweed: ggggg
+
+Needle: tweet
+1 trace: gbbby
+2 tweet: ggggg
+
+Needle: twice
+1 trace: gbbgg
+2 twice: ggggg
+
+Needle: twine
+1 trace: gbbbg
+2 these: gbybg
+3 tilde: gybbg
+4 twine: ggggg
+
+Needle: twirl
+1 trace: gybbb
+2 thrum: gbybb
+3 twirl: ggggg
+
+Needle: twist
+1 trace: gbbbb
+2 thing: gbgbb
+3 twist: ggggg
+
+Needle: twixt
+1 trace: gbbbb
+2 thing: gbgbb
+3 twist: gggbg
+4 twixt: ggggg
+
+Needle: tying
+1 trace: gbbbb
+2 thing: gbggg
+3 tying: ggggg
+
+Needle: udder
+1 trace: bybby
+2 risen: ybbgb
+3 lover: bbbgg
+4 purer: byygg
+5 udder: ggggg
+
+Needle: ulcer
+1 trace: bybyy
+2 cider: ybbgg
+3 ulcer: ggggg
+
+Needle: ultra
+1 trace: yyybb
+2 party: byyyb
+3 altar: yggyy
+4 ultra: ggggg
+
+Needle: umbra
+1 trace: byybb
+2 manor: yybby
+3 rumba: yyyyg
+4 umbra: ggggg
+
+Needle: uncle
+1 trace: bbbyg
+2 clone: yybyg
+3 uncle: ggggg
+
+Needle: uncut
+1 trace: ybbyb
+2 clout: ybbgg
+3 uncut: ggggg
+
+Needle: under
+1 trace: bybby
+2 diner: ybygg
+3 under: ggggg
+
+Needle: undid
+1 trace: bbbbb
+2 spiny: bbyyb
+3 bingo: byybb
+4 undid: ggggg
+
+Needle: undue
+1 trace: bbbbg
+2 snipe: bgbbg
+3 gnome: bgbbg
+4 undue: ggggg
+
+Needle: unfed
+1 trace: bbbby
+2 widen: bbygy
+3 kneed: bgygg
+4 unfed: ggggg
+
+Needle: unfit
+1 trace: ybbbb
+2 hoist: bbybg
+3 unlit: ggbgg
+4 unfit: ggggg
+
+Needle: unify
+1 trace: bbbbb
+2 spiny: bbgyg
+3 unify: ggggg
+
+Needle: union
+1 trace: bbbbb
+2 spiny: bbgyb
+3 onion: ygggg
+4 union: ggggg
+
+Needle: unite
+1 trace: ybbbg
+2 utile: gygbg
+3 unite: ggggg
+
+Needle: unity
+1 trace: ybbbb
+2 point: bbgyy
+3 unity: ggggg
+
+Needle: unlit
+1 trace: ybbbb
+2 hoist: bbybg
+3 limit: yybgg
+4 unlit: ggggg
+
+Needle: unmet
+1 trace: ybbby
+2 spelt: bbybg
+3 debit: bybbg
+4 unmet: ggggg
+
+Needle: unset
+1 trace: ybbby
+2 spelt: ybybg
+3 heist: bybyg
+4 onset: bgggg
+5 unset: ggggg
+
+Needle: untie
+1 trace: ybbbg
+2 suite: byyyg
+3 untie: ggggg
+
+Needle: until
+1 trace: ybbbb
+2 point: bbyyy
+3 minty: byyyb
+4 until: ggggg
+
+Needle: unwed
+1 trace: bbbby
+2 widen: ybygy
+3 unwed: ggggg
+
+Needle: unzip
+1 trace: bbbbb
+2 slimy: bbybb
+3 dingo: byybb
+4 unzip: ggggg
+
+Needle: upper
+1 trace: bybby
+2 siren: bbygb
+3 revel: yybgb
+4 buyer: bybgg
+5 udder: gbbgg
+6 upper: ggggg
+
+Needle: upset
+1 trace: ybbby
+2 spelt: ygybg
+3 upset: ggggg
+
+Needle: urban
+1 trace: bgybb
+2 arbor: yggby
+3 urban: ggggg
+
+Needle: urine
+1 trace: bgbbg
+2 pride: bggbg
+3 brine: bgggg
+4 urine: ggggg
+
+Needle: usage
+1 trace: bbgbg
+2 slave: ybgbg
+3 abase: ybgyg
+4 usage: ggggg
+
+Needle: usher
+1 trace: bybby
+2 risen: ybygb
+3 sewer: yybgg
+4 usher: ggggg
+
+Needle: using
+1 trace: bbbbb
+2 spiny: ybggb
+3 using: ggggg
+
+Needle: usual
+1 trace: bbybb
+2 salon: yyybb
+3 usual: ggggg
+
+Needle: usurp
+1 trace: bybbb
+2 surly: yyybb
+3 usurp: ggggg
+
+Needle: utile
+1 trace: ybbbg
+2 quite: bygyg
+3 utile: ggggg
+
+Needle: utter
+1 trace: yybby
+2 metro: bygyb
+3 enter: ybggg
+4 utter: ggggg
+
+Needle: vague
+1 trace: bbybg
+2 angle: ybgbg
+3 vague: ggggg
+
+Needle: valet
+1 trace: ybyby
+2 pleat: byyyg
+3 valet: ggggg
+
+Needle: valid
+1 trace: bbybb
+2 salon: bggbb
+3 dally: yggyb
+4 valid: ggggg
+
+Needle: valor
+1 trace: byybb
+2 manor: bgbgg
+3 valor: ggggg
+
+Needle: value
+1 trace: bbybg
+2 alive: yybyg
+3 value: ggggg
+
+Needle: valve
+1 trace: bbybg
+2 angle: ybbyg
+3 salve: bgggg
+4 halve: bgggg
+5 valve: ggggg
+
+Needle: vapid
+1 trace: bbybb
+2 salon: bgbbb
+3 paddy: ygyyb
+4 vapid: ggggg
+
+Needle: vapor
+1 trace: byybb
+2 manor: bgbgg
+3 valor: ggbgg
+4 vapor: ggggg
+
+Needle: vault
+1 trace: ybybb
+2 satin: bgybb
+3 vault: ggggg
+
+Needle: vaunt
+1 trace: ybybb
+2 satin: bgyby
+3 jaunt: bgggg
+4 daunt: bgggg
+5 gaunt: bgggg
+6 haunt: bgggg
+7 vaunt: ggggg
+
+Needle: vegan
+1 trace: bbyby
+2 penal: bgygb
+3 vegan: ggggg
+
+Needle: venom
+1 trace: bbbby
+2 widen: bbbyy
+3 enjoy: yybgb
+4 venom: ggggg
+
+Needle: venue
+1 trace: bbbbg
+2 snipe: bybbg
+3 lunge: bygbg
+4 venue: ggggg
+
+Needle: verge
+1 trace: bybbg
+2 surge: bbggg
+3 merge: bgggg
+4 verge: ggggg
+
+Needle: verse
+1 trace: bybbg
+2 surge: ybgbg
+3 worse: bbggg
+4 verse: ggggg
+
+Needle: verso
+1 trace: bybby
+2 siren: ybgyb
+3 verso: ggggg
+
+Needle: verve
+1 trace: bybbg
+2 surge: bbgbg
+3 nerve: bgggg
+4 verve: ggggg
+
+Needle: vicar
+1 trace: byyyb
+2 carol: yyybb
+3 vicar: ggggg
+
+Needle: video
+1 trace: bbbby
+2 widen: bgggb
+3 video: ggggg
+
+Needle: vigil
+1 trace: bbbbb
+2 slimy: byybb
+3 lipid: ygbgb
+4 vigil: ggggg
+
+Needle: vigor
+1 trace: bybbb
+2 surly: bbybb
+3 rigid: yggyb
+4 vigor: ggggg
+
+Needle: villa
+1 trace: bbybb
+2 salon: bygbb
+3 bylaw: bbgyb
+4 villa: ggggg
+
+Needle: vinyl
+1 trace: bbbbb
+2 spiny: bbyyy
+3 vinyl: ggggg
+
+Needle: viola
+1 trace: bbybb
+2 salon: byyyb
+3 modal: bybyy
+4 viola: ggggg
+
+Needle: viper
+1 trace: bybby
+2 siren: bgygb
+3 rider: ygbgg
+4 liver: bgygg
+5 viper: ggggg
+
+Needle: viral
+1 trace: byybb
+2 manor: bybby
+3 rival: ygygg
+4 viral: ggggg
+
+Needle: virus
+1 trace: bybbb
+2 surly: yygbb
+3 virus: ggggg
+
+Needle: visit
+1 trace: ybbbb
+2 point: bbybg
+3 might: bgbbg
+4 visit: ggggg
+
+Needle: visor
+1 trace: bybbb
+2 surly: ybybb
+3 visor: ggggg
+
+Needle: vista
+1 trace: ybybb
+2 satin: yyyyb
+3 vista: ggggg
+
+Needle: vital
+1 trace: ybybb
+2 satin: bygyb
+3 vital: ggggg
+
+Needle: vivid
+1 trace: bbbbb
+2 slimy: bbybb
+3 dingo: ygbbb
+4 vivid: ggggg
+
+Needle: vixen
+1 trace: bbbby
+2 widen: bgbgg
+3 given: bgygg
+4 vixen: ggggg
+
+Needle: vocal
+1 trace: bbyyb
+2 canal: yybgg
+3 focal: bgggg
+4 local: ygggg
+5 vocal: ggggg
+
+Needle: vodka
+1 trace: bbybb
+2 salon: bybyb
+3 audio: ybgby
+4 vodka: ggggg
+
+Needle: vogue
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bybyg
+4 vogue: ggggg
+
+Needle: voice
+1 trace: bbbgg
+2 since: bybgg
+3 juice: bbggg
+4 voice: ggggg
+
+Needle: voila
+1 trace: bbybb
+2 salon: byyyb
+3 modal: bgbyy
+4 voila: ggggg
+
+Needle: vomit
+1 trace: ybbbb
+2 hoist: bgybg
+3 vomit: ggggg
+
+Needle: voter
+1 trace: yybby
+2 metro: bygyy
+3 outer: ybggg
+4 voter: ggggg
+
+Needle: vouch
+1 trace: bbbgb
+2 couch: ygggg
+3 pouch: bgggg
+4 vouch: ggggg
+
+Needle: vowel
+1 trace: bbbby
+2 widen: ybbgb
+3 bowel: bgggg
+4 vowel: ggggg
+
+Needle: vying
+1 trace: bbbbb
+2 spiny: bbggy
+3 lying: bgggg
+4 dying: bgggg
+5 vying: ggggg
+
+Needle: wacky
+1 trace: bbyyb
+2 canal: ygbyb
+3 macho: bggbb
+4 wacky: ggggg
+
+Needle: wafer
+1 trace: byyby
+2 relay: yybyb
+3 gamer: bgbgg
+4 safer: bgggg
+5 wafer: ggggg
+
+Needle: wager
+1 trace: byyby
+2 gamer: ygbgg
+3 lager: bgggg
+4 eager: ygggg
+5 wager: ggggg
+
+Needle: wagon
+1 trace: bbybb
+2 salon: bgbgg
+3 wagon: ggggg
+
+Needle: waist
+1 trace: ybybb
+2 satin: ygyyb
+3 waist: ggggg
+
+Needle: waive
+1 trace: bbybg
+2 alive: ybggg
+3 naive: bgggg
+4 waive: ggggg
+
+Needle: waltz
+1 trace: ybybb
+2 satin: bgybb
+3 fault: bgbyy
+4 waltz: ggggg
+
+Needle: warty
+1 trace: yyybb
+2 party: bgggg
+3 warty: ggggg
+
+Needle: waste
+1 trace: ybybg
+2 bathe: bgybg
+3 waste: ggggg
+
+Needle: watch
+1 trace: ybygb
+2 match: bgggg
+3 hatch: ygggg
+4 batch: bgggg
+5 latch: bgggg
+6 patch: bgggg
+7 catch: ygggg
+8 watch: ggggg
+
+Needle: water
+1 trace: yyyby
+2 alter: ybggg
+3 hater: bgggg
+4 eater: ygggg
+5 water: ggggg
+
+Needle: waver
+1 trace: byyby
+2 gamer: bgbgg
+3 paler: bgbgg
+4 safer: bgbgg
+5 rarer: ygygg
+6 baker: bgbgg
+7 waver: ggggg
+
+Needle: waxen
+1 trace: bbyby
+2 pedal: bybyb
+3 ashen: ybbgg
+4 oaken: bgbgg
+5 waxen: ggggg
+
+Needle: weary
+1 trace: bygby
+2 ready: yggbg
+3 weary: ggggg
+
+Needle: weave
+1 trace: bbgbg
+2 slave: bbggg
+3 heave: bgggg
+4 weave: ggggg
+
+Needle: wedge
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbbgg
+4 wedge: ggggg
+
+Needle: weedy
+1 trace: bbbby
+2 widen: gbyyb
+3 weedy: ggggg
+
+Needle: weigh
+1 trace: bbbby
+2 widen: gybyb
+3 weigh: ggggg
+
+Needle: weird
+1 trace: bybby
+2 risen: yybyb
+3 peril: bgyyb
+4 weird: ggggg
+
+Needle: welch
+1 trace: bbbgy
+2 belch: bgggg
+3 welch: ggggg
+
+Needle: welsh
+1 trace: bbbby
+2 widen: gbbyb
+3 welsh: ggggg
+
+Needle: wench
+1 trace: bbbgy
+2 welch: ggbgg
+3 wench: ggggg
+
+Needle: whack
+1 trace: bbggb
+2 shack: bgggg
+3 whack: ggggg
+
+Needle: whale
+1 trace: bbgbg
+2 slave: bygbg
+3 whale: ggggg
+
+Needle: wharf
+1 trace: bygbb
+2 award: yyggb
+3 wharf: ggggg
+
+Needle: wheat
+1 trace: ybyby
+2 pleat: bbggg
+3 sweat: byggg
+4 wheat: ggggg
+
+Needle: wheel
+1 trace: bbbby
+2 widen: gbbgb
+3 wheel: ggggg
+
+Needle: whelp
+1 trace: bbbby
+2 widen: gbbyb
+3 welsh: gyyby
+4 whelp: ggggg
+
+Needle: where
+1 trace: bybbg
+2 surge: bbybg
+3 rhyme: ygbbg
+4 where: ggggg
+
+Needle: which
+1 trace: bbbgb
+2 couch: ybbgg
+3 pinch: bybgg
+4 which: ggggg
+
+Needle: whiff
+1 trace: bbbbb
+2 spiny: bbgbb
+3 build: bbgbb
+4 whiff: ggggg
+
+Needle: while
+1 trace: bbbbg
+2 snipe: bbgbg
+3 glide: bygbg
+4 exile: ybggg
+5 while: ggggg
+
+Needle: whine
+1 trace: bbbbg
+2 snipe: bygbg
+3 ovine: bbggg
+4 whine: ggggg
+
+Needle: whiny
+1 trace: bbbbb
+2 slimy: bbgbg
+3 unify: bygbg
+4 whiny: ggggg
+
+Needle: whirl
+1 trace: bybbb
+2 surly: bbyyb
+3 floor: bybby
+4 whirl: ggggg
+
+Needle: whisk
+1 trace: bbbbb
+2 slimy: ybgbb
+3 using: bygbb
+4 whisk: ggggg
+
+Needle: white
+1 trace: ybbbg
+2 quite: bbggg
+3 smite: bbggg
+4 elite: ybggg
+5 white: ggggg
+
+Needle: whole
+1 trace: bbbbg
+2 snipe: bbbbg
+3 bulge: bbybg
+4 whole: ggggg
+
+Needle: whoop
+1 trace: bbbbb
+2 spiny: bybbb
+3 whoop: ggggg
+
+Needle: whose
+1 trace: bbbbg
+2 snipe: ybbbg
+3 loose: byggg
+4 whose: ggggg
+
+Needle: widen
+1 trace: bbbby
+2 widen: ggggg
+
+Needle: wider
+1 trace: bybby
+2 siren: bgygb
+3 liver: bgbgg
+4 riper: ygbgg
+5 fixer: bgbgg
+6 wider: ggggg
+
+Needle: widow
+1 trace: bbbbb
+2 spiny: bbybb
+3 livid: bgbyy
+4 widow: ggggg
+
+Needle: width
+1 trace: ybbbb
+2 hoist: ybyby
+3 filth: bgbgg
+4 ninth: bgbgg
+5 width: ggggg
+
+Needle: wield
+1 trace: bbbby
+2 widen: ggyyb
+3 wield: ggggg
+
+Needle: wight
+1 trace: ybbbb
+2 point: bbybg
+3 might: bgggg
+4 light: bgggg
+5 fight: bgggg
+6 sight: bgggg
+7 wight: ggggg
+
+Needle: willy
+1 trace: bbbbb
+2 spiny: bbybg
+3 filly: bgggg
+4 hilly: bgggg
+5 dilly: bgggg
+6 billy: bgggg
+7 willy: ggggg
+
+Needle: wimpy
+1 trace: bbbbb
+2 spiny: byybg
+3 wimpy: ggggg
+
+Needle: wince
+1 trace: bbbgg
+2 ounce: bbggg
+3 since: bgggg
+4 mince: bgggg
+5 wince: ggggg
+
+Needle: winch
+1 trace: bbbgb
+2 couch: ybbgg
+3 pinch: bgggg
+4 finch: bgggg
+5 winch: ggggg
+
+Needle: windy
+1 trace: bbbbb
+2 slimy: bbybg
+3 dingy: yggbg
+4 windy: ggggg
+
+Needle: wiser
+1 trace: bybby
+2 diner: bgbgg
+3 river: ygbgg
+4 filer: bgbgg
+5 miser: bgggg
+6 wiser: ggggg
+
+Needle: wispy
+1 trace: bbbbb
+2 slimy: ybybg
+3 gipsy: bgyyg
+4 wispy: ggggg
+
+Needle: witch
+1 trace: ybbgb
+2 ditch: bgggg
+3 pitch: bgggg
+4 hitch: ygggg
+5 witch: ggggg
+
+Needle: witty
+1 trace: ybbbb
+2 point: bbyby
+3 witty: ggggg
+
+Needle: woken
+1 trace: bbbby
+2 widen: gbbgg
+3 woken: ggggg
+
+Needle: woman
+1 trace: bbybb
+2 salon: bybyg
+3 woman: ggggg
+
+Needle: women
+1 trace: bbbby
+2 widen: gbbgg
+3 women: ggggg
+
+Needle: woody
+1 trace: bbbbb
+2 slimy: bbbbg
+3 goody: bgggg
+4 woody: ggggg
+
+Needle: wooer
+1 trace: bybby
+2 diner: bbbgg
+3 super: bbbgg
+4 lower: bgygg
+5 wooer: ggggg
+
+Needle: wooly
+1 trace: bbbbb
+2 slimy: bybbg
+3 godly: bgbgg
+4 wooly: ggggg
+
+Needle: woozy
+1 trace: bbbbb
+2 spiny: bbbbg
+3 godly: bgbbg
+4 booby: bggbg
+5 woozy: ggggg
+
+Needle: wordy
+1 trace: bybbb
+2 surly: bbgbg
+3 wordy: ggggg
+
+Needle: world
+1 trace: bybbb
+2 surly: bbggb
+3 world: ggggg
+
+Needle: worry
+1 trace: bybbb
+2 surly: bbgbg
+3 worry: ggggg
+
+Needle: worse
+1 trace: bybbg
+2 surge: ybgbg
+3 worse: ggggg
+
+Needle: worst
+1 trace: yybbb
+2 short: ybyyg
+3 worst: ggggg
+
+Needle: worth
+1 trace: yybbb
+2 short: byyyy
+3 forth: bgggg
+4 north: bgggg
+5 worth: ggggg
+
+Needle: would
+1 trace: bbbbb
+2 spiny: bbbbb
+3 gumbo: bybby
+4 would: ggggg
+
+Needle: wound
+1 trace: bbbbb
+2 slimy: bbbbb
+3 bough: bggbb
+4 pound: bgggg
+5 found: bgggg
+6 wound: ggggg
+
+Needle: woven
+1 trace: bbbby
+2 widen: gbbgg
+3 woken: ggbgg
+4 women: ggbgg
+5 woven: ggggg
+
+Needle: wrack
+1 trace: bgggb
+2 crack: ygggg
+3 wrack: ggggg
+
+Needle: wrath
+1 trace: yggbb
+2 graft: bggby
+3 wrath: ggggg
+
+Needle: wreak
+1 trace: bgyby
+2 bread: bgggb
+3 freak: bgggg
+4 wreak: ggggg
+
+Needle: wreck
+1 trace: bgbgy
+2 wreck: ggggg
+
+Needle: wrest
+1 trace: ygbby
+2 greet: bggyg
+3 wrest: ggggg
+
+Needle: wring
+1 trace: bgbbb
+2 drink: bgggb
+3 briny: bgggb
+4 wring: ggggg
+
+Needle: wrist
+1 trace: ygbbb
+2 frost: bgbgg
+3 wrist: ggggg
+
+Needle: write
+1 trace: ygbbg
+2 write: ggggg
+
+Needle: wrong
+1 trace: bgbbb
+2 drink: bgbgb
+3 wrong: ggggg
+
+Needle: wrote
+1 trace: ygbbg
+2 wrote: ggggg
+
+Needle: wrung
+1 trace: bgbbb
+2 drink: bgbgb
+3 prong: bgbgg
+4 wrung: ggggg
+
+Needle: wryly
+1 trace: bgbbb
+2 drink: bgbbb
+3 prowl: bgbyy
+4 wryly: ggggg
+
+Needle: yacht
+1 trace: ybyyb
+2 cacti: yggyb
+3 yacht: ggggg
+
+Needle: yearn
+1 trace: bygby
+2 ready: yggby
+3 yearn: ggggg
+
+Needle: yeast
+1 trace: ybgby
+2 least: bgggg
+3 feast: bgggg
+4 beast: bgggg
+5 yeast: ggggg
+
+Needle: yield
+1 trace: bbbby
+2 widen: bgyyb
+3 field: bgggg
+4 yield: ggggg
+
+Needle: young
+1 trace: bbbbb
+2 slimy: bbbby
+3 young: ggggg
+
+Needle: youth
+1 trace: ybbbb
+2 hoist: ygbby
+3 mouth: bgggg
+4 youth: ggggg
+
+Needle: zebra
+1 trace: byyby
+2 relay: ygbyb
+3 zebra: ggggg
+
+Needle: zesty
+1 trace: ybbby
+2 spelt: ybyby
+3 ethos: yybby
+4 zesty: ggggg
+
+Needle: zonal
+1 trace: bbybb
+2 salon: byyyy
+3 along: yyyyb
+4 zonal: ggggg
+
+{
+  "1": 1,
+  "2": 149,
+  "3": 1045,
+  "4": 897,
+  "5": 170,
+  "6": 44,
+  "7": 6,
+  "8": 3
+}
