@@ -1,94 +1,204 @@
-// import {
-//   includes,
-//   startCase,
-// } from "https://cdn.skypack.dev/-/lodash@v4.17.21-K6GEbP02mWFnLA45zAmi/dist=es2019,mode=types/index.js";
 import { solutions, valid, WordList } from "../lib/wordle/words.ts";
 
-type WordSet = string[];
+type Mark = "b" | "y" | "g";
+type WordMark = `${string}${string}${string}${string}${string}`;
+
+type Slot = { index: number; mark: Mark };
+type Pair = { index: number; left: string; right: string };
 type Predicate = (word: string) => boolean;
 
-type SlotState = "b" | "y" | "g";
+type Score = [string, number];
 
-type GameLine = {
-  word: string;
-  state: SlotState[];
+type WordleContext = {
+  solutions: readonly string[];
+  valid: readonly string[];
 };
 
-const filterOnLine = (words: WordList, line: GameLine): WordSet => {
-  const preds = line.state.map((state, i): Predicate => {
-    const letter = line.word[i];
-    switch (state) {
-      case "g":
-        return (word: string) => word[i] === letter;
-      case "y":
-        return (word: string) => word.includes(letter) && word[i] !== letter;
-      case "b":
-        return (word: string) => !word.includes(letter);
+const makePairs = (word: string, mark: string): Pair[] => {
+  if (word.length !== mark.length) {
+    throw new Error(`Mark / word length mismatch`);
+  }
+  const marks = Array.from(mark);
+  return Array.from(word).map((left, index) => ({
+    index,
+    left,
+    right: marks[index],
+  }));
+};
+
+const markWord = (word: string, needle: string): WordMark => {
+  const p0 = makePairs(needle, word);
+  const marks: Slot[] = [];
+
+  // Find and remove the greens
+  const p1 = p0.flatMap((pair) => {
+    if (pair.left === pair.right) {
+      marks.push({ index: pair.index, mark: "g" });
+      return [];
     }
+    return [pair];
   });
 
-  return words.filter((word) => preds.every((pred) => pred(word)));
-};
+  // Find and remove yellows
+  const p2 = p1.flatMap((pair) => {
+    const has = p1.find((px) => px.left === pair.right);
+    if (has) {
+      marks.push({ index: pair.index, mark: "y" });
+      return [];
+    }
+    return [pair];
+  });
 
-const markLine = (needle: string, word: string): GameLine => {
-  const state = Array.from(word).map((letter, i) =>
-    needle[i] === letter ? "g" : needle.includes(letter) ? "y" : "b"
+  // Everything else is black
+  p2.forEach(({ index }) => (marks.push({ index, mark: "b" })));
+
+  return marks.sort((a, b) => a.index - b.index).map(({ mark }) => mark).join(
+    "",
   );
-  return { word, state };
 };
 
-const getOptions = (words: WordSet) => {
+const getOptions = (haystack: WordList, words: WordList): Score[] => {
   const score: Record<string, number> = {};
   for (const word of words) {
     const splits = new Set<string>();
-    for (const needle of words) {
-      const line = markLine(needle, word);
-      const key = line.state.join("");
-      splits.add(key);
-    }
+    for (const needle of haystack) splits.add(markWord(word, needle));
     score[word] = splits.size;
   }
-  return score;
+  return Object.entries(score).sort((a, b) => b[1] - a[1]);
 };
 
-const getBest = (words: WordSet) => {
-  const options = getOptions(words);
-  const byCount = Object.entries(options).sort((a, b) => b[1] - a[1]);
-  const bestCount = byCount[0][1];
-  const cutoff = byCount.findIndex((c) => c[1] < bestCount);
-  return byCount.slice(0, cutoff).map((c) => c[0]);
-};
-
-const wordCache = new WeakMap<string[], string[]>();
-const getCached = (words: WordSet) => {
-  let set = wordCache.get(words);
-  if (!set) wordCache.set(words, set = getBest(words));
-  return set;
+const bestOptions = (scores: Score[]) => {
+  if (!scores.length) return [];
+  const topScore = scores[0][1];
+  const cutOff = scores.findIndex((score) => score[1] < topScore);
+  return scores.slice(0, cutOff);
 };
 
 const pick = <T>(list: T[]): T => list[Math.floor(Math.random() * list.length)];
 
-const solve = (needle: string, words: WordSet) => {
-  let ln = 0;
-  while (words.length > 1) {
-    const best = pick(getCached(words));
-    const line = markLine(needle, best);
-    const state = line.state.join("");
-    console.log(`${++ln} ${line.word}: ${state}`);
-    if (state === "ggggg") return ln;
-    words = filterOnLine(words, line);
-  }
-  console.log(`${++ln} ${words[0]}: ggggg`);
-  return ln;
+const filterFactory = () => {
+  const cache: Record<WordMark, Record<string, Predicate>> = {};
+  const makeFilter = (word: string, mark: WordMark) => {
+    const cache: Record<string, boolean> = {};
+
+    const make = (): Predicate => {
+      const p0 = makePairs(word, mark);
+
+      // Make a function that returns true if the passed word has the
+      // expected letter at any of the specified indexes
+      const needLetter =
+        (letter: string, indexes: number[]) => (word: string) =>
+          indexes.some((idx) => word[idx] === letter);
+
+      const avoidLetter =
+        (letter: string, indexes: number[]) => (word: string) =>
+          indexes.every((idx) => word[idx] !== letter);
+
+      const preds: (Predicate)[] = [];
+
+      const p1 = p0.flatMap((pair, i) => {
+        if (pair.right === "g") {
+          // console.log(`word[${i}] === "${pair.left}"`);
+          preds.push((word: string) => word[i] === pair.left);
+          return [];
+        }
+        return [pair];
+      });
+
+      const p2 = p1.flatMap((pair, i) => {
+        if (pair.right === "y") {
+          const indexes = p1.map((p) => p.index).filter((n) => n !== i);
+          // console.log(`word[${indexes.join(" | ")}] === "${pair.left}"`);
+          preds.push(needLetter(pair.left, indexes));
+          return [];
+        }
+        return [pair];
+      });
+
+      p2.forEach((pair) => {
+        const indexes = p2.map((p) => p.index);
+        // console.log(`word[${indexes.join(" & ")}] !== "${pair.left}"`);
+        preds.push(avoidLetter(pair.left, indexes));
+      });
+
+      return (word: string) => preds.every((pred) => pred(word));
+    };
+
+    const pred = make();
+    return (word: string) => cache[word] ??= pred(word);
+  };
+
+  return (word: string, mark: WordMark) =>
+    (cache[mark] ??= {})[word] ??= makeFilter(word, mark);
 };
 
-const dict = [...solutions];
-const stats: Record<number, number> = {};
-for (const word of solutions) {
-  console.log(`Needle: ${word}`);
-  const rows = solve(word, dict);
-  stats[rows] = (stats[rows] || 0) + 1;
-  console.log();
+const makeFilter = filterFactory();
+
+export class WordleWorld {
+  readonly ctx: WordleContext;
+
+  constructor(ctx: WordleContext) {
+    this.ctx = ctx;
+  }
 }
 
-console.log(stats);
+export class WordleGame {
+  readonly world: WordleWorld;
+  readonly needle: string;
+  remaining: string[];
+
+  constructor(world: WordleWorld, needle: string) {
+    this.world = world;
+    this.needle = needle;
+    // Init game
+    this.remaining = [...world.ctx.solutions];
+  }
+
+  markWord(word: string): WordMark {
+    return markWord(word, this.needle);
+  }
+
+  playWord(word: string): WordMark {
+    const mark = this.markWord(word);
+    this.remaining = this.remaining.filter(makeFilter(word, mark));
+    return mark;
+  }
+
+  nextWord(): string | undefined {
+    const { remaining } = this;
+    const nextOptions = bestOptions(getOptions(remaining, remaining));
+    const bigOptions = bestOptions(
+      getOptions(remaining, this.world.ctx.solutions),
+    );
+    if (
+      nextOptions.length > 1 && bigOptions.length > 1 &&
+      bigOptions[0][1] >= nextOptions.length
+    ) {
+      return pick(bigOptions)[0];
+    }
+    return nextOptions.length ? pick(nextOptions)[0] : undefined;
+  }
+}
+const world = new WordleWorld({ solutions, valid });
+
+const playGame = (needle: string, start: string) => {
+  const game = new WordleGame(world, needle);
+  let word: string | undefined = start;
+  let step = 0;
+  while (word) {
+    const mark = game.playWord(word);
+    console.log(
+      `${++step} ${word}: ${mark} (${game.remaining.length} remaining)`,
+    );
+    if (mark === "ggggg") return step;
+    word = game.nextWord();
+  }
+  console.log(
+    `${++step} ${
+      game.remaining[0]
+    }: ggggg (${game.remaining.length} remaining)`,
+  );
+  return step;
+};
+
+playGame("older", "trace");
