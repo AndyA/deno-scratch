@@ -26,6 +26,7 @@ class CouchResultStream extends TransformStream<string, string> {
   constructor() {
     super({
       transform: (chunk, controller) => {
+        console.log(chunk);
         switch (this.state) {
           case "INIT":
             if (/\"rows\":\[/.test(chunk)) {
@@ -35,11 +36,13 @@ class CouchResultStream extends TransformStream<string, string> {
               controller.enqueue(chunk + "\n");
             }
             break;
+
           case "ARRAY":
             if (chunk !== "]}") {
               controller.enqueue(chunk.replace(/,$/, "") + "\n");
             }
             break;
+
           case "PASS":
             controller.enqueue(chunk + "\n");
             break;
@@ -55,12 +58,14 @@ router.get("/proxy/:path*", async (ctx) => {
   const url = pathToURL(path);
   url.search = ctx.request.url.search;
   const res = await fetch(url);
+  console.log(res.headers);
   if (!res.body) throw new Error(`No body`);
   const lines = res.body
     .pipeThrough(new TextDecoderStream())
     .pipeThrough(new TextLineStream())
     .pipeThrough(new CouchResultStream())
     .pipeThrough(new TextEncoderStream());
+  ctx.response.headers = res.headers;
   ctx.response.body = readerFromStreamReader(lines.getReader());
 });
 
