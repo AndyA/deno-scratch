@@ -1,20 +1,30 @@
-// const inflater = new DecompressionStream("deflate");
+import { readableStreamFromReader } from "https://deno.land/std@0.153.0/streams/conversion.ts";
+import { writableStreamFromWriter } from "https://deno.land/std@0.153.0/streams/conversion.ts";
+import { TextLineStream } from "https://deno.land/std@0.160.0/streams/mod.ts";
 
-const deflator = new CompressionStream("deflate");
-
-const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
-
-const writer = async () => {
-  const w = deflator.writable.getWriter();
-  await w.write(Uint8Array.from([1, 2, 3, 4, 5, 6]));
-  await w.close();
-};
-
-const reader = async () => {
-  for await (const chunk of deflator.readable) {
-    console.log(`read`, chunk);
+class URLDecodeStream extends TransformStream<string, string> {
+  constructor() {
+    super({
+      transform: (chunk, controller) => {
+        try {
+          const line = JSON.parse(chunk);
+          const { origin, pathname, search } = new URL(line);
+          controller.enqueue(
+            JSON.stringify({ origin, pathname, search }) + "\n",
+          );
+        } catch (e) {
+          console.error(`${e}`);
+        }
+      },
+    });
   }
-};
+}
 
-await Promise.all([reader(), writer()]);
-console.log(`done`);
+await readableStreamFromReader(Deno.stdin)
+  .pipeThrough(new TextDecoderStream())
+  .pipeThrough(new TextLineStream())
+  .pipeThrough(new URLDecodeStream())
+  .pipeThrough(new TextEncoderStream())
+  .pipeTo(
+    writableStreamFromWriter(Deno.stdout),
+  );
