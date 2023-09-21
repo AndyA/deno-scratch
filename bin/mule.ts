@@ -25,6 +25,4 @@ await readableStreamFromReader(Deno.stdin)
   .pipeThrough(new TextLineStream())
   .pipeThrough(new URLDecodeStream())
   .pipeThrough(new TextEncoderStream())
-  .pipeTo(
-    writableStreamFromWriter(Deno.stdout),
-  );
+  .pipeTo(writableStreamFromWriter(Deno.stdout));
