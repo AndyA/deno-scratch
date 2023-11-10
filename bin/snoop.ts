@@ -2,7 +2,9 @@ import { SnoopLogger, snoopy } from "../lib/snoop.ts";
 
 const logger: SnoopLogger = (path, value) => {
   void value;
+  const e = new Error("Not really");
   console.log(`$.${path.join(".")}`);
+  console.log(e.stack?.split(/\n/).slice(3).join("\n"));
 };
 
 const coverage = snoopy(logger);
