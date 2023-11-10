@@ -9,12 +9,16 @@ const logger: SnoopLogger = (path, value) => {
 
 const coverage = snoopy(logger);
 
-const data = {
-  author: { name: "Andy Armstrong", email: "andy@hexten.net" },
-  tags: ["programmer", "idiot"],
+const main = () => {
+  const data = {
+    author: { name: "Andy Armstrong", email: "andy@hexten.net" },
+    tags: ["programmer", "idiot"],
+  };
+
+  const prox = coverage(data);
+  console.log(prox.author.name);
+  console.log(prox.tags[0]);
+  console.log(prox.author === prox.author);
 };
 
-const prox = coverage(data);
-console.log(prox.author.name);
-console.log(prox.tags[0]);
-console.log(prox.author === prox.author);
+main();
