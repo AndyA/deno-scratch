@@ -14,13 +14,13 @@ const main = () => {
   const data = {
     author: { name: "Andy Armstrong", email: "andy@hexten.net" },
     tags: ["idiot", "programmer", "lazy"],
+    a: { deeply: { nested: { array: [{ of: "stuff" }] } } },
   };
 
   const prox = instrument(data);
   console.log(prox.author.name);
-  // console.log(prox.tags[1]);
-  const foo = prox.tags;
-  console.log(foo[2]);
+  const foo = prox.a.deeply;
+  console.log(foo.nested.array[0].of);
   // console.log(JSON.stringify(prox.tags));
 };
 
