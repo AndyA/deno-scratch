@@ -11,16 +11,24 @@ const logger = (path: string[], value: unknown) => {
 const instrument = snoopy(logger);
 
 const main = () => {
+  const author = { name: "Andy Armstrong", email: "andy@hexten.net" };
+  const a = { deeply: { nested: { array: [{ of: "stuff" }] } } };
   const data = {
-    author: { name: "Andy Armstrong", email: "andy@hexten.net" },
+    a,
+    author,
     tags: ["idiot", "programmer", "lazy"],
-    a: { deeply: { nested: { array: [{ of: "stuff" }] } } },
+    also: { author, a },
   };
 
   const prox = instrument(data);
   console.log(prox.author.name);
-  const foo = prox.a.deeply;
-  console.log(foo.nested.array[0].of);
+  console.log(prox.also.author.email);
+
+  const { deeply } = prox.a;
+  console.log(deeply.nested.array[0].of);
+  const { nested } = prox.a.deeply;
+  console.log(nested.array[0].of);
+  console.log(prox.also.a.deeply.nested.array[0].of);
   // console.log(JSON.stringify(prox.tags));
 };
 
