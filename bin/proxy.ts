@@ -29,7 +29,7 @@ class CouchResultStream extends TransformStream<string, string> {
         console.log(chunk);
         switch (this.state) {
           case "INIT":
-            if (/\"rows\":\[/.test(chunk)) {
+            if (/"rows":\[/.test(chunk)) {
               this.state = "ARRAY";
             } else {
               this.state = "PASS";

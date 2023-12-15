@@ -81,19 +81,6 @@ const solve = (needle: string, words: WordSet) => {
   return ln;
 };
 
-if (0) {
-  const dict = [...solutions];
-  const stats: Record<number, number> = {};
-  for (const word of solutions) {
-    console.log(`Needle: ${word}`);
-    const rows = solve(word, dict);
-    stats[rows] = (stats[rows] || 0) + 1;
-    console.log();
-  }
-
-  console.log(stats);
-}
-
 const hs1 = filterOnLine([...solutions], {
   word: "trace",
   state: ["b", "y", "b", "b", "y"],

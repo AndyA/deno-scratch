@@ -1,5 +1,11 @@
 export class Vertex {}
-export class HyperEdge {}
+
+export class HyperEdge {
+  next: HyperEdge | false;
+  constructor(next?: HyperEdge | false) {
+    this.next = next ?? this;
+  }
+}
 
 interface PathSegment<V extends Vertex, E extends HyperEdge> {
   from: V;
@@ -9,31 +15,38 @@ interface PathSegment<V extends Vertex, E extends HyperEdge> {
 
 type Path<V extends Vertex, E extends HyperEdge> = PathSegment<V, E>[];
 
-const intersect = <T>(a: Set<T>, b: Set<T>): T[] =>
-  [...a].filter((m) => b.has(m));
-
 export class HyperGraph<V extends Vertex, E extends HyperEdge> {
   vertices = new Map<V, Set<E>>();
   edges = new Map<E, Set<V>>();
 
   verticesForEdge(edge: E): Set<V> {
-    let set = this.edges.get(edge);
-    if (!set) this.edges.set(edge, set = new Set<V>());
-    return set;
+    let vSet = this.edges.get(edge);
+    if (!vSet) this.edges.set(edge, vSet = new Set<V>());
+    return vSet;
   }
 
   edgesForVertex(vertex: V): Set<E> {
-    let set = this.vertices.get(vertex);
-    if (!set) this.vertices.set(vertex, set = new Set<E>());
-    return set;
+    let eSet = this.vertices.get(vertex);
+    if (!eSet) this.vertices.set(vertex, eSet = new Set<E>());
+    return eSet;
   }
 
-  link(edge: E, ...vertices: V[]) {
+  link(edge: E, ...vertices: V[]): this {
     const vSet = this.verticesForEdge(edge);
     for (const vertex of vertices) {
       const eSet = this.edgesForVertex(vertex);
       vSet.add(vertex);
       eSet.add(edge);
+    }
+    return this;
+  }
+
+  unlink(edge: E, ...vertices: V[]): this {
+    const vSet = this.verticesForEdge(edge);
+    for (const vertex of vertices) {
+      const eSet = this.edgesForVertex(vertex);
+      vSet.delete(vertex);
+      eSet.delete(edge);
     }
     return this;
   }
@@ -53,14 +66,15 @@ export class HyperGraph<V extends Vertex, E extends HyperEdge> {
       const next = queue.shift();
       if (!next) return false;
       const { prefix, from } = next;
-      const fromSet = this.edgesForVertex(from);
+      const fromSet = [...this.edgesForVertex(from)].map((edge) => edge.next)
+        .filter((edge) => edge !== false);
       const toSet = this.edgesForVertex(to);
-      const common = intersect(fromSet, toSet);
+      const common = fromSet.filter((edge) => toSet.has(edge as E));
       if (common.length) {
-        const edge = common[0];
+        const edge = common[0] as E;
         return [...prefix, { from, to, edge }];
       }
-      for (const edge of [...fromSet]) {
+      for (const edge of [...fromSet] as E[]) {
         const vertices = this.verticesForEdge(edge);
         for (const vertex of vertices) {
           if (seen.has(vertex)) continue;
@@ -85,8 +99,8 @@ class Person extends Vertex {
 
 class Relation extends HyperEdge {
   name: string;
-  constructor(name: string) {
-    super();
+  constructor(name: string, next?: Relation | false) {
+    super(next);
     this.name = name;
   }
 }
@@ -115,6 +129,12 @@ hg.link(pike, andy, smoo, pizzo).link(animal, pizzo, bob, echo).link(
   trish,
   echo,
 );
+
+// A directed edge
+const isPet = new Relation("is a pet", false);
+const hasPet = new Relation("has a pet", isPet);
+
+hg.link(isPet, pizzo, bob, echo).link(hasPet, andy, smoo, liz);
 
 // console.log(hg);
 

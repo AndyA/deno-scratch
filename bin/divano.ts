@@ -15,7 +15,7 @@ export interface CouchDocument {
   _deleted?: true;
 }
 
-const dbNameSchema = z.string().regex(/^[a-z][a-z0-9_$()+\/-]*$/);
+const dbNameSchema = z.string().regex(/^[a-z][a-z0-9_$()+/-]*$/);
 export type DatabaseName = z.input<typeof dbNameSchema>;
 const booleanSchema = z.union([z.enum(["true", "false"]), z.boolean()])
   .transform(
