@@ -1,86 +1,84 @@
-export class Vertex {}
+import { httpErrors } from "https://deno.land/x/oak@v10.1.0/httpError.ts";
 
-export class HyperEdge {
-  next: HyperEdge | false;
-  constructor(next?: HyperEdge | false) {
-    this.next = next ?? this;
+class SetMap<K, V> {
+  private readonly setMap = new Map<K, Set<V>>();
+  for(key: K): Set<V> {
+    let set = this.setMap.get(key);
+    if (!set) this.setMap.set(key, set = new Set());
+    return set;
   }
 }
 
-interface PathSegment<V extends Vertex, E extends HyperEdge> {
-  from: V;
-  to: V;
-  edge: E;
+class GraphEntity<T> {
+  readonly value: T;
+
+  constructor(value: T) {
+    this.value = value;
+  }
 }
 
-type Path<V extends Vertex, E extends HyperEdge> = PathSegment<V, E>[];
+export class Vertex<V> extends GraphEntity<V> {}
+export class HyperEdge<E> extends GraphEntity<E> {}
 
-export class HyperGraph<V extends Vertex, E extends HyperEdge> {
-  vertices = new Map<V, Set<E>>();
-  edges = new Map<E, Set<V>>();
+export interface PathSegment<V, E> {
+  from: Vertex<V>;
+  edge: HyperEdge<E>;
+  to: Vertex<V>;
+}
 
-  verticesForEdge(edge: E): Set<V> {
-    let vSet = this.edges.get(edge);
-    if (!vSet) this.edges.set(edge, vSet = new Set<V>());
-    return vSet;
-  }
+export type Path<V, E> = PathSegment<V, E>[];
 
-  edgesForVertex(vertex: V): Set<E> {
-    let eSet = this.vertices.get(vertex);
-    if (!eSet) this.vertices.set(vertex, eSet = new Set<E>());
-    return eSet;
-  }
+export class HyperGraph<V, E> {
+  // edges at the entry of each vertex
+  entryEdges = new SetMap<Vertex<V>, HyperEdge<E>>();
+  // edges at the exit of each vertex
+  exitEdges = new SetMap<Vertex<V>, HyperEdge<E>>();
+  // vertices at the exit of each edge
+  exitVertices = new SetMap<HyperEdge<E>, Vertex<V>>();
 
-  link(edge: E, ...vertices: V[]): this {
-    const vSet = this.verticesForEdge(edge);
-    for (const vertex of vertices) {
-      const eSet = this.edgesForVertex(vertex);
-      vSet.add(vertex);
-      eSet.add(edge);
+  relate(from: Vertex<V>[], edge: HyperEdge<E>, to: Vertex<V>[]): this {
+    for (const vertex of from) this.exitEdges.for(vertex).add(edge);
+
+    const exit = this.exitVertices.for(edge);
+    for (const vertex of to) {
+      exit.add(vertex);
+      this.entryEdges.for(vertex).add(edge);
     }
+
     return this;
   }
 
-  unlink(edge: E, ...vertices: V[]): this {
-    const vSet = this.verticesForEdge(edge);
-    for (const vertex of vertices) {
-      const eSet = this.edgesForVertex(vertex);
-      vSet.delete(vertex);
-      eSet.delete(edge);
-    }
-    return this;
+  link(vertices: Vertex<V>[], edge: HyperEdge<E>): this {
+    return this.relate(vertices, edge, vertices);
   }
 
-  path(from: V, to: V): Path<V, E> | false {
+  *paths(from: Vertex<V>, to: Vertex<V>): Generator<Path<V, E>> {
     interface QueueSlot {
       prefix: Path<V, E>;
-      from: V;
+      from: Vertex<V>;
     }
 
-    if (from === to) return [];
+    if (from === to) yield [];
 
     const queue: QueueSlot[] = [{ prefix: [], from }];
-    const seen = new Set<V>([from]);
+    const seen = new Set([from]);
+    const entries = this.entryEdges.for(to);
 
     for (;;) {
       const next = queue.shift();
-      if (!next) return false;
+      if (!next) break;
       const { prefix, from } = next;
-      const fromSet = [...this.edgesForVertex(from)].map((edge) => edge.next)
-        .filter((edge) => edge !== false);
-      const toSet = this.edgesForVertex(to);
-      const common = fromSet.filter((edge) => toSet.has(edge as E));
-      if (common.length) {
-        const edge = common[0] as E;
-        return [...prefix, { from, to, edge }];
-      }
-      for (const edge of [...fromSet] as E[]) {
-        const vertices = this.verticesForEdge(edge);
-        for (const vertex of vertices) {
+      const exits = this.exitEdges.for(from);
+      const common = [...exits].filter((edge) => entries.has(edge));
+      for (const edge of common) yield [...prefix, { from, edge, to }];
+
+      for (const edge of [...exits]) {
+        const next = this.exitVertices.for(edge);
+        for (const vertex of next) {
           if (seen.has(vertex)) continue;
           seen.add(vertex);
           queue.push({
-            prefix: [...prefix, { from, to: vertex, edge }],
+            prefix: [...prefix, { from, edge, to: vertex }],
             from: vertex,
           });
         }
@@ -89,67 +87,73 @@ export class HyperGraph<V extends Vertex, E extends HyperEdge> {
   }
 }
 
-class Person extends Vertex {
+class Labelled {
   name: string;
+
   constructor(name: string) {
-    super();
     this.name = name;
   }
 }
 
-class Relation extends HyperEdge {
-  name: string;
-  constructor(name: string, next?: Relation | false) {
-    super(next);
-    this.name = name;
-  }
-}
+class Person extends Labelled {}
+class Relation extends Labelled {}
 
-const showPath = (path: Path<Person, Relation>) =>
-  path.map((step) => `${step.from.name} -> ${step.edge.name} -> `)
-    .concat(path[path.length - 1].to.name).join("");
+const showPath = (path: Path<Person, Relation>) => {
+  if (!path.length) return "Yes";
+  return path.map(
+    (seg) => {
+      return [seg.from.value.name, seg.edge.value.name, seg.to.value.name].join(
+        " ",
+      );
+    },
+  ).join(", ");
+};
 
 const hg = new HyperGraph<Person, Relation>();
 
-const andy = new Person("Andy");
-const smoo = new Person("Smoo");
-const pizzo = new Person("Pizzo!");
-const bob = new Person("Bob!");
-const liz = new Person("Liz");
-const trish = new Person("Trish");
-const echo = new Person("Echo!");
+const andy = new Vertex(new Person("Andy"));
+const smoo = new Vertex(new Person("Smoo"));
+const liz = new Vertex(new Person("Liz"));
+const howard = new Vertex(new Person("H"));
 
-const pike = new Relation("is a resident of PLC");
-const animal = new Relation("is an animal");
-const neighbour = new Relation("is a neighbour");
+hg.relate(
+  [andy],
+  new HyperEdge(new Relation("is husband of")),
+  [smoo],
+).relate(
+  [smoo],
+  new HyperEdge(new Relation("is wife of")),
+  [andy],
+).link([smoo, andy], new HyperEdge(new Relation("lives with")));
 
-hg.link(pike, andy, smoo, pizzo).link(animal, pizzo, bob, echo).link(
-  neighbour,
-  liz,
-  trish,
-  echo,
+hg.relate(
+  [howard],
+  new HyperEdge(new Relation("is husband of")),
+  [liz],
+).relate(
+  [liz],
+  new HyperEdge(new Relation("is wife of")),
+  [howard],
 );
-
-// A directed edge
-const isPet = new Relation("is a pet", false);
-const hasPet = new Relation("has a pet", isPet);
-
-hg.link(isPet, pizzo, bob, echo).link(hasPet, andy, smoo, liz);
 
 // console.log(hg);
 
-const pairs = [{ from: smoo, to: liz }, { from: liz, to: trish }, {
-  from: smoo,
-  to: bob,
-}] as const;
+const cases = [
+  { from: andy, to: andy },
+  { from: andy, to: smoo },
+  {
+    from: smoo,
+    to: andy,
+  },
+  { from: liz, to: howard },
+  { from: smoo, to: howard },
+] as const;
 
-const findPaths = (from: Person, to: Person) => {
-  const path = hg.path(from, to);
-  if (path === false) console.log(`no path from ${from.name} to ${to.name}`);
-  else console.log(showPath(path));
-};
-
-for (const { from, to } of pairs) {
-  findPaths(from, to);
-  findPaths(to, from);
+for (const { from, to } of cases) {
+  console.log(`${from.value.name} --> ${to.value.name}`);
+  let limit = 8;
+  for (const route of hg.paths(from, to)) {
+    console.log(`  ${showPath(route)}`);
+    if (--limit <= 0) break;
+  }
 }
