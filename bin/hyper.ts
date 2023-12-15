@@ -68,7 +68,9 @@ export class HyperGraph<V, E> {
       const { prefix, from } = next;
       const exits = this.exitEdges.for(from);
       const common = [...exits].filter((edge) => entries.has(edge));
-      for (const edge of common) yield [...prefix, { from, edge, to }];
+      for (const edge of common) {
+        if (from !== to) yield [...prefix, { from, edge, to }];
+      }
 
       for (const edge of [...exits]) {
         const next = this.exitVertices.for(edge);
@@ -111,24 +113,20 @@ const hg = new HyperGraph<Person, Relation>();
 
 const andy = new Vertex(new Person("Andy"));
 const smoo = new Vertex(new Person("Smoo"));
+const pizzo = new Vertex(new Person("Pizzo!"));
 const liz = new Vertex(new Person("Liz"));
 const howard = new Vertex(new Person("H"));
 
-hg.relate(
-  [andy],
-  new HyperEdge(new Relation("is husband of")),
-  [smoo],
-).relate(
+hg.relate([andy], new HyperEdge(new Relation("is husband of")), [smoo]).relate(
   [smoo],
   new HyperEdge(new Relation("is wife of")),
   [andy],
 ).link([smoo, andy], new HyperEdge(new Relation("lives with")));
 
-hg.relate(
-  [howard],
-  new HyperEdge(new Relation("is husband of")),
-  [liz],
-).relate(
+hg.relate([pizzo], new HyperEdge(new Relation("is pet of")), [andy, smoo])
+  .relate([andy, smoo], new HyperEdge(new Relation("has pet")), [pizzo]);
+
+hg.relate([howard], new HyperEdge(new Relation("is husband of")), [liz]).relate(
   [liz],
   new HyperEdge(new Relation("is wife of")),
   [howard],
@@ -149,7 +147,7 @@ const cases = [
 
 for (const { from, to } of cases) {
   console.log(`${from.value.name} --> ${to.value.name}`);
-  let limit = 8;
+  let limit = 10;
   for (const route of hg.paths(from, to)) {
     console.log(`  ${showPath(route)}`);
     if (--limit <= 0) break;
