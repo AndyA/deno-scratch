@@ -66,11 +66,10 @@ export class HyperGraph<V, E> {
       const next = queue.shift();
       if (!next) break;
       const { prefix, from } = next;
+      if (from === to) continue;
       const exits = this.exitEdges.for(from);
       const common = [...exits].filter((edge) => entries.has(edge));
-      for (const edge of common) {
-        if (from !== to) yield [...prefix, { from, edge, to }];
-      }
+      for (const edge of common) yield [...prefix, { from, edge, to }];
 
       for (const edge of [...exits]) {
         const next = this.exitVertices.for(edge);
@@ -122,7 +121,6 @@ hg.relate([andy], new HyperEdge(new Relation("is husband of")), [smoo]).relate(
   new HyperEdge(new Relation("is wife of")),
   [andy],
 ).link([smoo, andy], new HyperEdge(new Relation("lives with")));
-
 hg.relate([pizzo], new HyperEdge(new Relation("is pet of")), [andy, smoo])
   .relate([andy, smoo], new HyperEdge(new Relation("has pet")), [pizzo]);
 
