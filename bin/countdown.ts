@@ -149,18 +149,7 @@ type Game = {
 };
 
 const games: Game[] = [
-  { want: 3, have: [1, 1, 1, 1, 1, 1, 1] },
-  { want: 0, have: [1, 1] },
-  { want: 5, have: [12, 3, 1] },
-  { want: 57, have: [100, 3, 1, 7] },
-  { want: 98, have: [25, 7, 3, 17, 18] },
-  { want: 99, have: [100, 3, 3] },
-  { want: 45, have: [100, 75, 25, 50, 2, 1] },
-  { want: 446, have: [100, 75, 25, 50, 2, 1] },
-  { want: 442, have: [100, 75, 25, 50, 2, 1] },
-  { want: 441, have: [50, 2, 1, 100, 75, 25] },
-  { want: 1238, have: [100, 75, 50, 9, 8, 3] },
-  { want: 1937, have: [100, 75, 50, 9, 8, 3] },
+  { want: 885, have: [25, 5, 3, 4, 9, 5] },
 ];
 
 for (const { want, have } of games) {
