@@ -1,42 +1,18 @@
 import rough from "npm:roughjs";
+import { createCanvas } from "https://deno.land/x/canvas/mod.ts";
 
-class MockNode {
-  readonly ns: string;
-  readonly tagName: string;
-  readonly ownerDocument: MockDocument;
+const outFile = await Deno.open("movie.mpng", { create: true, write: true });
 
-  readonly attrs: Record<string, string> = {};
-  readonly children: MockNode[] = [];
+const out = outFile.writable.getWriter();
+await out.ready;
 
-  constructor(ns: string, tagName: string, ownerDocument: MockDocument) {
-    this.ns = ns;
-    this.tagName = tagName;
-    this.ownerDocument = ownerDocument;
-  }
-
-  setAttribute(key: string, value: string) {
-    this.attrs[key] = value;
-  }
-
-  appendChild(node: MockNode) {
-    this.children.push(node);
-  }
+for (let i = 0; i < 50; i++) {
+  console.log(`Frame ${i}`);
+  const canvas = createCanvas(1920, 1080);
+  // @ts-expect-error types
+  const r = rough.canvas(canvas, { seed: i });
+  r.circle(1920 / 2, 1080 / 2, 500, { fill: "red", stroke: "yellow" });
+  await out.write(canvas.toBuffer());
 }
 
-class MockDocument {
-  createElementNS(ns: string, tagName: string) {
-    return new MockNode(ns, tagName, this);
-  }
-}
-
-const root = new MockNode(
-  "http://www.w3.org/2000/html",
-  "html",
-  new MockDocument(),
-);
-
-console.log(rough);
-const r = rough.svg(root);
-const rect = r.rectangle(0, 0, 1, 1);
-const circle = r.circle(10, 10, 10);
-console.log({ root, rect, circle });
+await out.close();
