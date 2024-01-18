@@ -1,6 +1,5 @@
 import { assertEquals } from "https://deno.land/std@0.207.0/assert/mod.ts";
 import { insert, TrieNode } from "./crit-trie.ts";
-import { preferredMediaTypes } from "https://deno.land/x/oak@v10.1.0/negotiation/mediaType.ts";
 
 interface TestCase {
   inserts: number[];
