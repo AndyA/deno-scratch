@@ -63,7 +63,7 @@ const UNITS = [
 
 export type Unit = typeof UNITS[number];
 export type Dimensioned = { value: number; unit: Unit };
-export type VariableValue = string | Dimensioned | Date;
+export type VariableValue = string | Dimensioned | Date | number;
 export type EventRecord = { date: Date; event: string };
 
 const isUnit = (unit: string): unit is Unit => UNITS.includes(unit as Unit);
@@ -73,9 +73,11 @@ const parseValue = (value: string): VariableValue => {
     const d = new Date(value);
     if (!isNaN(d.getTime())) return d;
   }
-  const m = value.match(/^(-?\d+(?:\.\d+)?)\s+(\w+)$/);
-  if (m) {
-    const [, num, unit] = m;
+  const mn = value.match(/^(-?\d+(?:\.\d+)?)$/);
+  if (mn) return Number(mn[1]);
+  const mu = value.match(/^(-?\d+(?:\.\d+)?)\s+(\w+)$/);
+  if (mu) {
+    const [, num, unit] = mu;
     if (isUnit(unit)) return { value: Number(num), unit };
   }
   return value;
