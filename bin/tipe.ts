@@ -39,7 +39,6 @@ export class SetGraph<T> {
           console.log(`equal`);
           return node;
         }
-        console.log(`invert`);
         throw new Error(`No!`);
         // Pivot
         // return { set, children: [node] };
@@ -66,7 +65,7 @@ export class SetGraph<T> {
 
       // if (subs.length === 0) return node;
 
-      console.log(`push subs:${subs.length}, rest:${rest.length}`);
+      console.log(`push subs: ${subs.length}, rest: ${rest.length}`);
 
       // Make a new superset node containing all the
       // nodes we're a subset of
