@@ -93,11 +93,13 @@ const showGraph = (node: Node<string>, depth = 0) => {
 const cmpSize = <T>(a: Set<T>, b: Set<T>): number => a.size - b.size;
 
 const sets = [
+  ["a", "b", "q", "c", "d"],
   ["a"],
   ["q", "r", "a"],
   ["b", "c", "d"],
   ["b", "c"],
   ["a", "b", "c"],
+  ["c", "d", "a", "q"],
   ["c", "d"],
   [
     "a",
@@ -106,6 +108,7 @@ const sets = [
   ["d"],
   ["q"],
   ["c"],
+  ["a", "c", "q"],
 ];
 const prepared = sets.map((keys) => new Set(keys)).sort(cmpSize);
 console.log(prepared);
